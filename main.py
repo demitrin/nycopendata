@@ -91,6 +91,7 @@ def main():
                 extracted_clock_time_options.append({
                     'id': str(uuid.uuid4()),
                     'clock_time': row[f'{measure}_leading_4'],
+                    'measure_column_value': row[measure],
                     'measure_columns': [measure],
                     'category_columns': [category_columns],
                     'dataset': args.input_file,
@@ -99,6 +100,7 @@ def main():
                 extracted_clock_time_options.append({
                     'id': str(uuid.uuid4()),
                     'clock_time': row[f'{measure}_leading_3'],
+                    'measure_column_value': row[measure],
                     'measure_columns': [measure],
                     'category_columns': [category_columns],
                     'dataset': args.input_file,

@@ -22,11 +22,12 @@ def upgrade() -> None:
         'clock_time_options',
         sa.Column('id', sa.String(), primary_key=True, default=str(uuid.uuid4())),
         sa.Column('clock_time', sa.Integer, nullable=False),
-        sa.Column('measure_columns', sa.ARRAY(sa.String())),
-        sa.Column('category_columns', sa.ARRAY(sa.String())),
-        sa.Column('dataset', sa.String),
+        sa.Column('measure_column_value', sa.DECIMAL, nullable=False),
+        sa.Column('measure_columns', sa.ARRAY(sa.String()), nullable=False),
+        sa.Column('category_columns', sa.ARRAY(sa.String()), nullable=False),
+        sa.Column('dataset', sa.String, nullable=False),
     )
 
 
 def downgrade() -> None:
-    op.drop_table('account')
+    op.drop_table('clock_time_options')
