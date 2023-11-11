@@ -1,6 +1,14 @@
 import argparse
 import pandas
 import numpy as np
+import re
+import os
+import uuid
+
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker
+
+from models import ClockTimeOptions
 
 # we want:
 # 1. path to the dataset (assume csv)
@@ -14,7 +22,7 @@ parser.add_argument('--measure_columns', type=str, help='comma-separated list of
 
 def numbers_of_interest():
     numbers = set()
-    leading_digits = range(1,13)
+    leading_digits = range(1,25)
     trailing_digits = range(0,61)
 
     for leading_digit in leading_digits:
@@ -36,6 +44,9 @@ def leading_4_or_none(num):
         return leading_4
     return None
 
+def sanitize_column_name(col_name):
+     return re.sub(r'[^a-zA-Z0-9]', '_', col_name).lower()
+
 def main():
     args = parser.parse_args()
 
@@ -47,11 +58,14 @@ def main():
 
     # create pandas dataframe from dataset
     table_df = pandas.read_csv(args.input_file)
-    # case insensitive by going to lowercase
-    table_df.columns = [col.replace(' ', '_') for col in table_df.columns.str.lower()]
+    
+    # clean column names
+    table_df.columns = [sanitize_column_name(col) for col in table_df.columns.str.lower()]
+    category_columns = [sanitize_column_name(col) for col in args.category_columns.split(",")]
+    measure_columns = [sanitize_column_name(col) for col in args.measure_columns.split(",")]
+    table_df = table_df.drop(columns=[col for col in table_df.columns if col not in measure_columns and col not in category_columns])
 
-    # first, look at raw datapoints for every numerical column looking for numbers of interest
-    measure_columns = args.measure_columns.lower().replace(' ', '_').split(',')
+    # find rows with valid clock times w/leading 3 or leading 4 digits
     boolean_columns = []
     for measure in measure_columns:
         table_df[f'{measure}_leading_3'] = table_df[measure].astype(str).str[:3]
@@ -61,10 +75,42 @@ def main():
         table_df[f'{measure}_leading_4_good'] = table_df[f'{measure}_leading_4'].isin(clock_numbers)
         boolean_columns.append(f'{measure}_leading_4_good')
 
-    print(table_df)
-    print(table_df[table_df.eval(' or '.join(boolean_columns))].to_string())
+    table_df = table_df[table_df.eval(' or '.join(boolean_columns))]
+
+    # write rows to the DB
+    extracted_clock_time_options = []
+
+    for index, row in table_df.iterrows():
+        for measure in measure_columns:
+            if row[f'{measure}_leading_4_good']:
+                extracted_clock_time_options.append({
+                    'id': str(uuid.uuid4()),
+                    'clock_time': row[f'{measure}_leading_4'],
+                    'measure_columns': [measure],
+                    'category_columns': [category_columns],
+                    'dataset': args.input_file,
+                })
+            if row[f'{measure}_leading_3_good']:
+                extracted_clock_time_options.append({
+                    'id': str(uuid.uuid4()),
+                    'clock_time': row[f'{measure}_leading_3'],
+                    'measure_columns': [measure],
+                    'category_columns': [category_columns],
+                    'dataset': args.input_file,
+                })
+
+    engine = create_engine(os.getenv("DB_URI"))
+    Session = sessionmaker(bind=engine)
+    session = Session()
+    print(f'inserting {len(extracted_clock_time_options)} rows')
+    session.bulk_insert_mappings(ClockTimeOptions, extracted_clock_time_options)
+    session.commit()
+    session.close()
+
+
     # then, create a pivot table for every combination of categories of interest
     # in pivot table, calculate aggregates
+
 '''
 np.sum	np.nansum	Compute sum of elements
 np.prod	np.nanprod	Compute product of elements
@@ -80,14 +126,7 @@ np.percentile	np.nanpercentile	Compute rank-based statistics of elements
 np.any	N/A	Evaluate whether any elements are true
 np.all
 '''
-# NOTE: could decide not to do pairwise until later
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
-
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     main()
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
