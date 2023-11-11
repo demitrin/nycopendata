@@ -50,10 +50,21 @@ Example connection string: `postgresql://avimoondra:password@localhost:5432/post
 ### Running the Script
 
 Activate the virtual environment if it's not already activated:
-
 ```bash
 $ source venv/bin/activate
+```
 
-$ DB_URI=postgresql://avimoondra:password@localhost:5432/postgres python3 main.py --input_file Water_Consumption_in_the_City_of_New_York_20231110.csv --measure_columns='NYC Consumption(Million gallons per day),Per Capita(Gallons per person per day),New York City Population' --category_columns='Year'
+Store `DB_URI` in your `.env` file, e.g.:
+```
+DB_URI=postgresql://avimoondra:password@localhost:5432/postgres
+```
 
+Run migrations
+```bash
+alembic upgrade head
+```
+
+Run script
+```bash
+$ python3 main.py --input_file Water_Consumption_in_the_City_of_New_York_20231110.csv --measure_columns='NYC Consumption(Million gallons per day),Per Capita(Gallons per person per day),New York City Population' --category_columns='Year'
 ```

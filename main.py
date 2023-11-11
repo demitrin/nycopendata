@@ -10,6 +10,11 @@ from sqlalchemy.orm import sessionmaker
 
 from models import ClockTimeOptions
 
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
 # we want:
 # 1. path to the dataset (assume csv)
 # 2. all numerical columns of interest (measures)
