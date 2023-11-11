@@ -96,7 +96,7 @@ def main():
                     'category_columns': [category_columns],
                     'dataset': args.input_file,
                 })
-            if row[f'{measure}_leading_3_good']:
+            elif row[f'{measure}_leading_3_good']:
                 extracted_clock_time_options.append({
                     'id': str(uuid.uuid4()),
                     'clock_time': row[f'{measure}_leading_3'],
