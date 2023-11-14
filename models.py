@@ -15,4 +15,6 @@ class ClockTimeOptions(Base):
     measure_column_value = Column(Numeric, nullable=False)
     measure_columns = Column(ARRAY(String), nullable=False)
     category_columns = Column(ARRAY(String), nullable=False)
+    category_columns_values = Column(ARRAY(String), nullable=True)
+    aggregate_function = Column(String, nullable=True)
     dataset = Column(String, nullable=False)
