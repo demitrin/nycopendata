@@ -1,0 +1,10 @@
+.clock {
+  font-size: 3em;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
