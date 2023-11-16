@@ -3,12 +3,11 @@ function Footer() {
     <div className="footer">
       <div>
         <a
-          className="nycOpenData"
           href="https://2023.open-data.nyc/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <img src="/NYCOpenData_Logo.png"></img>
+          <img className="nycOpenData" src="/NYCOpenData_Logo.png"></img>
         </a>
       </div>
       <div>
