@@ -112,7 +112,9 @@ const Clock = () => {
         <div className="prompt">{clockRecord.prompt}</div>
         <div className="datasource">
           <div>{clockRecord.datasource}</div>
-          <div>{clockRecord.department}</div>
+          <div>
+            <b>{clockRecord.department}</b>
+          </div>
         </div>
       </div>
     </div>

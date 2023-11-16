@@ -1,4322 +1,4322 @@
 export default [
   {
     "clockTime": 100,
-    "prompt": "Occaecat non deserunt ex deserunt ad ut velit do laborum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Reprehenderit culpa do veniam elit tempor esse velit aute officia officia fugiat aliqua tempor sint.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 101,
-    "prompt": "Reprehenderit ipsum deserunt incididunt eu non enim dolor excepteur anim consequat sit ut aliquip officia nisi.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "In sit culpa sunt ea ullamco consequat aliquip ipsum ex culpa Lorem.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 1.02,
-    "prompt": "Dolore id est excepteur ullamco laborum reprehenderit do ea irure velit reprehenderit sint nostrud qui dolor.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Officia excepteur mollit ea et laborum do cillum dolore excepteur ad duis aliqua deserunt.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 103,
-    "prompt": "Non pariatur magna ea pariatur veniam est enim pariatur enim officia id.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Aliquip voluptate excepteur Lorem irure deserunt exercitation incididunt elit nostrud tempor magna duis ipsum.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 104,
-    "prompt": "Esse laborum reprehenderit Lorem ut et excepteur cupidatat tempor nulla.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Elit ea dolor nisi veniam ut exercitation magna enim enim dolor nostrud cillum velit sint.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 1.05,
-    "prompt": "Ad incididunt ut nisi fugiat do in irure irure voluptate enim in aliquip.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Et officia labore consectetur et consequat culpa ad consequat ipsum dolor in incididunt Lorem commodo exercitation.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 106,
-    "prompt": "Consectetur pariatur fugiat deserunt voluptate ex nostrud tempor excepteur aute duis.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Deserunt esse laborum cillum ipsum cupidatat ex et aute proident esse amet.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 107,
-    "prompt": "Dolor aliqua ad fugiat cupidatat mollit proident aliquip nostrud Lorem reprehenderit ullamco minim.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Dolore eiusmod nostrud officia consectetur sit cillum mollit nulla quis consequat cillum dolore proident occaecat ipsum.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 108,
-    "prompt": "Officia fugiat sit ut eiusmod dolor do sit adipisicing consectetur consectetur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1.08,
+    "prompt": "In eu velit ea sunt nulla irure elit ut dolor reprehenderit.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 1.09,
-    "prompt": "Et consectetur exercitation aliqua nostrud id duis nisi ipsum ea exercitation duis magna.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 109,
+    "prompt": "Consectetur culpa non consectetur adipisicing ea cupidatat commodo voluptate adipisicing et.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 110,
-    "prompt": "Veniam enim irure est laborum esse nulla ad id magna proident aliqua non laborum.",
+    "prompt": "Cillum excepteur quis id est elit anim ullamco ad ut et irure eu elit sint irure.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
+  },
+  {
+    "clockTime": 1.11,
+    "prompt": "Exercitation est aute excepteur est consectetur aliqua velit est consequat amet laboris.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 111,
-    "prompt": "Dolor exercitation anim quis commodo nostrud consequat dolore qui duis culpa esse nisi elit pariatur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 1.12,
-    "prompt": "Cillum laborum sunt ad ad non dolor sunt culpa adipisicing fugiat nisi Lorem officia nulla.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 112,
+    "prompt": "Officia laboris exercitation consectetur fugiat ad id adipisicing elit tempor non in.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 113,
-    "prompt": "Nostrud sunt laborum amet ea adipisicing qui anim fugiat tempor voluptate exercitation pariatur labore amet eiusmod.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Qui commodo dolor cupidatat fugiat Lorem id incididunt pariatur eu labore qui nisi ex anim deserunt.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 114,
-    "prompt": "Dolore sunt labore enim pariatur occaecat elit magna sunt dolore sint est duis cupidatat deserunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1.14,
+    "prompt": "Sunt proident labore excepteur nulla occaecat eu ex labore magna nostrud consectetur anim do.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 115,
-    "prompt": "Sit veniam tempor consectetur minim sunt occaecat velit voluptate reprehenderit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Reprehenderit duis nisi laboris fugiat anim Lorem Lorem anim irure.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 1.16,
-    "prompt": "Labore elit mollit ullamco quis aliquip ad magna cillum ea aliquip dolor elit laborum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 116,
+    "prompt": "Minim tempor eiusmod aute excepteur aliqua cillum excepteur eu dolor ullamco aute sunt quis minim aliqua.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 117,
-    "prompt": "Nulla occaecat irure ea ipsum id proident elit nostrud incididunt consectetur voluptate occaecat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Occaecat ad enim fugiat velit sit ex Lorem sunt incididunt eu laboris anim id proident.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 1.18,
-    "prompt": "Adipisicing duis consectetur adipisicing dolor ullamco officia elit veniam excepteur occaecat consectetur.",
+    "prompt": "Pariatur proident in id laboris nostrud cillum non sint consequat.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
+  },
+  {
+    "clockTime": 119,
+    "prompt": "Officia in mollit dolore sit fugiat laborum excepteur Lorem pariatur aliqua.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 1.19,
-    "prompt": "Exercitation elit magna eiusmod ad magna minim duis elit laborum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 1.2,
-    "prompt": "Ullamco voluptate cupidatat ex Lorem minim ullamco aliqua velit do adipisicing reprehenderit ea nulla quis.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 120,
+    "prompt": "Id qui incididunt dolor aliquip mollit fugiat irure reprehenderit sint elit aliquip nostrud.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 121,
-    "prompt": "Exercitation commodo incididunt aute nisi officia deserunt laboris officia fugiat esse minim nostrud cillum fugiat ullamco.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Aliquip ullamco reprehenderit laborum elit commodo exercitation ea do proident incididunt duis aliquip enim.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 122,
-    "prompt": "In Lorem cupidatat fugiat consequat veniam cupidatat anim minim in culpa aliqua ullamco commodo.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Proident id reprehenderit est occaecat nostrud ea non anim deserunt consectetur aliquip.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 123,
-    "prompt": "Id sunt pariatur et amet cillum sint voluptate nulla aliquip.",
+    "prompt": "Excepteur laboris consectetur id ut ullamco nostrud minim veniam mollit eiusmod.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 124,
-    "prompt": "Pariatur irure fugiat in aliqua nulla aliquip aliquip velit pariatur excepteur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1.24,
+    "prompt": "Consequat et id fugiat officia nostrud qui non labore sint voluptate.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 1.25,
-    "prompt": "Laborum ipsum dolor sit irure officia officia fugiat consectetur culpa.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 125,
+    "prompt": "Commodo est laboris ut ea tempor fugiat Lorem ex nulla ipsum irure esse esse.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 1.26,
-    "prompt": "Aliquip excepteur proident eu id enim est commodo Lorem sit sunt velit exercitation laborum excepteur labore.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 126,
+    "prompt": "Excepteur occaecat velit reprehenderit laborum qui veniam ut ipsum minim minim quis.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 1.27,
-    "prompt": "Eiusmod consequat sint ullamco nulla aliquip amet sunt occaecat exercitation qui.",
+    "prompt": "Deserunt non laboris labore id ullamco in anim occaecat dolor pariatur dolor esse voluptate ex.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 1.28,
-    "prompt": "Veniam id esse officia culpa enim proident est mollit cillum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 128,
+    "prompt": "Esse exercitation excepteur commodo et aliqua consectetur veniam do labore aliquip non ullamco est voluptate pariatur.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 129,
-    "prompt": "Tempor nulla dolore sint nisi pariatur consectetur deserunt ullamco exercitation nisi duis voluptate do aute.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Labore sint sit officia ut cupidatat ipsum veniam do culpa quis quis exercitation cupidatat aliqua.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 130,
-    "prompt": "Ad adipisicing amet id fugiat aute veniam dolor ad consectetur.",
+    "prompt": "Exercitation eiusmod dolor cillum esse incididunt non amet voluptate adipisicing mollit eiusmod.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 131,
-    "prompt": "Occaecat ipsum consectetur commodo non ipsum nulla sint consectetur consequat duis velit.",
+    "clockTime": 1.31,
+    "prompt": "Lorem quis irure incididunt amet Lorem occaecat est proident excepteur.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 1.32,
-    "prompt": "Mollit sit est nulla voluptate consectetur consequat laboris pariatur in tempor qui cupidatat culpa duis incididunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Adipisicing irure ullamco veniam consequat commodo nisi cupidatat consequat minim aliquip ut reprehenderit voluptate cupidatat.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 1.33,
-    "prompt": "Exercitation dolor est ipsum deserunt cupidatat laborum velit sit cupidatat exercitation excepteur id officia.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 133,
+    "prompt": "Est magna pariatur quis ea elit occaecat ea mollit irure non pariatur sunt duis.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 134,
-    "prompt": "Ad veniam elit minim esse ipsum qui aliquip cupidatat velit sit labore pariatur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1.34,
+    "prompt": "Duis quis voluptate fugiat sunt exercitation minim esse cupidatat esse officia tempor deserunt ex.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 135,
-    "prompt": "Tempor dolor sit commodo mollit nostrud ex cillum quis id ea proident aute.",
+    "prompt": "Deserunt laborum fugiat nostrud magna laboris laboris magna fugiat veniam adipisicing laborum.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 136,
-    "prompt": "Amet officia Lorem et nulla ut amet magna ipsum occaecat sint labore aliqua.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Proident magna officia nisi tempor aliqua ad commodo exercitation nostrud deserunt adipisicing velit.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 137,
-    "prompt": "Voluptate Lorem duis mollit et sit aliqua amet dolor eu ex anim ullamco do eiusmod.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Pariatur sunt ea minim ullamco aliquip occaecat culpa consectetur do non.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 138,
-    "prompt": "Ipsum laboris deserunt dolore cillum amet amet sit Lorem officia elit ex eiusmod labore Lorem.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Amet nulla duis do laborum qui ut laboris in reprehenderit do ut cillum amet.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 1.39,
-    "prompt": "Anim esse reprehenderit tempor duis ipsum eu id mollit consectetur in anim elit irure duis.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Culpa eu sint magna sit duis qui magna cillum eu duis commodo reprehenderit.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 140,
-    "prompt": "Nostrud dolor minim veniam ad ad deserunt consequat mollit incididunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1.4,
+    "prompt": "Qui irure consequat incididunt commodo dolore id labore adipisicing adipisicing incididunt anim ex.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 141,
-    "prompt": "Ipsum ullamco esse esse sunt laboris esse mollit non nisi consequat reprehenderit quis non.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Esse fugiat do sunt nulla eiusmod laboris sint ad voluptate deserunt ea sit officia veniam.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 1.42,
-    "prompt": "Ullamco in ad commodo sit ullamco aute nostrud labore id.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Officia eu amet deserunt voluptate voluptate magna qui anim nostrud aliqua aliqua quis occaecat et minim.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 143,
-    "prompt": "Elit et magna eiusmod exercitation cillum cupidatat duis non consequat eiusmod eiusmod commodo anim consectetur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1.43,
+    "prompt": "Ipsum officia quis sunt aliquip esse laboris ea tempor esse.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 1.44,
-    "prompt": "Culpa minim deserunt sint dolor sit cillum exercitation non aliqua ea.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Occaecat veniam et aliqua cupidatat proident consequat cupidatat veniam cupidatat magna.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 145,
-    "prompt": "Anim fugiat dolor laborum et excepteur laborum minim nostrud ut proident.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Minim enim id exercitation ullamco laboris pariatur fugiat anim deserunt minim dolor mollit qui ut nulla.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 146,
-    "prompt": "Irure veniam ad magna pariatur eu ad eu excepteur mollit fugiat culpa irure aute.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Consectetur ullamco occaecat sit velit ad laborum aliquip non eiusmod sunt ad.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 147,
-    "prompt": "Velit sunt esse quis laboris id ullamco excepteur dolore labore culpa.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Exercitation cupidatat ipsum dolor deserunt reprehenderit non amet exercitation elit sint qui nulla.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 1.48,
-    "prompt": "Fugiat eu esse tempor quis sunt non deserunt laborum labore irure.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Consequat ea ut dolor elit adipisicing aliqua pariatur anim deserunt elit enim magna mollit.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 149,
-    "prompt": "Ipsum enim aliqua nisi magna magna incididunt esse dolor qui incididunt quis mollit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1.49,
+    "prompt": "Id culpa ad aute incididunt qui pariatur ex eiusmod laborum veniam fugiat tempor.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 150,
-    "prompt": "Proident veniam pariatur deserunt officia officia adipisicing in incididunt laborum officia ea ipsum voluptate cillum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1.5,
+    "prompt": "Proident laborum ipsum qui pariatur amet ipsum veniam Lorem ullamco incididunt in sit cillum.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 151,
-    "prompt": "Cillum tempor commodo est ad officia qui id commodo reprehenderit veniam veniam culpa deserunt proident.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Laborum ea anim laboris ea excepteur id culpa commodo id sit sint ea.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 152,
-    "prompt": "Velit ea magna Lorem ex aliquip sint in aliquip in velit voluptate irure fugiat ipsum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Adipisicing dolor duis aliqua eu culpa cupidatat est ut mollit mollit commodo dolore.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 1.53,
-    "prompt": "Veniam ex consequat do exercitation excepteur sunt elit laborum velit proident.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Laborum do labore aliquip reprehenderit nostrud esse aliqua esse laboris qui voluptate.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 1.54,
-    "prompt": "Et excepteur qui sint ipsum id velit dolore minim deserunt irure aute.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 154,
+    "prompt": "Nulla duis nostrud sunt dolore do reprehenderit irure adipisicing cupidatat non anim.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 155,
-    "prompt": "Laboris nulla anim fugiat sint excepteur qui duis elit dolor adipisicing officia amet veniam aliquip.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Dolor laboris mollit culpa nulla commodo do eu occaecat officia ipsum.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 1.56,
-    "prompt": "Occaecat exercitation proident minim enim magna irure consectetur pariatur ex adipisicing cillum ipsum non.",
+    "clockTime": 156,
+    "prompt": "Consectetur eu adipisicing irure consequat labore dolore culpa veniam ad cillum proident.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 157,
-    "prompt": "Eiusmod aute culpa aliquip quis pariatur labore ea adipisicing aliquip eiusmod veniam ex.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ipsum et mollit elit exercitation eiusmod sit eu consectetur aliquip ut cupidatat.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 158,
-    "prompt": "Veniam minim exercitation exercitation velit minim voluptate ut consequat officia adipisicing nisi proident cupidatat.",
+    "prompt": "Nostrud laborum consequat ipsum ex sit qui excepteur adipisicing nostrud ullamco dolore.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 1.59,
-    "prompt": "Aliqua est fugiat sit culpa excepteur nulla ipsum nostrud sint.",
+    "clockTime": 159,
+    "prompt": "Sint pariatur magna exercitation proident eiusmod consectetur pariatur veniam nisi aliqua.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 2,
-    "prompt": "Eiusmod elit reprehenderit id consectetur sint sint proident enim do duis nostrud aliqua.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 200,
+    "prompt": "Eiusmod sint enim minim eiusmod eiusmod irure officia eiusmod labore anim ad elit sint adipisicing enim.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 201,
-    "prompt": "Enim commodo nostrud amet veniam aliqua incididunt id quis ut cillum non.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Id voluptate adipisicing occaecat nulla velit est fugiat sunt consequat est consectetur aliquip Lorem.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 202,
-    "prompt": "Dolore cupidatat quis mollit quis labore sunt sit aliquip excepteur sit nostrud officia deserunt.",
+    "clockTime": 2.02,
+    "prompt": "Voluptate consequat reprehenderit et incididunt elit nisi incididunt proident proident non minim cupidatat ex.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 203,
-    "prompt": "Fugiat voluptate officia do qui labore excepteur anim incididunt fugiat duis.",
+    "prompt": "Irure aliqua ullamco qui est consectetur minim duis dolore qui.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 2.04,
-    "prompt": "Enim minim aliquip culpa proident cupidatat consectetur elit in irure fugiat adipisicing pariatur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 204,
+    "prompt": "Pariatur ut in aute non exercitation deserunt est est do nulla fugiat ad mollit non.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 205,
-    "prompt": "Minim cillum commodo in ex proident amet aute ut anim sit eiusmod laborum reprehenderit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Fugiat minim aute sint mollit pariatur irure ea anim enim incididunt laborum officia pariatur commodo.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 206,
-    "prompt": "Anim officia esse consectetur tempor consectetur sit occaecat aliqua fugiat adipisicing nisi proident ad irure.",
+    "prompt": "Minim qui ex aliquip dolor ut aliqua reprehenderit ea nostrud id ex nulla Lorem ut est.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 207,
-    "prompt": "Exercitation exercitation dolor do ea aliqua deserunt ut ea ea anim.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 2.07,
+    "prompt": "Mollit officia cupidatat dolor cillum veniam incididunt labore occaecat ad sunt cupidatat pariatur eu cillum.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 208,
-    "prompt": "Velit aliqua anim laboris velit sit amet incididunt qui enim cillum et.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Cupidatat nostrud laboris ipsum velit tempor deserunt ex qui cupidatat sit.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 209,
-    "prompt": "Eiusmod culpa nostrud est et officia ullamco dolor sunt enim eiusmod cupidatat esse esse.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Esse commodo sint ut do consequat commodo aliquip qui consequat magna laboris dolore nulla minim.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 210,
-    "prompt": "Non qui excepteur occaecat exercitation aliqua fugiat aliquip nostrud officia aliquip aliquip culpa.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Officia id dolore ea ut voluptate mollit et minim excepteur cillum nostrud exercitation eu.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 2.11,
-    "prompt": "Ex Lorem do laborum et et sit ex esse dolore sunt ex deserunt fugiat incididunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 211,
+    "prompt": "Sint incididunt adipisicing mollit ex ut excepteur ipsum veniam do fugiat mollit.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 2.12,
-    "prompt": "Est veniam non sunt aliqua id culpa occaecat qui minim tempor velit deserunt adipisicing nostrud.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Id exercitation proident labore est sint proident duis labore cillum.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 2.13,
-    "prompt": "Consectetur nulla minim est commodo ut elit enim cillum sunt ad deserunt.",
+    "prompt": "Nisi in aliquip dolor Lorem excepteur minim laboris eu qui.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 2.14,
-    "prompt": "Aute eu excepteur labore proident aliquip dolor non qui elit ex.",
+    "clockTime": 214,
+    "prompt": "Excepteur elit ea occaecat ea proident culpa aliqua irure eiusmod.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 215,
-    "prompt": "Cillum quis est excepteur ullamco ipsum tempor dolore tempor est velit laborum excepteur quis minim.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Qui commodo ipsum eiusmod culpa sit aliqua ad dolore aliquip adipisicing et sit occaecat fugiat commodo.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 216,
-    "prompt": "Duis mollit cupidatat esse ullamco sint esse ipsum eu sunt est nisi minim do labore quis.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Adipisicing adipisicing quis enim eu ex duis voluptate labore adipisicing esse magna dolor.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 217,
-    "prompt": "Labore pariatur magna duis et sit velit pariatur tempor sunt amet sint aliquip.",
+    "prompt": "Sit ipsum tempor officia eiusmod irure ea velit duis esse et dolor mollit.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
+  },
+  {
+    "clockTime": 218,
+    "prompt": "Eiusmod officia amet aliquip ad officia cillum eu consequat elit occaecat sint amet.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
+  },
+  {
+    "clockTime": 2.19,
+    "prompt": "Culpa tempor sint exercitation nisi exercitation officia laboris nostrud culpa.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 2.18,
-    "prompt": "Esse do aute nulla cupidatat in ea consectetur do tempor id.",
+    "clockTime": 220,
+    "prompt": "Proident excepteur aute est excepteur commodo sit esse excepteur irure.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 219,
-    "prompt": "Excepteur cupidatat Lorem dolor enim deserunt esse velit ad mollit id.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 2.2,
-    "prompt": "Et et est tempor labore quis in ea in dolore.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 2.21,
-    "prompt": "Excepteur laborum sit irure deserunt do cupidatat ipsum qui anim deserunt anim minim anim.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 221,
+    "prompt": "Enim culpa sint sint aute occaecat ex culpa dolor do veniam nisi et sint ipsum.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 222,
-    "prompt": "Minim aliquip consequat tempor ut et tempor dolore et nostrud cillum velit mollit mollit.",
+    "prompt": "In ipsum dolore nostrud excepteur aute nostrud excepteur ut eiusmod.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
+  },
+  {
+    "clockTime": 2.23,
+    "prompt": "Occaecat velit pariatur irure labore nostrud irure ullamco in eiusmod id incididunt sunt excepteur.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 223,
-    "prompt": "Ullamco aute sint eu adipisicing magna ullamco veniam irure Lorem deserunt proident adipisicing qui.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 224,
+    "prompt": "Adipisicing est quis dolor pariatur nulla duis eiusmod excepteur aliqua.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 2.24,
-    "prompt": "Esse nisi deserunt irure culpa cupidatat ullamco veniam enim minim labore laborum esse elit laboris.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 2.25,
-    "prompt": "Veniam quis culpa nulla non culpa commodo cupidatat ipsum magna pariatur eu eu do pariatur Lorem.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 225,
+    "prompt": "Ut Lorem Lorem consectetur ex esse non elit proident magna tempor.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 2.26,
-    "prompt": "Dolore nostrud mollit sunt mollit do et ut eu velit sint.",
+    "prompt": "Proident ipsum cupidatat non occaecat labore proident irure id sint id fugiat officia consectetur qui.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 227,
-    "prompt": "Nisi cupidatat Lorem qui officia ex velit et incididunt eiusmod.",
+    "clockTime": 2.27,
+    "prompt": "Officia et laboris nostrud aliqua consequat sint nulla et laborum quis minim Lorem Lorem.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
+  },
+  {
+    "clockTime": 2.28,
+    "prompt": "Dolor ad eu nisi officia magna esse pariatur anim do ad aliqua cillum Lorem est.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
+  },
+  {
+    "clockTime": 229,
+    "prompt": "Nisi sunt qui quis adipisicing laboris excepteur minim voluptate duis ad.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
+  },
+  {
+    "clockTime": 2.3,
+    "prompt": "Id amet officia cupidatat et nisi amet anim labore minim excepteur.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
+  },
+  {
+    "clockTime": 231,
+    "prompt": "Tempor consequat cillum incididunt reprehenderit qui cillum ullamco ex ea cupidatat elit laboris quis.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
+  },
+  {
+    "clockTime": 2.32,
+    "prompt": "Et id id do non nulla excepteur consectetur ex aliqua dolor nisi ullamco.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
+  },
+  {
+    "clockTime": 233,
+    "prompt": "Minim veniam nisi magna incididunt ut tempor fugiat aliqua exercitation velit aliqua incididunt consectetur.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 228,
-    "prompt": "Magna officia et occaecat consectetur ut minim veniam incididunt deserunt fugiat laboris ea exercitation nostrud.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 2.29,
-    "prompt": "Culpa nulla culpa dolor deserunt est ut commodo incididunt magna sunt ex irure.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 230,
-    "prompt": "Ut exercitation nostrud aliquip amet incididunt dolor amet enim velit velit fugiat nulla.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 2.31,
-    "prompt": "Ipsum velit laboris consectetur consectetur enim est laborum aliquip ullamco ipsum qui.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 232,
-    "prompt": "Id eiusmod dolore anim duis Lorem laborum officia et ut aliquip in.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 2.33,
-    "prompt": "Ipsum veniam cillum id ut proident qui consequat ut velit voluptate.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 234,
-    "prompt": "Cillum cillum enim eu mollit ullamco labore anim tempor minim.",
+    "clockTime": 2.34,
+    "prompt": "Nulla nulla in veniam non est quis ad veniam labore.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 235,
-    "prompt": "Eu ex sunt reprehenderit voluptate ut aliquip non exercitation excepteur cupidatat ex amet in amet ex.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Aliqua sit sint pariatur anim magna velit ea aliquip occaecat.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 236,
-    "prompt": "Commodo occaecat elit ad reprehenderit incididunt sit et consectetur consectetur ipsum adipisicing laboris quis do enim.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 2.36,
+    "prompt": "Ad excepteur fugiat irure sunt aliqua minim incididunt mollit ad consequat occaecat nisi.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 2.37,
-    "prompt": "In id ex aliquip eu aliquip id ipsum amet ut aliquip excepteur minim voluptate.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 237,
+    "prompt": "In anim anim adipisicing officia duis sunt non eu pariatur qui irure sint est.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 2.38,
-    "prompt": "Quis aliquip ex anim commodo laboris labore deserunt excepteur sit elit irure ad.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Labore eu do veniam labore laborum est proident occaecat deserunt magna nulla fugiat dolor.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 2.39,
-    "prompt": "Consectetur labore irure cupidatat culpa adipisicing eu qui eu esse elit labore velit et cupidatat tempor.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 239,
+    "prompt": "Est Lorem ad incididunt exercitation eu officia est reprehenderit laboris Lorem aute irure officia.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 240,
-    "prompt": "Incididunt nulla et mollit officia do irure ut duis enim.",
+    "prompt": "Est nostrud ut sint sint ut dolore ex irure eiusmod pariatur pariatur enim laborum aliquip cillum.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 241,
-    "prompt": "Reprehenderit laboris veniam dolor do et ex magna sint culpa velit aliquip adipisicing deserunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Irure culpa eiusmod non ea nulla elit anim anim eu exercitation minim ad cillum amet consequat.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 2.42,
-    "prompt": "Officia et ex sit ipsum ad pariatur velit non eu eiusmod eu commodo ea.",
+    "clockTime": 242,
+    "prompt": "Mollit excepteur officia ad id aliquip pariatur magna aliqua proident velit.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 243,
-    "prompt": "Magna nostrud esse culpa voluptate irure irure mollit dolore ex.",
+    "prompt": "Reprehenderit aute laboris consequat consectetur tempor fugiat fugiat anim id aliqua.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 244,
-    "prompt": "Aliquip cupidatat tempor esse exercitation dolore do veniam Lorem eiusmod.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 2.44,
+    "prompt": "Non tempor dolor non sunt velit laborum dolore quis Lorem minim nulla.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 2.45,
-    "prompt": "Et velit aliqua exercitation sunt id labore occaecat ipsum nulla ad laboris excepteur in quis dolore.",
+    "clockTime": 245,
+    "prompt": "Ipsum pariatur eiusmod ea laborum duis magna cupidatat laborum laborum duis mollit officia esse ea.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 246,
-    "prompt": "Aliqua voluptate eu irure Lorem commodo adipisicing aute ea eiusmod cillum cillum commodo.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Aute nisi laboris Lorem velit consectetur mollit eu nulla consectetur sint consequat commodo id quis fugiat.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 247,
-    "prompt": "Anim non et eu dolore tempor officia ex officia elit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ut pariatur aute sit esse reprehenderit id irure sit irure veniam irure ad minim.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 248,
-    "prompt": "Est fugiat minim incididunt qui velit culpa pariatur consectetur Lorem aliqua velit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 2.48,
+    "prompt": "Cupidatat commodo excepteur ullamco ex commodo et sit incididunt ipsum veniam laboris consectetur nostrud commodo sit.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 249,
-    "prompt": "Ipsum reprehenderit deserunt pariatur do magna veniam Lorem irure nulla officia pariatur ipsum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Quis enim culpa exercitation id eu Lorem ex Lorem veniam voluptate excepteur id voluptate adipisicing.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 250,
-    "prompt": "Non aliquip culpa nostrud qui ullamco elit consequat adipisicing ad commodo pariatur aute labore.",
+    "prompt": "Velit sint amet nostrud velit occaecat labore magna esse mollit et.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 2.51,
-    "prompt": "In in enim qui officia anim pariatur voluptate nisi ipsum incididunt laborum id qui aliquip.",
+    "prompt": "Dolor duis exercitation qui ullamco et fugiat ea dolore commodo duis pariatur eiusmod do consectetur.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 2.52,
-    "prompt": "Mollit ipsum sunt ut incididunt excepteur ullamco culpa occaecat officia quis duis duis nulla ea laborum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 252,
+    "prompt": "Ullamco ex laboris occaecat culpa pariatur enim ea commodo cupidatat incididunt officia duis reprehenderit id.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 2.53,
-    "prompt": "Non dolor fugiat adipisicing labore do in est aute veniam Lorem non amet magna.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 253,
+    "prompt": "Lorem eu do Lorem consequat sit magna do labore deserunt proident aliqua.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 254,
-    "prompt": "Ex aliqua dolore eiusmod non quis duis aute aliqua culpa amet ex nisi ullamco nulla incididunt.",
+    "prompt": "Irure consequat dolor consectetur et amet non sunt qui dolor aute deserunt amet et.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 2.55,
-    "prompt": "Sint dolor quis ea commodo veniam esse enim nulla sunt deserunt in.",
+    "clockTime": 255,
+    "prompt": "Consequat sint deserunt laborum officia elit eu proident ea laborum eiusmod aliqua excepteur consequat culpa ut.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 256,
-    "prompt": "Laborum duis sunt minim ex incididunt nisi officia magna commodo adipisicing reprehenderit fugiat sunt in pariatur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Cupidatat commodo sit voluptate deserunt aliqua incididunt consectetur aute quis nulla enim Lorem amet minim.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 257,
-    "prompt": "Amet quis quis nulla mollit commodo et nostrud eu eiusmod adipisicing consequat cupidatat minim commodo dolore.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Qui minim sint Lorem Lorem magna elit proident esse do officia ut.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 258,
-    "prompt": "Dolore magna ipsum quis id ad fugiat cillum sit occaecat aliquip cillum esse.",
+    "prompt": "Sunt nulla laborum pariatur non incididunt anim ea ut exercitation exercitation aute non.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
+  },
+  {
+    "clockTime": 2.59,
+    "prompt": "Pariatur aliquip laborum duis eu eu pariatur velit consectetur officia enim esse sunt esse sunt veniam.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 259,
-    "prompt": "Id aute excepteur sint ut incididunt minim laborum in duis minim ea in elit veniam exercitation.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 3,
-    "prompt": "Occaecat reprehenderit minim id ut labore eu consequat laboris consequat incididunt officia.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 300,
+    "prompt": "Eiusmod magna dolor duis deserunt Lorem irure laborum consectetur aliqua Lorem.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 3.01,
-    "prompt": "Tempor laborum laborum deserunt fugiat voluptate eu occaecat irure ipsum amet ullamco proident.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Do dolore fugiat non voluptate et proident irure ipsum est non ad ipsum.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 302,
-    "prompt": "Incididunt dolore excepteur dolor dolor sunt sit culpa et commodo mollit nulla sit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 3.02,
+    "prompt": "Consequat occaecat proident eu laborum aute quis dolor amet dolore ipsum commodo nostrud id.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 3.03,
-    "prompt": "Culpa id cupidatat id qui elit eiusmod dolore adipisicing Lorem aliquip aliquip minim ipsum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 303,
+    "prompt": "Dolor sint deserunt ipsum nulla elit dolore veniam aliqua exercitation aute.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 304,
-    "prompt": "Officia labore ad irure aliqua est occaecat ad culpa excepteur qui ex aute enim deserunt dolore.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 3.04,
+    "prompt": "Pariatur ad in enim laboris incididunt do duis nostrud est adipisicing laborum in consequat.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 305,
-    "prompt": "Cillum labore incididunt excepteur est cupidatat amet deserunt dolore amet magna proident incididunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Consectetur laboris laboris consectetur aliquip reprehenderit excepteur velit velit voluptate dolore.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 306,
-    "prompt": "Reprehenderit mollit consectetur duis fugiat consectetur minim non in mollit cillum et ipsum dolore.",
+    "prompt": "Lorem aute officia sunt incididunt incididunt et do esse et ullamco anim esse.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 307,
-    "prompt": "Commodo magna duis excepteur aute adipisicing est consectetur elit proident consectetur minim ipsum cillum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Elit sunt laborum deserunt sit magna anim ex dolore excepteur non irure.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 308,
-    "prompt": "Exercitation aliqua voluptate est dolor incididunt eu non amet consectetur excepteur cillum mollit aliquip excepteur fugiat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ea Lorem enim elit nisi amet labore aliqua fugiat ad nisi eiusmod ipsum minim.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 309,
-    "prompt": "Occaecat dolor in nisi amet elit veniam aute ipsum aliqua Lorem.",
+    "prompt": "Amet officia Lorem dolore aute occaecat non sit fugiat nostrud velit id adipisicing consectetur quis sint.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 3.1,
-    "prompt": "Dolor enim Lorem exercitation ad cillum ipsum culpa ipsum quis commodo.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 310,
+    "prompt": "Commodo elit aute incididunt aliqua officia enim laboris enim culpa enim incididunt nostrud irure magna.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 311,
-    "prompt": "Cupidatat ad aliquip occaecat sit mollit incididunt laborum aliqua dolore.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Velit ullamco sit veniam labore velit duis deserunt dolor duis.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 312,
-    "prompt": "Magna dolor enim dolor officia voluptate adipisicing irure in eu est.",
+    "prompt": "Culpa eiusmod et exercitation aliqua reprehenderit nulla pariatur nulla pariatur pariatur id nulla.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
+  },
+  {
+    "clockTime": 3.13,
+    "prompt": "Nostrud occaecat qui incididunt anim est aliquip quis magna magna in ut mollit minim eiusmod.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 313,
-    "prompt": "Laborum do deserunt ut sit incididunt ut veniam ex excepteur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 3.14,
+    "prompt": "Exercitation esse consequat deserunt aliqua et culpa adipisicing duis dolore.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 314,
-    "prompt": "Laboris ex duis velit sint do ullamco laboris magna sint.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 3.15,
+    "prompt": "Ea ut Lorem ut quis do irure exercitation do sit anim.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 315,
-    "prompt": "Duis nisi proident sit qui nisi do cupidatat occaecat magna exercitation.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 316,
-    "prompt": "Nulla aliquip incididunt sit magna veniam sunt anim aliquip non officia.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 3.16,
+    "prompt": "Enim adipisicing eiusmod anim do officia ex tempor adipisicing officia eiusmod.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 317,
-    "prompt": "Sint fugiat dolor ex adipisicing enim culpa laboris ex sit aliqua qui dolor.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Consequat magna incididunt eu ex anim consequat in labore proident adipisicing non consectetur reprehenderit exercitation adipisicing.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 3.18,
-    "prompt": "Laborum aliqua sint duis duis eiusmod enim cillum ad dolore qui.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 318,
+    "prompt": "Exercitation aliqua quis amet consequat laboris esse proident elit consectetur.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 319,
-    "prompt": "Veniam aliquip irure deserunt amet magna nostrud elit ut esse minim aliquip.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 3.19,
+    "prompt": "Eiusmod velit excepteur consectetur nostrud voluptate pariatur sint occaecat excepteur elit.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 320,
-    "prompt": "Aliqua velit cupidatat commodo duis proident aute consequat non et magna culpa amet incididunt Lorem.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 3.2,
+    "prompt": "Dolore dolore tempor dolor amet do ullamco proident ad reprehenderit ipsum proident non.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 3.21,
-    "prompt": "Exercitation do dolor aute labore aliquip enim velit aute cillum tempor consectetur ipsum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ad dolore deserunt nisi officia ullamco et esse quis quis.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 322,
-    "prompt": "Nulla nulla ut culpa eiusmod consectetur nulla cillum mollit aliquip in consectetur velit nulla.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Do laboris reprehenderit do nulla aliquip nulla aliqua et elit.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 3.23,
-    "prompt": "Eiusmod Lorem ex nostrud deserunt minim dolor sunt occaecat tempor sunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 323,
+    "prompt": "Quis amet eu nisi minim mollit commodo ea ipsum officia consectetur pariatur id officia anim pariatur.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 3.24,
-    "prompt": "Esse reprehenderit in sit eiusmod ex consectetur dolor enim elit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 324,
+    "prompt": "Dolor nostrud ex aliquip laborum magna nostrud qui qui quis culpa fugiat.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 3.25,
-    "prompt": "Eu magna minim fugiat consequat dolore in duis eiusmod sunt ad veniam voluptate fugiat voluptate consectetur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Laborum consequat excepteur in non elit magna nulla officia anim officia laborum occaecat minim irure cillum.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 326,
-    "prompt": "Irure aliquip mollit ipsum irure aute ex velit irure excepteur laborum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 3.26,
+    "prompt": "Veniam est dolore consectetur magna laboris nisi dolore ea id.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 327,
-    "prompt": "Deserunt cupidatat ad qui tempor esse labore commodo in elit elit irure deserunt sit consectetur.",
+    "prompt": "Sunt elit officia id quis cupidatat Lorem velit consectetur exercitation aute.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 3.28,
-    "prompt": "Occaecat magna sint id quis proident Lorem consequat dolor ea ullamco est qui.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ut laborum laboris consequat fugiat excepteur culpa qui qui proident cillum adipisicing.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 329,
-    "prompt": "Magna mollit amet in reprehenderit aliqua ex excepteur commodo ex sit ex quis.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Officia deserunt veniam ad fugiat cillum eu eu consectetur deserunt eiusmod est velit.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 3.3,
-    "prompt": "Mollit aliquip velit et et incididunt adipisicing mollit occaecat in ad fugiat in.",
+    "prompt": "Amet laborum magna aliquip ut ex anim esse eu in quis dolore minim est pariatur.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 331,
-    "prompt": "Nostrud ullamco velit esse deserunt ea et officia aute velit cupidatat elit nostrud aute.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ex ut ex nostrud labore veniam quis est sunt dolore qui in occaecat consequat.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 332,
-    "prompt": "Laborum labore aliquip sit elit labore nulla consectetur minim quis laborum sint minim ea.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Id ad commodo ex minim do commodo irure aliquip aliqua ut voluptate.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 333,
-    "prompt": "Laborum non sit velit cupidatat incididunt nisi esse cupidatat fugiat aliqua adipisicing irure dolor exercitation.",
+    "prompt": "Commodo ex minim veniam mollit deserunt sit excepteur elit pariatur labore ut officia.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
+  },
+  {
+    "clockTime": 3.34,
+    "prompt": "Pariatur adipisicing id reprehenderit sunt reprehenderit enim quis non voluptate dolore consectetur consequat.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 334,
-    "prompt": "Occaecat aliquip consequat esse elit nisi adipisicing nulla reprehenderit deserunt laborum velit in.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 3.35,
-    "prompt": "Eu esse ea eiusmod exercitation aliquip aliquip tempor dolore ex culpa ad cillum magna deserunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 335,
+    "prompt": "Nulla enim excepteur consequat aliquip incididunt veniam ipsum nulla nulla reprehenderit esse laboris velit.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 336,
-    "prompt": "Elit qui ea nulla enim est laboris ea eu id exercitation quis.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Do dolor ex fugiat adipisicing aute culpa id cupidatat qui.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 337,
-    "prompt": "Culpa tempor sunt est minim reprehenderit cupidatat ex ut commodo sunt labore.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 3.37,
+    "prompt": "Incididunt laboris sint laboris irure consectetur id voluptate proident excepteur consectetur commodo pariatur laboris.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 3.38,
-    "prompt": "Veniam cillum exercitation dolore consectetur exercitation elit excepteur exercitation et ad anim minim enim.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 338,
+    "prompt": "Mollit dolor mollit exercitation mollit deserunt nulla et cupidatat incididunt.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 339,
-    "prompt": "Duis eiusmod cupidatat cupidatat deserunt ea aliqua duis voluptate enim ex laboris.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Proident enim aute cillum eiusmod pariatur sunt nisi culpa aute ea labore elit.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 3.4,
-    "prompt": "Irure dolore non mollit pariatur voluptate enim cillum sint amet anim labore pariatur culpa et.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 340,
+    "prompt": "Duis enim officia pariatur dolore elit id culpa sit cupidatat cillum ipsum nostrud ullamco nostrud cillum.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 341,
-    "prompt": "Reprehenderit ex sunt pariatur excepteur voluptate deserunt ut occaecat exercitation voluptate Lorem.",
+    "clockTime": 3.41,
+    "prompt": "Sint eiusmod laboris pariatur deserunt proident dolor esse do ea Lorem et et amet aliqua proident.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 342,
-    "prompt": "Nisi laboris aute pariatur dolore nostrud amet qui ad commodo.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ex sit veniam esse eiusmod sit aliquip amet elit voluptate velit.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 343,
-    "prompt": "Irure amet laborum labore incididunt pariatur velit aute ipsum veniam non est non.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Dolore adipisicing dolore laborum nulla officia esse sit aliquip deserunt tempor dolor aliquip.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 344,
-    "prompt": "Sunt cupidatat non dolore officia labore nostrud deserunt dolore eiusmod.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Tempor occaecat officia occaecat qui enim cillum laborum ut voluptate ut non laborum eu excepteur.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 3.45,
-    "prompt": "Aliqua nisi nulla labore laboris irure laborum non consectetur elit aliqua exercitation.",
+    "prompt": "Dolor nostrud ea dolor magna aute dolor sit pariatur quis qui.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 346,
-    "prompt": "Magna incididunt pariatur id ut dolor eu amet ea aliquip sit pariatur.",
+    "clockTime": 3.46,
+    "prompt": "Id magna sunt incididunt et pariatur dolor culpa nisi reprehenderit adipisicing.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 3.47,
-    "prompt": "Ea commodo adipisicing reprehenderit cupidatat sint ex aute est excepteur consectetur esse occaecat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Sint enim dolore dolor aute consequat dolor excepteur ut irure ex pariatur ut irure.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 3.48,
-    "prompt": "Aute cupidatat duis nisi do dolor fugiat nulla dolore amet dolore quis ad nulla non.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 348,
+    "prompt": "Amet aute irure sunt cillum sint voluptate reprehenderit consequat occaecat.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 3.49,
-    "prompt": "Nisi minim ut ut laboris eu et velit cillum esse excepteur adipisicing ad non magna ad.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 349,
+    "prompt": "Proident tempor enim consectetur sit deserunt tempor fugiat id pariatur.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 3.5,
-    "prompt": "Ea cillum eiusmod sint nisi adipisicing mollit veniam eu ad eu.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 350,
+    "prompt": "Eu excepteur dolor nisi tempor do reprehenderit quis reprehenderit exercitation nisi Lorem ullamco.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 351,
-    "prompt": "Reprehenderit eiusmod amet pariatur ex ipsum veniam labore cupidatat culpa nisi exercitation consequat eiusmod nostrud.",
+    "prompt": "Excepteur nostrud nulla sit aliquip quis ex sunt deserunt laborum irure ipsum minim commodo eiusmod.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 3.52,
-    "prompt": "Do cupidatat id in commodo nisi sit et veniam et.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 352,
+    "prompt": "Proident culpa in qui ullamco enim elit in ullamco mollit.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 353,
-    "prompt": "Esse eu qui enim nostrud eu eiusmod consectetur ipsum est culpa.",
+    "prompt": "Culpa veniam nostrud occaecat in fugiat eu magna voluptate consequat.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
+  },
+  {
+    "clockTime": 3.54,
+    "prompt": "Mollit quis officia ut eiusmod culpa excepteur ipsum sunt magna voluptate Lorem.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
+  },
+  {
+    "clockTime": 3.55,
+    "prompt": "Pariatur fugiat veniam nostrud incididunt nostrud ipsum enim ea incididunt id culpa officia.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
+  },
+  {
+    "clockTime": 3.56,
+    "prompt": "Consectetur amet quis amet nulla deserunt esse tempor et ut ut.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 354,
-    "prompt": "Pariatur Lorem dolore ut et magna amet incididunt veniam reprehenderit ut deserunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 357,
+    "prompt": "Elit aliquip irure incididunt nostrud ea reprehenderit fugiat irure irure incididunt veniam aute nulla.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 355,
-    "prompt": "Esse eiusmod non mollit sint nostrud aute nisi minim aliquip velit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 356,
-    "prompt": "Officia ut consectetur et sint tempor dolore sint aliquip elit eiusmod exercitation nostrud eiusmod minim.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 3.57,
-    "prompt": "Lorem ad commodo non veniam pariatur non proident ullamco amet esse excepteur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 358,
-    "prompt": "In id amet incididunt magna incididunt exercitation non ea ex labore et quis esse.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 3.58,
+    "prompt": "Veniam ipsum excepteur sunt ut deserunt enim ut consectetur aliqua.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 359,
-    "prompt": "Lorem labore ullamco sunt qui aute elit sit nisi aute magna quis dolore.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ex minim et pariatur fugiat proident est magna dolor consequat laborum esse nostrud adipisicing exercitation deserunt.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 4,
-    "prompt": "Ad do pariatur cillum sint tempor ea enim nisi labore deserunt sint cupidatat laboris eiusmod excepteur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Amet aute exercitation reprehenderit dolor reprehenderit dolor consequat ullamco Lorem labore consectetur.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 401,
-    "prompt": "Aute labore occaecat dolor labore anim voluptate sunt culpa Lorem.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Amet incididunt sit quis Lorem laborum voluptate nulla aute magna sunt velit fugiat.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 402,
-    "prompt": "Laboris nulla elit esse eu minim ipsum officia eu commodo eiusmod qui cupidatat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Laboris commodo ullamco ut sint ad in eu deserunt cupidatat consequat consequat culpa nulla.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 4.03,
-    "prompt": "Officia incididunt sit duis ad adipisicing exercitation dolor dolore dolore nisi ea magna nulla est.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Fugiat quis tempor tempor consectetur adipisicing anim ut consectetur nulla magna sit labore ipsum exercitation.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 4.04,
-    "prompt": "Sunt mollit fugiat pariatur commodo consectetur aliquip aute cupidatat duis eu amet.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 404,
+    "prompt": "Proident consectetur eu ad in magna qui et ad in proident.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 405,
-    "prompt": "Dolor veniam consectetur enim ex sit in cillum aliquip sit cillum mollit laborum minim consequat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 4.05,
+    "prompt": "Aute quis dolore sunt qui dolor amet occaecat in aute reprehenderit irure consequat nisi.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 4.06,
-    "prompt": "Non reprehenderit tempor excepteur ut proident dolore fugiat cupidatat eu Lorem.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 406,
+    "prompt": "Sint consectetur occaecat eiusmod reprehenderit aute voluptate mollit ipsum fugiat ut do eu commodo in anim.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 4.07,
-    "prompt": "Ex mollit irure anim voluptate enim id ad minim mollit amet in duis pariatur pariatur et.",
+    "clockTime": 407,
+    "prompt": "Irure aliquip adipisicing voluptate ad incididunt voluptate ullamco sunt consequat elit quis.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 408,
-    "prompt": "Mollit cupidatat ea adipisicing cillum veniam nostrud Lorem mollit laboris ex veniam mollit exercitation laborum laboris.",
+    "prompt": "Tempor nulla aute enim incididunt cupidatat consectetur est sint duis esse aliquip Lorem non consequat anim.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
+  },
+  {
+    "clockTime": 4.09,
+    "prompt": "Ad irure nulla fugiat ut dolore proident ex cupidatat incididunt ut commodo.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 409,
-    "prompt": "Sit voluptate irure voluptate cupidatat in excepteur eiusmod amet enim tempor velit minim irure ipsum laboris.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 4.1,
+    "prompt": "Aliquip ullamco non cupidatat est do tempor veniam deserunt occaecat dolore pariatur incididunt aliquip ad.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 410,
-    "prompt": "Et adipisicing est sunt adipisicing nostrud reprehenderit irure adipisicing et enim mollit nostrud.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 411,
-    "prompt": "Irure cillum veniam irure minim nostrud dolor anim nisi consectetur nostrud et qui.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 4.11,
+    "prompt": "Reprehenderit sit esse voluptate pariatur consequat est commodo qui commodo id reprehenderit.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 412,
-    "prompt": "Exercitation do Lorem occaecat cupidatat exercitation veniam mollit consequat reprehenderit dolor sit qui culpa voluptate anim.",
+    "prompt": "Ut commodo enim enim elit esse officia et dolor enim officia reprehenderit voluptate ea.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
+  },
+  {
+    "clockTime": 4.13,
+    "prompt": "Dolor et voluptate dolor in id aliquip mollit ex exercitation cupidatat proident officia aute qui eu.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 413,
-    "prompt": "Lorem fugiat in sit commodo non ea magna eiusmod ex excepteur do incididunt irure.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 4.14,
-    "prompt": "Ad fugiat deserunt et labore id mollit eiusmod elit fugiat nulla proident eu officia deserunt velit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 414,
+    "prompt": "Ad sint aute qui et voluptate elit deserunt eu amet elit adipisicing sit laborum id.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 415,
-    "prompt": "Ea irure est nulla esse in veniam sunt culpa exercitation.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Incididunt mollit nisi enim pariatur laboris deserunt ullamco dolor laboris consequat magna ex dolor officia esse.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 416,
-    "prompt": "Occaecat laboris irure incididunt labore excepteur ex pariatur esse nostrud nostrud qui id ea velit occaecat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 4.16,
+    "prompt": "Minim deserunt esse adipisicing mollit est sunt mollit cillum do deserunt et reprehenderit consectetur cillum.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 417,
-    "prompt": "Aliqua ipsum reprehenderit amet incididunt duis aute sunt deserunt magna non amet.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ut culpa dolor consequat consequat est occaecat nisi do minim reprehenderit ad adipisicing.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 4.18,
-    "prompt": "Reprehenderit Lorem consectetur commodo ad esse ea minim mollit Lorem do veniam minim consequat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Qui cupidatat laboris consectetur aliquip eu aute nisi est eiusmod et eiusmod incididunt.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 419,
-    "prompt": "Nulla ipsum aute elit irure ex Lorem ullamco veniam pariatur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ex est et aliquip dolor non est ullamco ut nulla irure Lorem velit et ipsum sunt.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 4.2,
-    "prompt": "Anim qui ut minim proident esse incididunt consequat dolor et.",
+    "prompt": "Proident sunt dolor labore eu ut cupidatat ipsum dolore officia.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
+  },
+  {
+    "clockTime": 4.21,
+    "prompt": "Aute exercitation voluptate deserunt deserunt excepteur labore et duis veniam aliqua exercitation cupidatat.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
+  },
+  {
+    "clockTime": 422,
+    "prompt": "Excepteur consectetur incididunt laboris voluptate ipsum proident magna deserunt dolor nisi occaecat magna.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 421,
-    "prompt": "Voluptate ullamco commodo ea aliqua cupidatat excepteur ut magna qui excepteur non est.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 423,
+    "prompt": "Deserunt et consequat tempor elit occaecat excepteur ullamco in id sit incididunt ex.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 4.22,
-    "prompt": "Nostrud nulla nulla cupidatat eiusmod dolor eiusmod anim reprehenderit nulla aute tempor nostrud elit laboris.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 4.24,
+    "prompt": "Laboris id ea nostrud laborum cupidatat voluptate do laborum pariatur eiusmod.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 4.23,
-    "prompt": "Voluptate ullamco fugiat ullamco occaecat et enim do officia laborum mollit fugiat sit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 424,
-    "prompt": "Est laboris proident labore minim incididunt in eu veniam dolor dolor est.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 425,
-    "prompt": "Pariatur non ad quis consequat eu minim exercitation nostrud esse ad dolore.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 4.25,
+    "prompt": "Reprehenderit fugiat ea ad aliquip non est Lorem reprehenderit ullamco incididunt.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 426,
-    "prompt": "Sint cillum cupidatat adipisicing deserunt anim sunt sunt ut sunt sunt elit.",
+    "prompt": "Eu nulla labore reprehenderit fugiat adipisicing adipisicing aute elit tempor aliqua ex.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 427,
-    "prompt": "Culpa enim incididunt deserunt cillum duis reprehenderit ut enim esse et veniam officia exercitation nisi.",
+    "prompt": "Duis tempor pariatur Lorem amet consequat ea fugiat cillum aute consequat aute aliqua laborum id incididunt.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 4.28,
-    "prompt": "Enim nostrud duis culpa pariatur deserunt eu aliquip esse cillum proident ea laborum dolore.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Laboris culpa ad elit laboris labore non labore culpa consequat deserunt in.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 429,
-    "prompt": "Irure cillum magna tempor et excepteur dolor veniam pariatur amet ut consectetur culpa.",
+    "prompt": "Enim ullamco nulla ut et culpa voluptate deserunt veniam esse commodo amet magna exercitation.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 4.3,
-    "prompt": "Deserunt irure tempor dolor enim consectetur ullamco laborum qui sint consectetur est excepteur deserunt veniam labore.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 430,
+    "prompt": "Ex consectetur laboris et nulla sunt pariatur Lorem proident labore dolore magna duis.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 431,
-    "prompt": "Aliqua cupidatat amet nostrud duis mollit dolor laboris et reprehenderit proident.",
+    "prompt": "Nostrud tempor excepteur eu do proident consequat esse cupidatat laborum minim veniam qui reprehenderit enim.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 432,
-    "prompt": "Ipsum labore non irure veniam consequat esse consequat ex exercitation.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 4.32,
+    "prompt": "Magna amet minim consequat occaecat sint occaecat irure veniam pariatur culpa.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 433,
-    "prompt": "Eu reprehenderit cupidatat culpa Lorem laborum occaecat ex aute Lorem esse.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Aliqua nulla et enim mollit duis cillum aliqua amet laborum reprehenderit cillum aliqua dolore culpa in.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 4.34,
-    "prompt": "Adipisicing officia quis anim duis minim anim et ex esse quis aliqua in aliqua deserunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Nisi mollit labore esse irure labore exercitation velit velit ea dolor enim mollit reprehenderit ea.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 435,
-    "prompt": "Minim proident dolore enim velit et exercitation irure in mollit et veniam enim culpa laborum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Aute laboris dolore labore irure in et Lorem nulla aliqua laborum reprehenderit ad ea.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 436,
-    "prompt": "Esse consequat ea nulla deserunt occaecat nulla fugiat eiusmod ullamco in amet minim reprehenderit veniam in.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Consequat ut veniam ea voluptate id aliqua ut Lorem deserunt anim cupidatat laboris.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 4.37,
-    "prompt": "Culpa dolor aliqua in minim nostrud officia cillum incididunt eu in labore adipisicing aute exercitation esse.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 437,
+    "prompt": "Do est fugiat nulla consequat veniam ut consectetur nulla excepteur dolore excepteur sit.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 438,
-    "prompt": "Culpa veniam aute voluptate veniam adipisicing ex sint cupidatat veniam.",
+    "clockTime": 4.38,
+    "prompt": "Tempor veniam aliquip exercitation sint duis deserunt et aliquip pariatur dolore sunt tempor laborum pariatur esse.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 439,
-    "prompt": "In aliquip incididunt ea labore adipisicing aute in occaecat magna fugiat aliquip mollit dolor esse elit.",
+    "prompt": "Do aliquip tempor dolor esse officia in voluptate laboris cillum cillum.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 440,
-    "prompt": "Consectetur fugiat id in aute aliqua culpa do ea commodo amet et sint fugiat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 4.4,
+    "prompt": "Duis sit voluptate est esse eu incididunt sunt quis velit ad qui sunt.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 4.41,
-    "prompt": "Magna aliqua magna aute tempor proident dolore aute fugiat dolor qui deserunt labore duis.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Deserunt amet ea officia exercitation et do incididunt dolore do mollit voluptate nisi.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 4.42,
-    "prompt": "Qui pariatur veniam aliqua pariatur nostrud qui duis deserunt non proident aliqua voluptate.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 442,
+    "prompt": "Eu enim nisi nisi incididunt fugiat Lorem duis culpa veniam aliqua eu.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 443,
-    "prompt": "Exercitation voluptate sunt occaecat veniam amet quis sunt duis commodo duis incididunt ut in nisi nisi.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Laboris amet reprehenderit elit mollit deserunt ad officia ea proident in sunt ut laborum.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 4.44,
-    "prompt": "Quis voluptate tempor amet consectetur eiusmod aliquip cupidatat enim minim voluptate.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 444,
+    "prompt": "Esse Lorem dolore incididunt ea aliquip ex ut ex quis consequat eu qui nostrud.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 4.45,
-    "prompt": "Laboris deserunt sint irure eiusmod est sit tempor ullamco irure sit dolore nisi ea fugiat sunt.",
+    "clockTime": 445,
+    "prompt": "Occaecat minim deserunt nulla esse non veniam in deserunt reprehenderit.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 446,
-    "prompt": "Qui labore reprehenderit mollit sit qui laboris dolore ex labore qui excepteur.",
+    "prompt": "Reprehenderit aliqua aute sunt magna et enim excepteur eu sint eiusmod quis voluptate ipsum.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 447,
-    "prompt": "Tempor irure deserunt eiusmod sit anim qui excepteur mollit duis irure fugiat incididunt consectetur sit non.",
+    "clockTime": 4.47,
+    "prompt": "Sit dolore labore consequat minim mollit nulla elit excepteur id fugiat qui ut.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
+  },
+  {
+    "clockTime": 4.48,
+    "prompt": "In et ea exercitation voluptate laborum minim officia do dolore cillum in minim do.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
+  },
+  {
+    "clockTime": 4.49,
+    "prompt": "Voluptate irure pariatur deserunt laborum consequat nostrud dolore aute et ullamco eiusmod minim.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 448,
-    "prompt": "Officia eiusmod laboris et deserunt nulla dolor qui pariatur sit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 4.5,
+    "prompt": "Amet laborum officia dolor eiusmod do nisi qui elit nisi mollit dolor consequat ullamco eiusmod.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 449,
-    "prompt": "Pariatur exercitation nulla commodo officia enim tempor quis et deserunt aliquip ullamco.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 450,
-    "prompt": "Proident veniam ad nostrud sit do cupidatat minim cupidatat dolore do.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 451,
-    "prompt": "Duis excepteur culpa esse magna aute nostrud velit anim esse exercitation qui officia enim.",
+    "clockTime": 4.51,
+    "prompt": "Id amet magna et non ut sunt fugiat anim amet consectetur adipisicing ullamco aliquip amet esse.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 4.52,
-    "prompt": "Est enim nulla nisi eiusmod velit velit aliqua minim incididunt laboris eu.",
+    "prompt": "Nostrud est pariatur id commodo qui anim velit dolor deserunt in labore quis cillum Lorem dolore.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 453,
-    "prompt": "Amet ea mollit excepteur proident id mollit laboris sunt mollit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 4.53,
+    "prompt": "Minim occaecat occaecat excepteur sit id esse ex enim amet mollit officia.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 4.54,
-    "prompt": "Veniam in ad id deserunt commodo eiusmod sint voluptate commodo est.",
+    "prompt": "Laborum aliquip culpa tempor ea id qui in officia non in eiusmod dolor pariatur.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
+  },
+  {
+    "clockTime": 455,
+    "prompt": "Laboris labore nulla aliqua deserunt reprehenderit exercitation mollit irure deserunt duis laboris deserunt.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 4.55,
-    "prompt": "Laboris labore irure consequat culpa ut sint ut nulla Lorem fugiat consectetur deserunt fugiat eu sint.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 4.56,
-    "prompt": "Laboris est et sint enim culpa ipsum ut reprehenderit in ullamco commodo consectetur sint.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 456,
+    "prompt": "Mollit ea labore mollit nisi commodo incididunt id et veniam tempor id enim elit proident.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 457,
-    "prompt": "Tempor adipisicing anim ut ad ut sint qui pariatur tempor aute amet ea sunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Veniam sunt proident proident dolore proident velit ipsum laborum amet velit sint id ad ad.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 458,
-    "prompt": "Excepteur quis tempor fugiat commodo nisi culpa eu reprehenderit commodo officia ullamco do.",
+    "prompt": "Nulla quis laborum anim sit esse dolor sit duis amet reprehenderit adipisicing.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 459,
-    "prompt": "Elit esse minim magna cupidatat pariatur est labore laboris labore.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Proident do excepteur quis aute aliqua tempor id proident minim.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 500,
-    "prompt": "Voluptate commodo nisi pariatur incididunt veniam ea proident eiusmod enim minim officia ut enim.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 5,
+    "prompt": "Incididunt ex ex aliqua exercitation nulla qui aliquip ullamco ad id id id.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 5.01,
-    "prompt": "Qui mollit pariatur non dolore minim enim occaecat sit in ex aute excepteur.",
+    "prompt": "Et voluptate aliquip deserunt ullamco est veniam quis dolore enim enim est aliquip commodo deserunt aliquip.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 502,
-    "prompt": "Et incididunt eiusmod culpa non cillum dolor labore qui deserunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Non cupidatat excepteur aliqua ullamco quis nisi fugiat duis aliquip ad anim eiusmod.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 503,
-    "prompt": "Officia irure qui excepteur aliqua veniam occaecat cupidatat reprehenderit esse reprehenderit esse esse sunt eiusmod mollit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Eu ea consectetur sint nisi do magna magna laborum proident.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 504,
-    "prompt": "Cupidatat cupidatat esse consequat nulla excepteur nostrud esse pariatur fugiat ad laborum mollit reprehenderit eiusmod.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 5.04,
+    "prompt": "Aliquip incididunt in nostrud quis labore culpa anim ullamco sit nisi sit laboris.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 505,
-    "prompt": "Mollit cillum id do commodo adipisicing tempor reprehenderit ea sit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 5.05,
+    "prompt": "Excepteur id nostrud fugiat magna laborum nisi incididunt eu ad in minim ullamco culpa.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 506,
-    "prompt": "Eiusmod culpa consequat ipsum minim ex consequat sint commodo dolore sunt qui sunt.",
+    "prompt": "Eiusmod id ea tempor ex cupidatat occaecat do deserunt aliqua enim exercitation reprehenderit do incididunt.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
+  },
+  {
+    "clockTime": 507,
+    "prompt": "Excepteur pariatur elit sunt sunt ad laborum officia occaecat ipsum excepteur.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
+  },
+  {
+    "clockTime": 508,
+    "prompt": "Lorem commodo aliquip ea elit amet aute excepteur esse exercitation cupidatat.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 5.07,
-    "prompt": "Nostrud do excepteur ex dolore veniam enim anim voluptate ad magna est reprehenderit voluptate.",
+    "clockTime": 5.09,
+    "prompt": "Sit culpa aute qui ipsum et incididunt exercitation sunt et aliqua veniam.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 5.08,
-    "prompt": "Ullamco esse consequat proident nostrud exercitation deserunt velit et tempor pariatur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 509,
-    "prompt": "Nisi sit laborum laborum quis elit reprehenderit velit labore eu ea commodo.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 5.1,
-    "prompt": "Eu ipsum Lorem sint laborum anim occaecat adipisicing nulla ipsum culpa nisi nulla.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 510,
+    "prompt": "Qui irure ut dolor id dolore labore sunt velit occaecat qui velit velit occaecat.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 5.11,
-    "prompt": "Eu anim esse voluptate do eiusmod amet mollit dolor dolore nostrud est.",
+    "prompt": "Velit id amet culpa eiusmod culpa reprehenderit aute reprehenderit consequat labore sunt commodo dolor reprehenderit proident.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 512,
-    "prompt": "Laborum consectetur voluptate exercitation in elit et id cillum consectetur occaecat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Deserunt nisi magna nulla consectetur mollit adipisicing duis fugiat non tempor magna laborum.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 5.13,
-    "prompt": "Ut esse velit ullamco qui eiusmod ex eiusmod deserunt esse mollit minim.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Anim fugiat voluptate eiusmod fugiat commodo tempor labore magna minim est tempor cillum.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 5.14,
-    "prompt": "Voluptate culpa pariatur minim velit veniam magna duis velit velit pariatur exercitation cupidatat excepteur culpa excepteur.",
+    "prompt": "Labore aute commodo adipisicing nostrud aute tempor dolor dolor aliqua ex adipisicing ea.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
+  },
+  {
+    "clockTime": 515,
+    "prompt": "Irure velit sunt do elit laborum sint dolore eu sint sint aliqua est velit sint.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 5.15,
-    "prompt": "Eu laboris officia aliqua excepteur aliqua cupidatat tempor et anim aliqua laboris in cillum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 516,
+    "prompt": "Officia cupidatat fugiat adipisicing ad veniam cupidatat veniam dolor tempor non eu sint excepteur in.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 5.16,
-    "prompt": "Lorem deserunt aliqua reprehenderit mollit cillum nisi proident ex sit in.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 5.17,
+    "prompt": "Nisi anim tempor fugiat culpa qui proident sit do esse voluptate ea mollit in et culpa.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 517,
-    "prompt": "Cillum incididunt nisi anim ullamco adipisicing ex magna ex qui ad nisi in occaecat ut.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 5.18,
-    "prompt": "Cillum elit ipsum deserunt officia ex proident sint tempor dolor deserunt excepteur pariatur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 518,
+    "prompt": "Ad veniam in aute velit id amet do do culpa eiusmod consectetur nostrud.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 519,
-    "prompt": "Eu ex laboris aliqua sit eu ullamco dolore exercitation labore deserunt minim est incididunt qui.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Qui esse non consectetur eiusmod dolor qui officia irure tempor consequat.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 520,
-    "prompt": "Proident velit eiusmod enim cupidatat fugiat dolor eiusmod Lorem et sunt pariatur dolor aliquip anim dolore.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ut fugiat dolor aute ullamco non culpa et anim dolore aute proident proident officia cillum.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 5.21,
-    "prompt": "Do elit incididunt dolore proident ullamco reprehenderit est amet nostrud eu laboris exercitation.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Et laborum mollit esse amet magna reprehenderit enim eiusmod sunt occaecat ex dolore amet non.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 522,
-    "prompt": "Nulla ad labore dolore consequat ipsum consectetur et aute cillum laboris aliqua.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 5.22,
+    "prompt": "Non duis non Lorem nulla reprehenderit eiusmod sunt duis voluptate proident do aute nisi.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 5.23,
-    "prompt": "Sint aliqua sunt qui laboris commodo Lorem ex ex eu et sunt in tempor duis.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 523,
+    "prompt": "Exercitation cupidatat voluptate do laborum dolore officia tempor incididunt laboris irure fugiat.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 5.24,
-    "prompt": "Lorem nisi incididunt deserunt adipisicing non elit labore fugiat ullamco.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 524,
+    "prompt": "Est occaecat ad labore sint amet fugiat irure incididunt proident esse deserunt elit consequat.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 5.25,
-    "prompt": "Anim consequat eu ipsum eiusmod sint pariatur ipsum velit ut culpa laboris dolore minim laboris.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Incididunt aliqua aliquip culpa consequat dolore esse ipsum quis quis commodo veniam.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 526,
-    "prompt": "Laboris in quis nulla eiusmod deserunt labore labore minim culpa officia mollit non.",
+    "prompt": "Culpa ad amet est nulla aliqua laborum velit voluptate ullamco culpa.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 5.27,
-    "prompt": "Eiusmod in Lorem nostrud ex magna anim consectetur velit cupidatat ipsum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ullamco est excepteur proident sit ullamco duis velit proident nisi adipisicing enim ut culpa.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 528,
-    "prompt": "Dolore non laboris culpa nulla consequat minim et fugiat consectetur sit quis ea.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Culpa et magna cillum anim veniam labore ipsum excepteur magna excepteur nostrud sunt.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 5.29,
-    "prompt": "Duis cupidatat consequat id amet enim non proident nulla ea labore nisi quis cillum dolore.",
+    "clockTime": 529,
+    "prompt": "Sit Lorem commodo irure ipsum tempor magna velit in pariatur reprehenderit incididunt labore laborum.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 530,
-    "prompt": "Cillum dolore magna ipsum amet culpa pariatur ut incididunt ullamco aute laborum veniam occaecat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Mollit dolor irure eiusmod non sunt occaecat veniam minim irure ad.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 5.31,
-    "prompt": "Aliqua sunt laborum anim ad duis commodo id sint in quis Lorem esse eiusmod magna.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 531,
+    "prompt": "Reprehenderit exercitation qui consequat reprehenderit eiusmod laboris commodo qui aliquip occaecat enim magna.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 532,
-    "prompt": "Voluptate pariatur anim ipsum nostrud veniam aute consectetur eu ea excepteur velit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 5.32,
+    "prompt": "Sit proident mollit reprehenderit anim nostrud tempor ipsum excepteur ullamco laborum non non est qui.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 533,
-    "prompt": "Deserunt sunt deserunt fugiat Lorem nisi velit laboris velit ad occaecat culpa esse reprehenderit do veniam.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 5.33,
+    "prompt": "Irure excepteur velit nisi non ex cupidatat do nulla incididunt in sit.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 534,
-    "prompt": "Consequat magna enim esse adipisicing dolor quis consectetur commodo sint fugiat cillum ea labore.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 5.34,
+    "prompt": "Fugiat nisi excepteur magna exercitation do elit mollit ex amet consectetur labore voluptate est.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 535,
-    "prompt": "Ullamco ea labore sunt ex cillum ex mollit exercitation occaecat do Lorem laborum irure labore.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 5.35,
+    "prompt": "Ad commodo ea cupidatat voluptate nulla enim ut amet reprehenderit.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 536,
-    "prompt": "Nulla eu amet laboris elit anim adipisicing velit in laborum consequat excepteur voluptate irure do.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 5.36,
+    "prompt": "Mollit officia culpa mollit sit commodo minim voluptate velit nostrud et.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 5.37,
-    "prompt": "Eiusmod ea ut qui ipsum adipisicing ut dolore occaecat Lorem.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 537,
+    "prompt": "Reprehenderit aliqua duis cupidatat esse eu duis mollit ex quis tempor commodo.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 538,
-    "prompt": "Ut officia aute cillum duis aliquip aute reprehenderit mollit officia excepteur est non et.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Nisi amet veniam est adipisicing ut esse minim minim quis exercitation labore.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 5.39,
-    "prompt": "Deserunt nostrud nisi sit velit sint magna consequat dolor adipisicing commodo incididunt ullamco est elit eu.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 539,
+    "prompt": "In voluptate elit tempor sint ullamco culpa ex consectetur eiusmod minim pariatur labore.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 540,
-    "prompt": "Enim consectetur aliquip qui nostrud qui ut consectetur culpa consequat dolor sunt dolore esse consequat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ex aliquip esse ea eiusmod esse ea Lorem Lorem aute sint magna proident magna.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 541,
-    "prompt": "Est irure elit sint dolore reprehenderit esse ex cupidatat adipisicing.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Elit voluptate aute laboris ipsum irure irure eiusmod commodo et ullamco excepteur consequat ullamco Lorem.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 5.42,
-    "prompt": "Aliqua nisi eiusmod elit duis amet pariatur proident anim consectetur excepteur veniam labore pariatur enim.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Qui ea ut incididunt cupidatat incididunt mollit reprehenderit id do ut culpa.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 5.43,
-    "prompt": "Aute eu irure ea ipsum eiusmod in culpa eu laboris quis do ut sunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 543,
+    "prompt": "Eiusmod do laborum id exercitation aute veniam anim ea amet velit.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 5.44,
-    "prompt": "Incididunt minim cillum nostrud culpa cupidatat id et ipsum ut eu veniam magna consectetur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 544,
+    "prompt": "Magna cillum deserunt culpa tempor dolore quis nostrud excepteur officia consectetur duis cupidatat proident magna consectetur.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 545,
-    "prompt": "Amet fugiat laborum ea enim cillum ea ullamco pariatur est ex aute anim dolore.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 5.45,
+    "prompt": "Do eu fugiat nostrud fugiat duis fugiat adipisicing amet veniam adipisicing consectetur consectetur velit ad quis.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 5.46,
-    "prompt": "Est ipsum eiusmod esse voluptate sunt mollit excepteur irure nostrud deserunt nisi.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ipsum id officia et duis est nostrud non est proident aliqua.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 547,
-    "prompt": "Ipsum amet aliquip eiusmod enim reprehenderit enim occaecat laborum mollit sunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 5.47,
+    "prompt": "Cillum quis et ipsum nisi veniam deserunt deserunt dolor Lorem magna labore in fugiat non.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 5.48,
-    "prompt": "Aute aliqua ea sit excepteur irure minim et Lorem ea cillum elit nostrud.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 548,
+    "prompt": "Consequat sit cillum aliqua excepteur et exercitation exercitation ipsum irure et proident dolor duis aute.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 5.49,
-    "prompt": "Mollit eu aliquip voluptate nisi do laborum do deserunt culpa laboris.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 549,
+    "prompt": "Adipisicing consequat non cupidatat ea dolor laborum reprehenderit ex officia quis.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 5.5,
-    "prompt": "Ullamco adipisicing consequat culpa aliqua sit adipisicing dolore esse esse anim.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 550,
+    "prompt": "Minim occaecat labore voluptate eiusmod proident magna eiusmod occaecat sit.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 551,
-    "prompt": "Minim culpa ex commodo pariatur est est ea ex deserunt pariatur proident non elit ipsum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Eu magna excepteur nisi id est nulla id enim nisi do exercitation eu anim ullamco.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 552,
-    "prompt": "Magna elit excepteur exercitation aliqua consectetur velit proident sunt officia sint.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 5.52,
+    "prompt": "Qui labore consectetur ea laborum dolore enim proident nisi minim aliqua.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 5.53,
-    "prompt": "Ullamco ipsum pariatur adipisicing consequat non anim ipsum Lorem laborum magna qui.",
+    "clockTime": 553,
+    "prompt": "Incididunt labore occaecat consequat dolore ad proident veniam duis dolore proident magna magna duis aliquip incididunt.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 554,
-    "prompt": "Magna excepteur proident anim qui cupidatat qui cillum exercitation occaecat.",
+    "prompt": "Eu pariatur minim ex dolor reprehenderit nostrud nostrud Lorem deserunt ex aute cupidatat cillum quis nostrud.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 555,
-    "prompt": "Fugiat est occaecat ea amet do tempor exercitation elit commodo nisi enim sint.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Sunt tempor voluptate do nisi magna dolore consectetur mollit ipsum.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 556,
-    "prompt": "Cillum reprehenderit minim ullamco anim Lorem est eu proident sunt voluptate ullamco.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 5.56,
+    "prompt": "Fugiat proident cillum veniam dolore enim consequat dolor occaecat deserunt Lorem officia eu deserunt deserunt nisi.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 5.57,
-    "prompt": "Consectetur magna esse enim aliqua do quis quis reprehenderit reprehenderit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Occaecat mollit magna proident elit consectetur laborum et sint eu.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 5.58,
-    "prompt": "Pariatur duis ut Lorem proident laborum officia anim sunt laboris amet sit sit amet.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 558,
+    "prompt": "Dolore duis voluptate exercitation sunt proident fugiat velit aute eu labore veniam occaecat.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 5.59,
-    "prompt": "Ipsum voluptate enim commodo proident exercitation id consectetur consectetur anim incididunt quis Lorem aute non.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 559,
+    "prompt": "Sit laborum aliquip excepteur in ad deserunt proident ullamco laborum commodo eiusmod.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 6,
-    "prompt": "Nulla tempor id ad enim cillum labore occaecat culpa non voluptate do anim mollit.",
+    "prompt": "Sint duis mollit eu in enim amet cupidatat reprehenderit elit.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 601,
-    "prompt": "Officia ex aute culpa commodo reprehenderit officia sint cillum sit excepteur officia Lorem tempor nostrud aute.",
+    "prompt": "Cillum aute et mollit adipisicing et excepteur duis duis elit duis ipsum ea magna.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 602,
-    "prompt": "Velit do Lorem Lorem est consequat consequat nulla Lorem consectetur consequat velit deserunt ipsum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 6.02,
+    "prompt": "Incididunt labore aliquip nostrud consectetur voluptate non elit irure nostrud nulla sunt ad nostrud.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 603,
-    "prompt": "Do nulla officia nisi labore aute laboris ea reprehenderit amet labore excepteur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Et irure qui magna velit sint veniam et nulla adipisicing sint.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 604,
-    "prompt": "Ad culpa do voluptate consequat velit minim laboris tempor nisi excepteur cupidatat consequat et tempor.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Cupidatat aliquip deserunt eiusmod esse ut eu aliquip nisi ad in in ex ea.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 6.05,
-    "prompt": "Sit laboris in aute nostrud eu ipsum irure id eiusmod anim aute.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 605,
+    "prompt": "Cupidatat laboris non nostrud do adipisicing excepteur et eiusmod fugiat ullamco sunt labore ipsum.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 606,
-    "prompt": "Qui nisi commodo fugiat Lorem consequat ex ex do Lorem deserunt irure quis.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 6.06,
+    "prompt": "Do exercitation reprehenderit sit occaecat nisi in magna incididunt ullamco magna.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 6.07,
-    "prompt": "In ullamco eiusmod duis duis ipsum labore sint proident culpa Lorem veniam laboris duis.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 607,
+    "prompt": "Laborum nulla laboris laboris in consectetur consectetur laboris enim nisi.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 608,
-    "prompt": "Nisi irure pariatur enim sit commodo non adipisicing aliquip minim ut eu qui labore tempor eu.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Officia eu fugiat qui amet tempor reprehenderit quis consequat aliquip ullamco ad aute culpa.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 6.09,
-    "prompt": "Laboris sit commodo et tempor occaecat Lorem sint deserunt veniam eiusmod sint.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Nulla ea Lorem laboris aute commodo officia ipsum voluptate excepteur eu esse id in.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 6.1,
-    "prompt": "Id duis aliquip aliquip anim consectetur voluptate Lorem aute ad non enim esse consectetur laboris consequat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Quis occaecat fugiat voluptate elit eu voluptate incididunt elit minim commodo aute mollit irure.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 611,
-    "prompt": "Commodo eu veniam quis eu quis labore do id id.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Dolor eiusmod enim ut ut aliqua id aliqua voluptate excepteur voluptate eu ut enim nostrud.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 6.12,
-    "prompt": "Officia deserunt commodo adipisicing veniam sint minim commodo eiusmod enim.",
+    "prompt": "Ullamco cupidatat magna velit dolor veniam reprehenderit adipisicing laborum sunt ut dolore enim.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
+  },
+  {
+    "clockTime": 613,
+    "prompt": "Ullamco occaecat duis enim commodo aliquip quis ullamco Lorem ex velit do qui qui duis Lorem.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
+  },
+  {
+    "clockTime": 614,
+    "prompt": "Ex anim do nulla Lorem est deserunt occaecat aliqua proident sint deserunt enim.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 6.13,
-    "prompt": "Ea nisi voluptate consectetur cupidatat pariatur exercitation eu aute cupidatat veniam.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 615,
+    "prompt": "Quis ea incididunt aliquip fugiat irure occaecat sit aliqua dolor culpa elit.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 6.14,
-    "prompt": "Eiusmod adipisicing occaecat ut ut eiusmod nisi elit ad qui ut cillum deserunt consectetur est.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 6.15,
-    "prompt": "Et sint excepteur exercitation aliquip laborum duis sint nulla et excepteur proident.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 616,
-    "prompt": "Cillum occaecat dolor mollit laboris eiusmod dolore dolor enim elit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 6.16,
+    "prompt": "Tempor pariatur reprehenderit dolor commodo proident enim mollit ut ea voluptate Lorem consectetur.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 617,
-    "prompt": "Ipsum ad nostrud pariatur dolore non deserunt consectetur id esse voluptate mollit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Fugiat ex reprehenderit esse proident exercitation nulla mollit laboris laborum nisi ea.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 618,
-    "prompt": "Proident eiusmod eu aute eiusmod consectetur aliqua commodo minim dolor.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Amet amet eu laborum incididunt ullamco sit consequat tempor dolore anim ipsum.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 619,
-    "prompt": "Commodo ex ullamco dolore eu quis sunt sint occaecat aute aliquip reprehenderit amet est pariatur Lorem.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Nostrud ut eu eu culpa aliqua sint culpa duis pariatur esse.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 6.2,
-    "prompt": "Excepteur est voluptate dolore ex nisi aliquip sit labore exercitation et proident adipisicing dolor reprehenderit ad.",
+    "clockTime": 620,
+    "prompt": "Commodo consequat tempor dolor aliqua aliqua proident dolor nulla non velit dolore officia irure cupidatat.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 6.21,
-    "prompt": "Esse ipsum eiusmod nulla officia fugiat ut incididunt commodo eu consectetur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Anim veniam officia non voluptate id elit sunt aliquip sit eiusmod in fugiat eu minim est.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 6.22,
-    "prompt": "Pariatur cillum commodo aliquip reprehenderit dolor non incididunt ipsum nulla magna.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Amet voluptate incididunt occaecat irure consectetur officia elit minim consectetur.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 623,
-    "prompt": "Lorem officia consectetur reprehenderit laboris aliqua sint qui magna laboris tempor in in amet esse dolore.",
+    "prompt": "Excepteur aliqua tempor in occaecat aliquip duis ut aliquip et veniam laboris ipsum ipsum eiusmod.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 624,
-    "prompt": "Nisi duis enim sint exercitation Lorem eiusmod veniam non officia voluptate minim dolore ex pariatur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Enim irure enim dolor consequat tempor dolor nostrud ipsum fugiat anim ex magna pariatur ea.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 625,
-    "prompt": "Dolor Lorem magna cillum officia elit aute quis duis id nisi deserunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 6.25,
+    "prompt": "Consectetur aliqua id nisi eu nostrud mollit id minim aute sunt.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 6.26,
-    "prompt": "Sint occaecat labore quis consectetur sunt ut duis est ad eu nulla adipisicing proident elit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 626,
+    "prompt": "Adipisicing velit pariatur quis id aute dolore tempor voluptate anim reprehenderit fugiat ipsum.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 627,
-    "prompt": "Quis qui ipsum consectetur dolore duis nulla consectetur esse velit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 6.27,
+    "prompt": "Aliquip anim do sit incididunt Lorem nulla esse laborum proident proident nulla aliquip commodo dolor officia.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 628,
-    "prompt": "Culpa amet ut culpa culpa qui sunt adipisicing minim ullamco nostrud.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 6.28,
+    "prompt": "Occaecat Lorem consequat nulla excepteur in incididunt enim et eiusmod aliquip.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 629,
-    "prompt": "Ea quis voluptate consectetur eu quis consequat esse veniam elit ullamco ea.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Eiusmod velit mollit id deserunt irure cupidatat mollit minim officia Lorem.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 6.3,
-    "prompt": "Eu sunt veniam nisi eiusmod eu ex occaecat esse occaecat deserunt consectetur ea laboris.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 630,
+    "prompt": "Proident ullamco proident Lorem officia irure excepteur in deserunt et deserunt sit commodo occaecat cillum.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 631,
-    "prompt": "Deserunt nostrud ea cupidatat in quis amet excepteur eiusmod veniam elit sint ad consectetur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ut excepteur cillum esse et laborum Lorem proident et commodo.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 632,
-    "prompt": "In aute aute in elit occaecat officia commodo adipisicing voluptate eiusmod tempor sunt id.",
+    "prompt": "Dolore id ipsum amet esse mollit duis consectetur deserunt ad sit ea labore aliquip amet tempor.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 6.33,
-    "prompt": "Deserunt duis eiusmod proident ut quis dolore voluptate non consequat do reprehenderit dolor esse do.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Sunt consequat ut labore commodo deserunt reprehenderit est excepteur nostrud et.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 634,
-    "prompt": "Enim veniam laboris est laboris ut sunt aliquip duis aute in cupidatat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Officia laborum occaecat excepteur velit ea commodo consectetur sunt sunt nulla cupidatat.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 635,
-    "prompt": "Aute qui culpa dolor Lorem eu sunt est consequat ut nisi voluptate.",
+    "prompt": "Dolore ex et amet elit ea elit qui mollit enim sunt exercitation non consequat culpa culpa.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 6.36,
-    "prompt": "Est nostrud consequat dolore laboris ea elit commodo consectetur ex tempor non.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ea id id pariatur mollit tempor cillum officia velit do reprehenderit deserunt ex.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 637,
-    "prompt": "Cupidatat ullamco velit ut ad pariatur consectetur dolor esse nostrud Lorem pariatur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 6.37,
+    "prompt": "Esse enim pariatur culpa dolore laborum amet aute anim minim in ad eiusmod veniam.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 638,
-    "prompt": "Ut amet ut est quis nostrud excepteur laborum consequat sint.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 6.38,
+    "prompt": "Aute voluptate aute esse sit aute amet proident ad ullamco ut Lorem.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 6.39,
-    "prompt": "Sit irure velit incididunt exercitation do nostrud proident ipsum veniam nulla pariatur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 639,
+    "prompt": "Adipisicing non ipsum dolor fugiat nulla sint ad ea culpa culpa.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 6.4,
-    "prompt": "Ad labore aliqua reprehenderit quis commodo labore cillum ex nisi eiusmod nisi.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Est quis nisi id nostrud aute minim elit dolor nulla eu minim commodo enim irure.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 6.41,
-    "prompt": "Duis do cupidatat enim incididunt exercitation Lorem esse deserunt excepteur fugiat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Aliquip aute do ullamco in fugiat aute proident sunt dolore.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 642,
-    "prompt": "Et voluptate id officia est laborum dolore ex irure ea amet incididunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Officia aliquip velit id id Lorem nostrud dolor sint aliquip deserunt.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 6.43,
-    "prompt": "Consequat officia est elit nulla mollit cupidatat non nulla esse elit laborum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 643,
+    "prompt": "Adipisicing do non ut excepteur non laborum veniam cillum consectetur tempor aliquip velit.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 644,
-    "prompt": "Pariatur irure occaecat fugiat velit fugiat eu reprehenderit exercitation mollit pariatur ad culpa anim aute Lorem.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 6.44,
+    "prompt": "Dolor proident dolore laborum nulla sint tempor tempor eu laborum ad in irure amet.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 645,
-    "prompt": "Pariatur dolor tempor est excepteur exercitation occaecat ipsum fugiat sunt exercitation non officia aliqua aute velit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Consequat elit magna eu dolor tempor ut ea velit ad dolor mollit reprehenderit dolore.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 646,
-    "prompt": "Voluptate do mollit magna magna incididunt dolor veniam aute id est velit sunt.",
+    "prompt": "Anim eiusmod incididunt ad commodo non adipisicing consequat fugiat labore quis sit.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 647,
-    "prompt": "Officia velit dolor nisi nisi Lorem reprehenderit occaecat cillum sit reprehenderit ipsum dolore aute duis.",
+    "clockTime": 6.47,
+    "prompt": "Deserunt ad excepteur ad sint enim do id amet dolore sint qui.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 648,
-    "prompt": "Dolor ad sit exercitation laborum non sint ex esse amet sit elit cupidatat.",
+    "prompt": "Voluptate eiusmod voluptate pariatur aliqua voluptate deserunt incididunt do magna excepteur minim deserunt deserunt labore.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 6.49,
-    "prompt": "Tempor do id veniam est amet deserunt nostrud officia cupidatat in ullamco aliqua cillum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Quis nostrud elit dolore ad elit ea Lorem cupidatat qui incididunt irure eu dolore.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 650,
-    "prompt": "Dolor sint esse occaecat laborum ea laborum amet consequat consequat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Labore voluptate amet fugiat sit id mollit esse tempor tempor irure sunt.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 651,
-    "prompt": "Amet do occaecat elit excepteur laborum ad aliqua aliquip qui reprehenderit dolor amet.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 6.51,
+    "prompt": "Est quis est eiusmod eu ad id ipsum consectetur ut officia ullamco nostrud culpa exercitation quis.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 652,
-    "prompt": "Labore qui magna elit esse eu occaecat mollit cupidatat ullamco qui mollit.",
+    "prompt": "Veniam tempor adipisicing ut voluptate dolor consectetur ut quis in commodo ex amet Lorem.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 653,
-    "prompt": "Sunt commodo labore id eiusmod nulla sunt ea eu culpa.",
+    "prompt": "Laboris duis ea commodo enim occaecat duis qui in dolore consequat.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
+  },
+  {
+    "clockTime": 6.54,
+    "prompt": "Velit consequat adipisicing consequat aliqua incididunt eu fugiat dolore ea incididunt aliqua commodo sint.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
+  },
+  {
+    "clockTime": 655,
+    "prompt": "Sit enim enim cupidatat eu tempor ea labore ut esse.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 654,
-    "prompt": "Sunt do dolor in et culpa cillum aliquip cillum aliquip amet.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 656,
+    "prompt": "Est aliquip eiusmod voluptate est amet veniam dolore irure proident laboris minim occaecat irure tempor.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 6.55,
-    "prompt": "Enim et eu id adipisicing do ea ad est proident non eiusmod deserunt pariatur voluptate.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 657,
+    "prompt": "Adipisicing occaecat irure ex anim incididunt non proident dolor id.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 6.56,
-    "prompt": "Ut commodo consequat quis veniam proident anim minim qui qui.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 6.58,
+    "prompt": "Eiusmod cillum culpa qui qui laboris sunt anim incididunt eu ad ad commodo labore.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 6.57,
-    "prompt": "Id eiusmod non nisi officia eu veniam magna exercitation deserunt cillum esse eiusmod sit nostrud.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 658,
-    "prompt": "Quis culpa qui qui occaecat commodo cillum nulla fugiat velit pariatur qui.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 659,
-    "prompt": "Occaecat incididunt exercitation dolor voluptate officia laboris est quis adipisicing non.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 6.59,
+    "prompt": "Cupidatat nisi do aute voluptate sint id Lorem consequat consectetur dolor incididunt elit Lorem.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 700,
-    "prompt": "Velit qui tempor aliqua ea labore quis irure duis ex excepteur ipsum in.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ad qui anim cillum duis exercitation Lorem ad mollit mollit sint anim incididunt.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 7.01,
-    "prompt": "Velit minim adipisicing mollit irure magna ea adipisicing aute pariatur commodo excepteur excepteur adipisicing aute non.",
+    "prompt": "Pariatur officia veniam pariatur tempor ex aliquip id culpa ullamco culpa in proident non ipsum occaecat.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
+  },
+  {
+    "clockTime": 7.02,
+    "prompt": "Consequat eiusmod cillum et elit esse aliquip magna deserunt laboris eiusmod elit aliqua dolore.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
+  },
+  {
+    "clockTime": 7.03,
+    "prompt": "Anim culpa sunt exercitation reprehenderit esse enim non dolor deserunt cillum velit.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 702,
-    "prompt": "Proident reprehenderit labore sint laboris sit occaecat dolore eu voluptate nisi excepteur proident deserunt sint cupidatat.",
+    "clockTime": 704,
+    "prompt": "Aliquip quis veniam nulla adipisicing nisi id cillum esse ut.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 703,
-    "prompt": "Duis qui est incididunt mollit adipisicing duis incididunt exercitation veniam sint enim.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 7.04,
-    "prompt": "Nulla esse mollit est exercitation do tempor duis Lorem fugiat magna nulla.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 7.05,
-    "prompt": "Anim laborum exercitation cupidatat magna non cupidatat ut nulla irure excepteur enim culpa.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 705,
+    "prompt": "Cillum aliqua exercitation cillum proident id nostrud excepteur duis adipisicing quis commodo reprehenderit.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 706,
-    "prompt": "Magna enim ex ex ut ad eu mollit amet aliquip cupidatat excepteur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Sint non aliqua ex ut et laboris aute enim eu ipsum esse non anim non esse.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 707,
-    "prompt": "Fugiat do mollit occaecat ipsum magna proident veniam sit velit consectetur ut officia consequat exercitation mollit.",
+    "prompt": "Nostrud excepteur laborum consequat officia reprehenderit cillum ipsum eiusmod non ea consectetur ad.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
+  },
+  {
+    "clockTime": 7.08,
+    "prompt": "Non occaecat occaecat qui aliquip Lorem nostrud incididunt ea nulla qui.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 708,
-    "prompt": "Aliquip nisi nostrud commodo cupidatat cupidatat occaecat cupidatat commodo quis fugiat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 7.09,
+    "prompt": "Nisi mollit ut excepteur laborum ad tempor id sint officia.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 709,
-    "prompt": "Sint aute eiusmod officia quis cupidatat magna elit eiusmod cillum pariatur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 7.1,
+    "prompt": "Tempor deserunt qui et cupidatat incididunt exercitation velit magna dolore in.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 710,
-    "prompt": "Veniam deserunt irure eu pariatur minim sunt aute veniam proident eiusmod.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 711,
-    "prompt": "Ad quis ullamco ullamco minim qui voluptate et quis est.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 7.11,
+    "prompt": "Occaecat incididunt duis incididunt Lorem do exercitation ullamco aute voluptate officia elit minim irure est.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 712,
-    "prompt": "Et mollit cillum aliqua sit cupidatat cupidatat ullamco pariatur dolore nulla ea cupidatat aliqua.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Tempor ea eiusmod anim consectetur reprehenderit consectetur tempor proident occaecat culpa ea qui reprehenderit tempor reprehenderit.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 713,
-    "prompt": "Sunt quis consequat ipsum commodo occaecat proident eu cillum elit.",
+    "prompt": "Irure velit exercitation do aliquip velit do non laboris commodo elit elit excepteur qui.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 7.14,
-    "prompt": "Officia culpa ad voluptate Lorem adipisicing laborum ex veniam enim irure pariatur dolore exercitation.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Dolor veniam sunt excepteur voluptate Lorem culpa adipisicing reprehenderit do consequat.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 7.15,
-    "prompt": "Eiusmod duis commodo est minim officia sunt quis est sint elit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Irure exercitation labore proident ullamco culpa nulla elit labore sunt culpa velit.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 7.16,
-    "prompt": "Non exercitation ea magna laborum est laborum proident dolor occaecat Lorem.",
+    "prompt": "Amet minim duis ut ipsum minim magna magna voluptate dolore commodo est anim consectetur.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 717,
-    "prompt": "Excepteur Lorem adipisicing officia mollit officia exercitation culpa magna laboris elit dolor officia veniam non.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "In consequat magna in quis ad commodo ullamco commodo ex dolor.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 7.18,
-    "prompt": "Tempor fugiat dolore velit et ipsum occaecat pariatur occaecat consectetur velit mollit voluptate.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Quis sint elit voluptate duis ad aliquip sunt Lorem dolor culpa excepteur incididunt.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 719,
-    "prompt": "Do irure laborum do consectetur labore in do labore esse ipsum occaecat culpa culpa.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 7.19,
+    "prompt": "Incididunt sit ipsum quis ullamco laboris amet excepteur aliquip laboris laborum.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 7.2,
-    "prompt": "Sunt exercitation excepteur labore qui excepteur quis ipsum nisi cillum commodo pariatur eu laboris laborum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 720,
+    "prompt": "Minim sit nulla mollit non commodo reprehenderit est ut do veniam cillum reprehenderit ut sunt cupidatat.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 721,
-    "prompt": "Cillum in sunt mollit do elit minim cupidatat nulla eu aliqua deserunt sit cupidatat cillum anim.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Adipisicing id esse est ut elit aliqua do non fugiat eu proident.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 722,
-    "prompt": "Voluptate incididunt fugiat magna aliquip laborum enim nostrud exercitation ullamco enim.",
+    "prompt": "Amet veniam sit enim voluptate elit deserunt occaecat sit tempor nostrud occaecat.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 7.23,
-    "prompt": "Ea dolor ullamco exercitation veniam nostrud ut duis elit non ut nulla eu tempor.",
+    "prompt": "Proident eu velit laborum excepteur consectetur excepteur sunt ipsum consequat ea pariatur.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 7.24,
-    "prompt": "Laboris excepteur ullamco cillum esse deserunt quis eiusmod officia ad sunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 724,
+    "prompt": "Anim aliquip magna sunt anim enim amet sunt proident exercitation consectetur veniam enim consectetur sit velit.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 725,
-    "prompt": "Dolor consectetur sit adipisicing quis eu consectetur ipsum ut magna Lorem quis eu.",
+    "prompt": "Minim quis ut est ullamco nulla cupidatat irure est laboris irure ipsum do proident velit deserunt.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
+  },
+  {
+    "clockTime": 726,
+    "prompt": "Incididunt incididunt minim magna culpa ad aute officia et amet eu laborum sint.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
+  },
+  {
+    "clockTime": 7.27,
+    "prompt": "Consectetur anim mollit cupidatat ipsum ad labore mollit pariatur veniam velit.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 7.26,
-    "prompt": "Sunt qui nostrud deserunt cupidatat adipisicing deserunt ullamco irure anim non quis sunt occaecat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 727,
-    "prompt": "Enim duis culpa consequat elit sit labore cillum anim culpa dolor quis nisi quis.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 7.28,
-    "prompt": "Veniam irure fugiat ipsum exercitation laboris commodo consequat nisi et adipisicing.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 728,
+    "prompt": "Nisi labore irure sit sunt velit consectetur consectetur consectetur ea.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 729,
-    "prompt": "Sint ad qui reprehenderit quis exercitation irure consequat sint aute adipisicing.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Elit nisi adipisicing mollit nostrud velit tempor aute adipisicing voluptate tempor laboris aute ad.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 730,
-    "prompt": "Ex nisi pariatur magna excepteur proident cupidatat eu velit Lorem.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 7.3,
+    "prompt": "Eiusmod quis duis occaecat eiusmod Lorem anim ad dolore sunt proident sit sint deserunt.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 731,
-    "prompt": "Excepteur laboris ullamco ex ea elit ea voluptate id pariatur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Consectetur fugiat ex culpa enim nulla Lorem Lorem occaecat occaecat laborum in excepteur ex.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 732,
-    "prompt": "Incididunt veniam do elit sit labore esse cupidatat reprehenderit Lorem non.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Culpa enim ullamco non amet occaecat quis esse anim ullamco et.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 7.33,
-    "prompt": "Veniam amet laborum id magna officia Lorem commodo proident in sint cupidatat occaecat adipisicing cillum amet.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 733,
+    "prompt": "Nisi incididunt officia sint duis irure occaecat sit eu officia ex laboris culpa.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 734,
-    "prompt": "Eiusmod sunt ad irure eiusmod exercitation irure cillum elit commodo.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Minim labore sit fugiat culpa duis dolore veniam elit pariatur.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 735,
-    "prompt": "Nisi qui adipisicing exercitation sunt do voluptate fugiat esse mollit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Culpa id proident incididunt anim ea veniam ullamco anim aliquip dolore cupidatat.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 736,
-    "prompt": "Eu officia qui laboris voluptate do irure esse occaecat non pariatur occaecat nulla tempor cillum.",
+    "prompt": "Ex esse reprehenderit ipsum elit laborum exercitation nulla enim est.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 737,
-    "prompt": "Laboris excepteur non duis exercitation nulla aliqua deserunt id excepteur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 7.37,
+    "prompt": "Ipsum tempor aute veniam consequat Lorem proident est enim incididunt cillum commodo.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 738,
-    "prompt": "Labore magna et sint id incididunt ea dolor officia et ex dolore nisi sunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Magna ex qui Lorem anim elit aliquip ullamco quis veniam ut irure amet esse Lorem nisi.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 739,
-    "prompt": "Fugiat mollit culpa officia Lorem enim Lorem deserunt consectetur aute esse consequat proident culpa ad.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Dolore fugiat id aliqua nulla magna id aliquip veniam enim est nulla.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 7.4,
-    "prompt": "Voluptate aliqua cillum esse sunt tempor Lorem cillum est est qui exercitation aute sint eu.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 740,
+    "prompt": "Nulla do laborum ad qui eu esse consequat ad incididunt.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 7.41,
-    "prompt": "Dolore commodo ipsum eiusmod deserunt exercitation reprehenderit duis duis exercitation culpa.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 741,
+    "prompt": "Aute qui ipsum ea pariatur pariatur dolore culpa proident anim velit enim commodo est deserunt veniam.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 742,
-    "prompt": "Magna et commodo sint veniam nulla minim laboris dolor esse sit irure nostrud adipisicing.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Deserunt eu elit sint nostrud non ut aliqua tempor velit consectetur culpa eu labore et pariatur.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 743,
-    "prompt": "Elit aliquip aliquip minim anim ea qui amet velit eu do Lorem qui aute.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 7.43,
+    "prompt": "Aute sint voluptate pariatur irure pariatur labore nisi consequat elit non veniam deserunt sunt.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 744,
-    "prompt": "Culpa minim tempor eiusmod aute incididunt laborum veniam anim reprehenderit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Incididunt eu eiusmod consequat non ea qui pariatur aliquip sunt Lorem ipsum ullamco laboris ex.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 745,
-    "prompt": "Adipisicing aute proident et occaecat non ea aliquip aliqua laboris dolor labore elit excepteur nisi.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 7.45,
+    "prompt": "Ea exercitation elit ipsum enim minim duis et consectetur sunt et magna tempor excepteur fugiat.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 7.46,
-    "prompt": "Deserunt ex consectetur magna incididunt duis duis qui nisi exercitation fugiat consectetur occaecat aliquip.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 746,
+    "prompt": "Magna minim eu amet consequat non nostrud deserunt occaecat velit ex pariatur id consequat qui.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 747,
-    "prompt": "Ipsum voluptate officia anim mollit laboris commodo laboris nostrud commodo minim irure sunt culpa.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Dolore est incididunt cupidatat ex nulla ad elit officia in duis veniam exercitation sunt et veniam.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 748,
-    "prompt": "Dolore cillum esse mollit tempor anim enim dolor laborum officia commodo enim sunt proident reprehenderit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 7.48,
+    "prompt": "Incididunt velit ex officia ullamco cillum consequat reprehenderit laborum ipsum aliqua enim est sint ut.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 749,
-    "prompt": "Eu cupidatat ullamco veniam mollit non nisi ullamco nulla incididunt culpa labore consectetur do ipsum laboris.",
+    "prompt": "Deserunt ut labore sunt sunt officia culpa eiusmod exercitation quis ullamco consectetur quis.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 7.5,
-    "prompt": "Culpa fugiat Lorem occaecat deserunt proident Lorem est officia qui eiusmod eiusmod magna.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 750,
+    "prompt": "Aute enim fugiat non eu proident deserunt sint sit aliqua nostrud aliquip in.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 751,
-    "prompt": "Fugiat anim laborum est commodo ipsum voluptate ipsum fugiat magna.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Proident proident consequat qui ipsum cupidatat duis in consectetur minim ea.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 752,
-    "prompt": "Minim reprehenderit cupidatat ut adipisicing commodo amet qui adipisicing nisi quis fugiat nisi.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 7.52,
+    "prompt": "Enim culpa sit amet esse sint aliqua deserunt consectetur Lorem.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 7.53,
-    "prompt": "Laborum enim incididunt Lorem dolor pariatur in irure voluptate sunt incididunt.",
+    "prompt": "Fugiat magna sunt aliqua ipsum aute irure dolor consectetur anim in irure dolor.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 754,
-    "prompt": "Consequat eu do Lorem enim id velit qui nulla excepteur consequat laboris dolor.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 7.54,
+    "prompt": "Quis labore ipsum ex officia qui pariatur incididunt excepteur esse ut fugiat irure et nostrud sint.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 755,
-    "prompt": "Dolore anim consectetur do ipsum incididunt duis reprehenderit sunt qui et voluptate commodo elit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Sit eiusmod in occaecat aliqua consectetur qui ad pariatur et deserunt quis ut et quis.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 7.56,
-    "prompt": "Proident tempor cillum in excepteur nostrud labore id pariatur deserunt ut eiusmod magna ullamco consequat.",
+    "prompt": "Fugiat Lorem dolore dolore ut aliquip exercitation do laborum fugiat sit.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
+  },
+  {
+    "clockTime": 7.57,
+    "prompt": "Duis ad aute non consectetur excepteur cupidatat ipsum exercitation deserunt aute esse commodo eiusmod et deserunt.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
+  },
+  {
+    "clockTime": 7.58,
+    "prompt": "Ea do dolore mollit anim laborum ut nulla sint magna aliqua aliqua est non magna et.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 757,
-    "prompt": "Dolore pariatur tempor occaecat non elit minim officia anim deserunt adipisicing laborum sint consectetur aute.",
+    "clockTime": 759,
+    "prompt": "Velit aliquip cillum et est ex sint ea voluptate duis.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
+  },
+  {
+    "clockTime": 800,
+    "prompt": "Culpa irure qui incididunt reprehenderit aute quis nisi aliqua ex magna mollit.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 758,
-    "prompt": "Culpa mollit sit nulla aute qui eu occaecat duis consectetur eu sunt laborum ullamco.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 7.59,
-    "prompt": "Excepteur in reprehenderit dolore laborum dolor aliqua nisi fugiat voluptate velit fugiat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 8,
-    "prompt": "Lorem ad velit et ex dolore anim dolore eu veniam culpa sint pariatur pariatur velit culpa.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 8.01,
-    "prompt": "Consectetur laboris proident et elit Lorem sunt exercitation irure nulla eu nulla.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 801,
+    "prompt": "Eiusmod excepteur exercitation deserunt nulla commodo adipisicing magna exercitation ea culpa tempor tempor.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 802,
-    "prompt": "Magna consequat minim ipsum ullamco occaecat sunt ea occaecat ad duis excepteur velit amet quis.",
+    "prompt": "Tempor do cillum consequat occaecat minim sunt nostrud cillum ex in ut do deserunt.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
+  },
+  {
+    "clockTime": 803,
+    "prompt": "Nisi anim non nostrud fugiat incididunt dolor et enim reprehenderit anim culpa Lorem.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 8.03,
-    "prompt": "Commodo reprehenderit consequat non adipisicing deserunt cillum aliquip quis incididunt aliquip aliquip et et.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 804,
+    "prompt": "Aute laborum magna et ea commodo ea voluptate magna adipisicing anim cillum sint quis culpa.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 8.04,
-    "prompt": "Ad pariatur laborum laboris mollit sunt aute cillum elit et culpa.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 8.05,
+    "prompt": "Sunt do elit est adipisicing elit id occaecat dolore officia proident ad nulla aute.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 805,
-    "prompt": "Sunt velit qui ipsum officia sit minim incididunt laborum veniam nostrud tempor qui sint enim consequat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 806,
-    "prompt": "Proident consequat in deserunt sunt tempor enim aliqua minim dolor quis elit eiusmod mollit.",
+    "clockTime": 8.06,
+    "prompt": "Consectetur Lorem ad anim ea incididunt enim dolore consectetur id culpa exercitation deserunt esse sunt ea.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 8.07,
-    "prompt": "Duis fugiat fugiat aliqua sunt sunt proident pariatur amet ad non dolor id mollit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Irure ad tempor eiusmod excepteur non elit deserunt sint do Lorem est.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 8.08,
-    "prompt": "Magna minim veniam pariatur cillum elit fugiat duis adipisicing do officia adipisicing velit mollit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 808,
+    "prompt": "Voluptate exercitation excepteur anim esse sit dolor aute dolore minim exercitation amet est.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 809,
-    "prompt": "Dolore duis officia incididunt Lorem enim velit est consequat eu qui in anim magna amet quis.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Aute ut ullamco dolor mollit eu in eu veniam fugiat ea culpa aliqua aliqua proident dolor.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 810,
-    "prompt": "Lorem nulla velit laborum deserunt occaecat pariatur labore aute veniam nulla ut et enim.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 8.1,
+    "prompt": "Elit do minim ipsum aute sint pariatur aute duis eu ea ad irure do deserunt.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 8.11,
-    "prompt": "Laboris deserunt dolore dolor in ex est dolor Lorem eu sunt ex veniam pariatur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Occaecat do amet magna esse sit veniam aliquip in sit ex deserunt.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 812,
-    "prompt": "Consequat nostrud tempor enim dolor deserunt dolore esse qui quis incididunt aliquip consectetur sunt esse.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Voluptate velit fugiat nostrud aliquip sit elit anim aliqua eu cupidatat amet.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 8.13,
-    "prompt": "Exercitation incididunt enim reprehenderit ut nisi veniam exercitation dolore aliqua dolore pariatur qui in reprehenderit ad.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 813,
+    "prompt": "Ex quis sunt proident consectetur eu ut enim dolor non velit cillum laborum.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 8.14,
-    "prompt": "Mollit tempor nisi velit irure duis nisi veniam tempor duis nostrud tempor deserunt cupidatat.",
+    "prompt": "Nulla irure commodo est nostrud commodo id anim eu proident proident aute.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 8.15,
-    "prompt": "Sit ex eiusmod reprehenderit ea non veniam fugiat laborum incididunt occaecat eiusmod consectetur sint proident aliqua.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Consectetur labore ipsum officia veniam id commodo aute Lorem do qui ea laborum.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 816,
-    "prompt": "Sit ad id sunt exercitation consequat irure enim consequat laborum minim duis.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Magna ea enim adipisicing irure nisi consequat labore irure aliqua.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 817,
-    "prompt": "Consequat dolor in nulla nostrud aliqua ut minim in Lorem sit veniam laborum aliquip anim.",
+    "prompt": "Proident qui est qui dolore ut pariatur magna dolor nostrud.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 8.18,
-    "prompt": "Ipsum irure do ea veniam Lorem consequat consectetur dolore minim ea laborum officia.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 818,
+    "prompt": "Aute elit cillum incididunt minim culpa veniam aute ullamco incididunt.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 819,
-    "prompt": "Minim proident reprehenderit dolor esse Lorem mollit enim ex officia sit aute.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 8.19,
+    "prompt": "Laborum sit magna laborum fugiat culpa aliqua veniam occaecat id eiusmod ullamco.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 820,
-    "prompt": "Enim commodo adipisicing minim fugiat eiusmod dolor voluptate nostrud reprehenderit consequat eu veniam labore ullamco id.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Enim officia id laboris nulla pariatur ad culpa tempor deserunt laboris esse commodo do.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 821,
-    "prompt": "Irure occaecat amet esse proident eiusmod sunt ipsum sunt qui esse.",
+    "prompt": "Ad laboris tempor proident qui excepteur enim tempor consequat ex exercitation consectetur cupidatat veniam ex.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 822,
-    "prompt": "Id exercitation occaecat ullamco officia nulla sint tempor adipisicing proident adipisicing ex sit adipisicing reprehenderit.",
+    "prompt": "Lorem dolor exercitation tempor ad tempor eu ipsum proident esse laboris quis.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 8.23,
-    "prompt": "Ut sunt fugiat culpa aliquip occaecat elit duis laborum deserunt sunt fugiat eiusmod nisi proident.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Proident exercitation eiusmod amet adipisicing dolor fugiat aliquip anim esse eu nulla culpa laborum.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 824,
-    "prompt": "Laborum occaecat nostrud labore nisi adipisicing cillum et pariatur fugiat magna.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 8.24,
+    "prompt": "Proident Lorem enim labore qui excepteur est do consectetur exercitation pariatur irure.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 825,
-    "prompt": "Sit pariatur eiusmod proident excepteur aliquip laboris velit dolor est sunt et adipisicing aliquip.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "In deserunt id laborum officia velit nisi cillum voluptate consequat nulla consequat velit.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 826,
-    "prompt": "Et officia duis Lorem ex culpa duis excepteur nostrud sint laboris.",
+    "prompt": "Ut excepteur voluptate officia irure amet voluptate eu laborum mollit non.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 827,
-    "prompt": "Velit eu aliqua elit amet nisi velit cillum do ea magna.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Quis incididunt sit non laboris dolor duis adipisicing esse ex enim sint elit.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 8.28,
-    "prompt": "Aliqua qui deserunt do sint pariatur est anim dolore enim Lorem voluptate.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 828,
+    "prompt": "Reprehenderit velit cupidatat sint exercitation veniam duis adipisicing ea nostrud qui aliqua anim cillum officia nisi.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 829,
-    "prompt": "Et ad culpa occaecat duis magna veniam tempor ad ullamco sit aute proident labore.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Do elit labore laborum officia sint pariatur proident ad incididunt mollit deserunt mollit velit est aute.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 830,
-    "prompt": "Cupidatat pariatur ipsum id elit eiusmod consectetur qui sint sunt in velit aliquip quis duis pariatur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 8.3,
+    "prompt": "Voluptate quis laborum est culpa consequat ullamco ipsum sint ullamco culpa fugiat do.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 831,
-    "prompt": "Exercitation consectetur dolore aliqua adipisicing deserunt cupidatat culpa esse dolore amet do.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Cillum officia nulla id ea officia adipisicing proident mollit ad ad irure irure eiusmod do.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 832,
-    "prompt": "Velit laboris culpa cupidatat pariatur pariatur dolor officia duis Lorem.",
+    "prompt": "Cupidatat labore commodo eiusmod Lorem dolor nostrud nulla fugiat in.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 833,
-    "prompt": "Nostrud exercitation eu in in cillum quis in sint est non veniam dolor ipsum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Adipisicing dolor proident excepteur et id fugiat quis nisi ullamco culpa laborum nostrud.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 834,
-    "prompt": "Amet est duis velit eiusmod excepteur fugiat laboris adipisicing aute consectetur.",
+    "prompt": "Consequat aute minim sint minim velit labore amet cupidatat commodo deserunt ullamco commodo incididunt incididunt.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
+  },
+  {
+    "clockTime": 835,
+    "prompt": "Excepteur ex et non esse duis culpa duis eiusmod culpa occaecat minim.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 8.35,
-    "prompt": "Elit non est ullamco ad est eu commodo elit labore ut ea elit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 8.36,
+    "prompt": "Anim adipisicing consectetur irure incididunt est ipsum mollit sit velit duis est sit nisi eu proident.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 836,
-    "prompt": "Est dolor consectetur consequat ipsum nulla officia eu consequat proident in sunt quis.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 837,
-    "prompt": "Eiusmod Lorem aliquip consectetur magna voluptate veniam aliqua esse do voluptate exercitation.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 8.37,
+    "prompt": "Consectetur aute nisi nisi exercitation incididunt magna fugiat consequat ea qui occaecat.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 838,
-    "prompt": "Duis ea duis culpa duis consectetur dolor nulla proident irure eu mollit in aliqua deserunt ipsum.",
+    "prompt": "Elit fugiat non deserunt anim adipisicing ad ad ullamco aute laborum eu culpa do elit anim.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 839,
-    "prompt": "Voluptate dolor laborum deserunt ex magna ex do minim ex aute sunt sint cupidatat pariatur do.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 8.39,
+    "prompt": "Non duis deserunt non nostrud labore ut ut ut adipisicing fugiat Lorem Lorem irure cillum est.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 8.4,
-    "prompt": "Veniam eu culpa eiusmod ipsum voluptate aliquip culpa exercitation est ad est.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 840,
+    "prompt": "Dolore enim eu fugiat labore duis ad ex nostrud dolor eiusmod officia deserunt anim veniam.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 8.41,
-    "prompt": "Id exercitation dolore consequat in ex exercitation laboris elit proident amet mollit ullamco ea nisi tempor.",
+    "prompt": "Veniam ad commodo eiusmod duis labore ut est aliquip dolore ullamco consequat commodo.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 8.42,
-    "prompt": "Adipisicing sunt cillum sit aliqua reprehenderit nostrud excepteur laboris consequat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 842,
+    "prompt": "Ad labore amet minim esse anim cillum id ipsum exercitation culpa.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 8.43,
-    "prompt": "Qui sunt voluptate cupidatat exercitation sit sunt veniam aute quis sunt enim.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Velit sit anim duis dolore aliquip et eu dolor labore et occaecat eu incididunt et.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 8.44,
-    "prompt": "Mollit sunt labore consectetur elit nisi tempor adipisicing et non elit voluptate nostrud consequat eu occaecat.",
+    "clockTime": 844,
+    "prompt": "Esse voluptate elit esse officia id pariatur et consectetur ad et in irure esse sunt esse.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 845,
-    "prompt": "Aute ut consectetur commodo nisi veniam ea pariatur cupidatat voluptate sunt est aliquip aute voluptate.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Eu sint ex deserunt aute occaecat commodo non proident laboris.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 846,
-    "prompt": "Exercitation aute elit aliquip exercitation sint nostrud elit ullamco ad id aute pariatur ipsum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Non tempor nostrud id do ullamco est Lorem duis voluptate amet commodo.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 847,
-    "prompt": "Deserunt ea ullamco cupidatat ipsum voluptate cupidatat dolor laborum reprehenderit tempor cillum aliqua laborum quis.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Cillum veniam aliqua velit duis consectetur reprehenderit pariatur excepteur elit deserunt aute esse exercitation.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 848,
-    "prompt": "Do irure aliquip deserunt et culpa eu do aliquip aliqua incididunt officia ipsum laboris exercitation in.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 8.48,
+    "prompt": "Fugiat consequat irure reprehenderit enim laborum deserunt deserunt quis occaecat pariatur.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 8.49,
-    "prompt": "Reprehenderit qui minim consectetur in do enim reprehenderit enim adipisicing quis ea nulla.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 849,
+    "prompt": "Irure id proident reprehenderit tempor consequat pariatur ex ex consequat officia velit commodo aute eu qui.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 850,
-    "prompt": "Consectetur et veniam minim qui ut et est reprehenderit veniam.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Sit enim ea eiusmod excepteur amet nisi commodo esse sit sint occaecat velit cupidatat dolor deserunt.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 8.51,
-    "prompt": "Adipisicing ea anim minim est consequat commodo deserunt pariatur labore est quis proident dolore pariatur in.",
+    "prompt": "Voluptate amet qui eu veniam fugiat irure mollit dolor proident reprehenderit.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 852,
-    "prompt": "Proident ex cupidatat sint Lorem Lorem et irure laborum non aute ipsum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 8.52,
+    "prompt": "Et Lorem anim dolore aliqua qui quis minim voluptate est consectetur quis.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 853,
-    "prompt": "Elit aute adipisicing deserunt ullamco enim non do reprehenderit eiusmod cupidatat consequat eiusmod irure aliquip.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Nisi amet amet proident nulla id amet adipisicing culpa quis incididunt.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 854,
-    "prompt": "Veniam irure cillum proident nulla excepteur dolore esse labore ad proident excepteur non ullamco.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 8.54,
+    "prompt": "Sit labore culpa amet fugiat veniam occaecat minim mollit voluptate fugiat nisi veniam.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 855,
-    "prompt": "Reprehenderit est mollit fugiat deserunt duis incididunt et incididunt officia quis.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Qui deserunt eu sint laborum Lorem ex est et dolor in veniam cupidatat in.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 8.56,
-    "prompt": "Ad anim officia pariatur mollit eu consequat consectetur ut dolor.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 856,
+    "prompt": "Ad enim dolore veniam amet commodo ex ut laboris nulla Lorem.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 8.57,
-    "prompt": "Ea dolore in nostrud veniam proident aliqua sunt et labore occaecat commodo.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Aute Lorem aute commodo eiusmod exercitation adipisicing labore eiusmod qui consequat do.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 858,
-    "prompt": "Laborum tempor irure aute reprehenderit proident commodo et voluptate laboris.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 8.58,
+    "prompt": "In excepteur ad reprehenderit anim pariatur non irure labore incididunt anim nisi id sint.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 859,
-    "prompt": "Labore consectetur tempor est non cillum ipsum quis reprehenderit anim incididunt officia nulla.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Sit irure sit dolore et occaecat in sint officia commodo.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 9,
-    "prompt": "Adipisicing dolor incididunt ut do labore culpa id enim eiusmod eiusmod duis incididunt labore et.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Tempor cillum excepteur ea exercitation proident dolore sunt adipisicing commodo officia eu est.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 901,
-    "prompt": "Occaecat cillum tempor excepteur magna ipsum minim qui deserunt et velit.",
+    "prompt": "Dolor Lorem enim veniam consequat sunt anim do mollit mollit nisi et do deserunt culpa.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 902,
-    "prompt": "Elit dolor occaecat Lorem id consectetur laborum consequat ut consequat.",
+    "prompt": "Voluptate excepteur anim consequat ullamco elit incididunt eiusmod nisi enim adipisicing quis ex nostrud.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 903,
-    "prompt": "Amet pariatur voluptate amet dolore laboris nulla mollit magna reprehenderit tempor do fugiat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 9.03,
+    "prompt": "Excepteur sint eu enim nulla magna qui reprehenderit sunt quis fugiat ipsum veniam aute voluptate.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 904,
-    "prompt": "Esse aliqua aliquip ad irure laboris dolor aliquip enim elit aute.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Esse dolor velit fugiat anim incididunt laborum reprehenderit nostrud nulla ipsum.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 905,
-    "prompt": "Ex sint nisi cillum duis consequat veniam dolor et aute excepteur qui esse laboris minim.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 9.05,
+    "prompt": "Nulla mollit officia et cillum amet laboris duis laboris aute occaecat consequat.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 9.06,
-    "prompt": "Esse esse cupidatat laborum in incididunt consequat incididunt exercitation ad exercitation.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 906,
+    "prompt": "Ea est duis minim laboris deserunt qui ut culpa eiusmod.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 907,
-    "prompt": "Reprehenderit pariatur adipisicing do commodo esse labore minim officia officia ullamco.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Cupidatat Lorem sit occaecat aliqua dolore ea sit ipsum occaecat excepteur.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 908,
-    "prompt": "Magna dolor sit sint mollit officia proident sunt labore nostrud et amet deserunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 9.08,
+    "prompt": "Esse ex laboris excepteur do pariatur deserunt eiusmod anim in laboris reprehenderit cillum consequat adipisicing.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 9.09,
-    "prompt": "Commodo laborum magna quis consequat cupidatat quis commodo pariatur fugiat officia pariatur nisi dolor cillum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Magna fugiat laborum consequat qui deserunt aute do esse amet fugiat dolor ut dolore veniam.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 910,
-    "prompt": "Sit amet cillum dolore minim et irure in labore laboris.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Lorem incididunt incididunt reprehenderit duis id nostrud proident irure est do sunt commodo amet deserunt non.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 911,
-    "prompt": "Proident consequat amet esse eiusmod incididunt Lorem dolore et anim eiusmod.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 9.11,
+    "prompt": "Elit sit pariatur ipsum officia consectetur in fugiat tempor tempor anim velit.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 912,
-    "prompt": "Voluptate cillum dolor dolore nulla ipsum eiusmod tempor elit nulla ad adipisicing aliquip enim.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Et deserunt consectetur adipisicing cupidatat qui ipsum amet et aute id ea mollit ullamco.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 9.13,
-    "prompt": "Qui consequat est sunt laborum occaecat irure labore aliquip incididunt consequat labore irure ad est.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 913,
+    "prompt": "Consequat consectetur et aute irure fugiat voluptate pariatur quis dolore.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 914,
-    "prompt": "Cupidatat nulla do ad ea irure incididunt mollit voluptate elit non aliquip proident in magna.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 9.14,
+    "prompt": "Sint labore anim non elit eu exercitation dolor sunt adipisicing adipisicing ut.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 915,
-    "prompt": "Mollit quis fugiat culpa ex duis non ad incididunt sit sint mollit cupidatat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Duis dolore in incididunt enim incididunt velit pariatur elit nisi consectetur.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 916,
-    "prompt": "Voluptate culpa exercitation voluptate nostrud irure amet enim et sint irure aliqua laboris.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 9.16,
+    "prompt": "Minim anim quis velit excepteur deserunt magna qui exercitation qui esse voluptate.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 917,
-    "prompt": "Aliquip aliquip adipisicing sunt est aliqua ullamco ipsum irure anim aliquip eiusmod.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Duis minim aliquip dolor proident nulla quis irure consectetur commodo.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 9.18,
-    "prompt": "Ex incididunt enim incididunt sunt amet adipisicing dolore irure dolore deserunt velit consectetur ea nisi ea.",
+    "clockTime": 918,
+    "prompt": "Eu mollit consectetur in ipsum adipisicing non nulla consectetur eiusmod duis exercitation eiusmod sunt fugiat.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 9.19,
-    "prompt": "Quis consequat consectetur eiusmod excepteur amet ut quis ipsum eiusmod mollit dolore amet laboris ex.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Reprehenderit nostrud deserunt occaecat commodo ea quis magna excepteur consequat.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 920,
-    "prompt": "Elit deserunt Lorem do ipsum veniam fugiat eu sint ad Lorem cillum culpa.",
+    "prompt": "In reprehenderit dolor amet aliquip aliqua aliqua cillum magna labore proident culpa commodo ut ipsum magna.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 921,
-    "prompt": "Voluptate adipisicing mollit in fugiat ad aute dolor do ipsum duis adipisicing Lorem consequat sit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Amet ad amet tempor fugiat ex sint excepteur quis dolor irure laboris.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 922,
-    "prompt": "Exercitation commodo officia aliqua fugiat enim proident deserunt ipsum tempor exercitation nisi adipisicing.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 9.22,
+    "prompt": "Ad quis dolor elit adipisicing eu non laborum exercitation sint anim ea labore consequat.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 9.23,
-    "prompt": "Et dolore incididunt officia exercitation sit dolore elit duis occaecat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Proident labore velit eu culpa nostrud in veniam proident consectetur officia aliqua.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 924,
-    "prompt": "Consectetur veniam eiusmod commodo incididunt elit incididunt voluptate laborum sit culpa consectetur elit occaecat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 9.24,
+    "prompt": "Eiusmod excepteur esse nisi mollit duis enim mollit sit in.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 9.25,
-    "prompt": "Anim ipsum ad enim amet aute nisi exercitation esse cillum dolore incididunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Magna ullamco elit non amet nulla minim velit aliquip deserunt ipsum dolor ex laborum.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 9.26,
-    "prompt": "Pariatur anim aute ullamco duis nisi ullamco laborum incididunt velit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 926,
+    "prompt": "Aliquip nulla laborum id aliqua anim aute proident proident nostrud nostrud tempor ut.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 927,
-    "prompt": "In consequat eiusmod aute id voluptate officia fugiat magna ipsum laborum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 9.27,
+    "prompt": "Deserunt consequat velit elit in excepteur incididunt dolore mollit nostrud.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 9.28,
-    "prompt": "Consectetur officia nisi laboris magna est sit labore deserunt in nulla aute eu Lorem ad enim.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 928,
+    "prompt": "Quis aliquip voluptate nostrud consectetur eu amet occaecat id exercitation id et tempor laborum adipisicing deserunt.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 929,
-    "prompt": "Enim dolore cillum ad incididunt ad officia ipsum pariatur anim.",
+    "clockTime": 9.29,
+    "prompt": "Nisi non exercitation id ex ut velit ullamco occaecat labore aliqua.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 9.3,
-    "prompt": "Non sint veniam ad non culpa quis nulla deserunt irure cupidatat et sint ipsum fugiat.",
+    "prompt": "Tempor ea dolore commodo nisi sint nulla esse ullamco quis culpa in laboris sint.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 9.31,
-    "prompt": "Est duis proident culpa velit reprehenderit velit deserunt dolore reprehenderit Lorem.",
+    "prompt": "Irure esse consequat deserunt anim in voluptate Lorem est enim deserunt consequat.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 932,
-    "prompt": "Lorem reprehenderit cillum cillum id sint culpa adipisicing dolore mollit ex et aute irure dolor et.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Do aute enim laboris esse enim velit esse mollit dolor nulla amet fugiat.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 933,
-    "prompt": "Ut laboris aliquip nostrud esse nostrud voluptate duis laboris velit aliqua velit exercitation minim.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Do aliquip sunt quis reprehenderit cupidatat veniam eiusmod occaecat magna quis laborum occaecat.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 9.34,
-    "prompt": "Tempor minim quis quis sit nulla qui enim cupidatat ullamco ea culpa sit sint voluptate ut.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 934,
+    "prompt": "Eiusmod sunt dolore esse consequat reprehenderit veniam laboris do sint.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 9.35,
-    "prompt": "Ad consequat sint magna sit Lorem veniam eiusmod cillum ea.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Commodo Lorem commodo ex excepteur aliqua laborum officia labore nulla officia.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 936,
-    "prompt": "Anim officia ullamco esse officia amet eiusmod ut consectetur labore mollit ullamco.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 9.36,
+    "prompt": "Aliqua consectetur qui consequat culpa aliqua qui et ipsum officia consectetur esse mollit.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 937,
-    "prompt": "Nulla duis velit cillum Lorem id et elit deserunt magna sit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 9.37,
+    "prompt": "Fugiat minim aliqua qui Lorem labore tempor aute et anim amet excepteur.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 9.38,
-    "prompt": "Elit sit aute occaecat commodo enim aute officia sunt ipsum nostrud commodo enim labore incididunt aliqua.",
+    "prompt": "Id cupidatat sunt reprehenderit culpa do sit minim ipsum elit.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 939,
-    "prompt": "Eu mollit dolor id tempor consectetur nulla sint minim magna ad.",
+    "clockTime": 9.39,
+    "prompt": "Tempor magna amet qui pariatur fugiat id enim aliquip sint laboris dolor amet elit.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 9.4,
-    "prompt": "Sunt laborum elit ullamco eiusmod voluptate duis voluptate ut elit laborum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Id veniam tempor adipisicing commodo sit in eiusmod pariatur sit ullamco cupidatat ea exercitation.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 9.41,
-    "prompt": "Elit eiusmod laboris ex ullamco deserunt in laboris labore id.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 941,
+    "prompt": "Lorem fugiat duis amet anim consequat cillum cupidatat elit sint exercitation commodo.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 942,
-    "prompt": "Mollit cupidatat consectetur in veniam aliqua consectetur irure aliquip exercitation.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 9.42,
+    "prompt": "Dolor veniam officia sint commodo pariatur qui occaecat reprehenderit ipsum Lorem exercitation qui anim Lorem officia.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 943,
-    "prompt": "Veniam anim mollit dolore non cupidatat ut do elit esse sit nostrud consequat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ex id irure qui ad adipisicing pariatur nisi incididunt fugiat duis reprehenderit Lorem ea sunt esse.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 944,
-    "prompt": "Elit irure pariatur do exercitation Lorem aliqua non magna ut aliqua anim magna.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ullamco exercitation incididunt anim duis consectetur veniam qui ullamco non magna laboris anim duis aute.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 9.45,
-    "prompt": "Sunt elit adipisicing ad excepteur cillum amet duis adipisicing ullamco magna adipisicing deserunt labore laboris.",
+    "clockTime": 945,
+    "prompt": "Mollit esse est officia id irure tempor tempor dolore reprehenderit cillum nostrud dolor et sunt.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 946,
-    "prompt": "Dolor incididunt anim cupidatat labore eiusmod adipisicing velit duis ex.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Veniam veniam sit fugiat irure veniam occaecat pariatur officia voluptate.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 9.47,
-    "prompt": "Veniam ad dolor esse commodo culpa ad exercitation minim commodo commodo est aliqua aute.",
+    "prompt": "Consequat mollit commodo aliqua ea in anim eu veniam laboris elit sit sint eu.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 9.48,
-    "prompt": "Consequat minim pariatur velit in culpa nostrud ipsum amet voluptate.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 948,
+    "prompt": "Eu Lorem ullamco aute sint veniam aliqua irure ullamco et nulla ipsum consectetur enim.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 949,
-    "prompt": "Nisi fugiat cillum commodo quis magna ex amet veniam duis sit duis tempor proident consectetur irure.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Aliquip duis ut id laboris veniam pariatur consequat ut commodo aute sit cupidatat.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 9.5,
-    "prompt": "Reprehenderit adipisicing occaecat pariatur tempor velit do deserunt labore ad laborum cupidatat amet consequat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ut labore velit eu occaecat incididunt excepteur labore irure cupidatat dolore minim aliquip.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 951,
-    "prompt": "Nisi magna excepteur veniam commodo Lorem sunt ullamco aute ipsum nulla ipsum voluptate.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Consectetur nulla dolor ex occaecat nostrud ad velit qui est exercitation fugiat mollit voluptate tempor eiusmod.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 9.52,
-    "prompt": "Anim ut anim cillum nulla id sint qui nulla nulla esse.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 952,
+    "prompt": "Mollit sint nisi sint velit dolor est ea do qui non occaecat Lorem in exercitation.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 9.53,
-    "prompt": "Anim elit tempor labore eiusmod ut reprehenderit quis aliqua ea.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 953,
+    "prompt": "Enim pariatur consectetur reprehenderit in irure ea velit ex aute exercitation ad deserunt.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 954,
-    "prompt": "Tempor labore tempor nisi quis laborum minim esse eiusmod consectetur anim ut qui.",
+    "prompt": "In enim sint veniam non irure consequat dolor ex sit ipsum anim incididunt qui reprehenderit magna.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 955,
-    "prompt": "Sit non quis eiusmod laborum cillum veniam pariatur duis ad.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Quis minim enim consectetur veniam culpa incididunt consectetur dolore id officia velit.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 9.56,
-    "prompt": "Excepteur dolor quis deserunt est mollit excepteur amet aute anim tempor.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 956,
+    "prompt": "Do sunt nostrud ad occaecat proident qui aute mollit aute sit incididunt laboris enim.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 957,
-    "prompt": "Nulla aliquip aliquip enim excepteur mollit non ullamco aliqua amet enim dolore qui commodo.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Occaecat voluptate cupidatat nisi ex cillum excepteur consectetur elit consectetur minim enim laborum proident minim voluptate.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 958,
-    "prompt": "Do sunt labore nulla amet occaecat nisi laboris ullamco laboris ullamco reprehenderit proident ad anim.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Cillum nisi aliquip incididunt sit veniam et voluptate in nostrud cillum ullamco non.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 9.59,
-    "prompt": "Do ullamco nostrud amet Lorem dolore ut aliqua Lorem ex officia consectetur esse proident esse.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 959,
+    "prompt": "Minim labore et do magna qui dolor veniam exercitation eu nulla eu exercitation exercitation cillum minim.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 1000,
-    "prompt": "Sint non incididunt quis aliqua excepteur excepteur exercitation veniam nostrud laboris.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Minim ex exercitation fugiat nulla veniam exercitation esse consequat culpa velit deserunt proident ea.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 10.01,
-    "prompt": "Ea pariatur eu cillum tempor nisi nostrud dolor minim tempor velit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1001,
+    "prompt": "Aute eiusmod incididunt aliqua quis ullamco ullamco dolor eu laborum.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 1002,
-    "prompt": "Incididunt dolore elit aliqua eu anim culpa in ea et cupidatat consequat ipsum magna.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Laborum officia duis consequat culpa irure aliquip commodo aute aute id exercitation nulla sunt.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 1003,
-    "prompt": "Cupidatat deserunt ullamco labore consectetur dolor amet proident adipisicing qui elit est mollit nostrud irure.",
+    "clockTime": 10.03,
+    "prompt": "Proident non nisi et est eiusmod incididunt eu exercitation adipisicing nulla mollit tempor.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 1004,
-    "prompt": "Excepteur ex qui incididunt deserunt occaecat aliqua excepteur aliquip deserunt in commodo nulla aliqua.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Dolor irure proident anim incididunt adipisicing proident pariatur cillum exercitation ut id.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 10.05,
-    "prompt": "Occaecat culpa fugiat irure velit duis do cillum mollit irure in adipisicing consequat nostrud.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ullamco laborum laboris quis proident consequat in do irure veniam ex non.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 1006,
-    "prompt": "Id eu dolor veniam tempor labore nostrud irure officia commodo esse mollit excepteur ipsum eu dolore.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Elit irure ex ut est ullamco tempor non in cupidatat exercitation exercitation id.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 1007,
-    "prompt": "Nisi id id minim labore fugiat cupidatat excepteur amet labore cillum minim dolor irure incididunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 10.07,
+    "prompt": "Ad fugiat excepteur nulla ullamco eu adipisicing consectetur ex do eu.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 10.08,
-    "prompt": "Officia voluptate ex nisi aliqua in pariatur occaecat voluptate amet.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1008,
+    "prompt": "Do ex qui dolor dolor ea Lorem tempor sit anim sint nulla laborum qui sunt occaecat.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 10.09,
-    "prompt": "Duis ullamco laboris commodo ea duis et non ullamco duis ex labore excepteur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1009,
+    "prompt": "Dolore consectetur veniam incididunt ex nostrud anim officia pariatur magna occaecat excepteur veniam adipisicing.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 10.1,
-    "prompt": "Amet enim est nostrud occaecat id ullamco exercitation duis do sit nostrud laborum dolore.",
+    "clockTime": 1010,
+    "prompt": "Nisi ipsum exercitation laborum labore cupidatat esse velit elit Lorem Lorem.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 10.11,
-    "prompt": "Deserunt esse elit fugiat officia sit minim deserunt amet amet commodo laborum cupidatat ea.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Pariatur esse commodo adipisicing minim nostrud quis eiusmod non velit est culpa aute esse.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 10.12,
-    "prompt": "Sit eiusmod est sunt voluptate aliquip ipsum culpa aliqua minim officia.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1012,
+    "prompt": "Sunt sit ullamco nostrud est ea pariatur tempor nostrud pariatur tempor qui sunt laboris.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 1013,
-    "prompt": "Amet tempor cillum exercitation consectetur do velit consectetur minim reprehenderit tempor reprehenderit aliqua.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ad sit consectetur reprehenderit exercitation aute tempor aliquip amet aliquip et irure.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 1014,
-    "prompt": "Eiusmod duis nostrud voluptate duis Lorem do eiusmod magna fugiat esse id nostrud.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Nisi dolor consectetur Lorem enim adipisicing magna Lorem proident et sit elit.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 1015,
-    "prompt": "Tempor sunt velit excepteur laborum cillum deserunt Lorem consequat nostrud consectetur voluptate nisi qui anim elit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Enim consectetur labore consequat ex id Lorem consequat fugiat elit consequat nulla mollit aliqua enim eiusmod.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 10.16,
-    "prompt": "Anim aliquip fugiat laborum pariatur do laborum consectetur aute sunt excepteur id minim anim reprehenderit consequat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Reprehenderit fugiat esse non nisi voluptate culpa eu nisi laborum.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 10.17,
-    "prompt": "Ipsum aliquip est officia amet dolore anim sunt velit Lorem aliquip consectetur ipsum cillum quis.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1017,
+    "prompt": "Cillum anim voluptate officia nostrud culpa consequat cillum deserunt id magna excepteur amet excepteur.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 1018,
-    "prompt": "Ullamco sit proident occaecat tempor exercitation irure nostrud qui aute.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Laborum esse laboris adipisicing consectetur ut ipsum mollit nostrud aliqua eu culpa mollit veniam.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 1019,
-    "prompt": "Eiusmod est duis velit excepteur adipisicing ut ut nostrud id ex cillum in laborum est.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Duis aliqua minim ea tempor deserunt velit id minim pariatur.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 1020,
-    "prompt": "Sit do incididunt voluptate in labore commodo quis cupidatat laboris ex enim mollit enim occaecat quis.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 10.2,
+    "prompt": "Aute veniam ea pariatur sunt velit do laborum ut nostrud voluptate deserunt sunt dolor.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 10.21,
-    "prompt": "Velit ex velit laborum aliqua deserunt id laboris qui enim consequat irure.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1021,
+    "prompt": "Lorem labore qui mollit reprehenderit ea sunt est sit irure duis ullamco aliqua ut.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 10.22,
-    "prompt": "Commodo id culpa anim ad non culpa sunt aute consectetur ad enim labore fugiat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1022,
+    "prompt": "Voluptate deserunt veniam cupidatat adipisicing minim dolore culpa aliquip ullamco officia aute duis exercitation dolore.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 10.23,
-    "prompt": "Veniam ullamco Lorem excepteur eu consequat velit in sit nulla labore amet consectetur dolor.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1023,
+    "prompt": "Mollit officia reprehenderit eu minim laboris exercitation ex commodo reprehenderit.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 1024,
-    "prompt": "Tempor ipsum duis in aliquip cillum do est sunt exercitation occaecat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Lorem eiusmod officia est esse adipisicing anim excepteur proident aute.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 1025,
-    "prompt": "Dolore voluptate non esse pariatur occaecat nulla veniam culpa sunt ipsum nostrud.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Dolor aliqua adipisicing tempor reprehenderit labore sunt pariatur consectetur aute in pariatur magna do nostrud.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 10.26,
-    "prompt": "Anim non veniam cupidatat ipsum ipsum nulla proident aute ipsum minim laboris ut minim veniam ut.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ut minim nostrud eu ea sit non elit qui sunt veniam sunt Lorem do exercitation proident.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 1027,
-    "prompt": "Quis velit mollit duis labore cupidatat esse cupidatat reprehenderit non.",
+    "prompt": "Cupidatat veniam et duis qui do dolor ex eu officia.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 10.28,
-    "prompt": "In laboris minim elit reprehenderit reprehenderit esse magna est consectetur ipsum sunt aliquip.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Deserunt cupidatat occaecat dolor laboris qui anim magna in esse incididunt voluptate veniam adipisicing.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 1029,
-    "prompt": "Minim tempor deserunt Lorem mollit cillum nulla anim dolor deserunt ea adipisicing exercitation.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Consectetur ut pariatur sint labore enim consectetur adipisicing enim tempor sint est pariatur.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 1030,
-    "prompt": "Mollit ut commodo proident pariatur adipisicing in excepteur Lorem ut.",
+    "prompt": "Reprehenderit magna aliqua est sunt voluptate ut sint id ad irure sint sunt minim elit consequat.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 1031,
-    "prompt": "Mollit et labore cillum pariatur non minim ad eu duis culpa eu reprehenderit exercitation pariatur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Consequat ex aute non excepteur in cupidatat mollit fugiat sint elit nostrud et qui.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 1032,
-    "prompt": "Ex irure deserunt deserunt culpa esse minim duis elit ipsum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Cillum velit sit officia Lorem sit tempor id mollit reprehenderit dolor ad.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 10.33,
-    "prompt": "Enim eiusmod qui duis velit ut do amet sit aliquip irure mollit enim reprehenderit incididunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Irure adipisicing qui ad cillum culpa duis ipsum proident est nisi tempor consectetur.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 1034,
-    "prompt": "Irure exercitation incididunt pariatur in sit est dolore ut consequat dolor.",
+    "prompt": "Duis commodo magna quis ea eiusmod do voluptate incididunt nostrud eiusmod qui laborum.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 10.35,
-    "prompt": "Lorem anim nisi consectetur irure exercitation velit cillum dolore cupidatat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1035,
+    "prompt": "Mollit sit duis nisi nisi veniam do est sint occaecat culpa sunt incididunt.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 1036,
-    "prompt": "Consequat mollit veniam elit voluptate id nostrud culpa ipsum irure deserunt in ad tempor.",
+    "clockTime": 10.36,
+    "prompt": "Commodo occaecat commodo tempor officia cillum proident Lorem enim fugiat excepteur pariatur.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 10.37,
-    "prompt": "Consequat ullamco ullamco voluptate do magna culpa magna nulla laborum ea excepteur esse qui.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Magna anim dolor nostrud eu proident do elit cillum consectetur consectetur reprehenderit deserunt adipisicing.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 1038,
-    "prompt": "Consequat anim ex excepteur consequat occaecat do laboris qui pariatur velit culpa anim nisi.",
+    "clockTime": 10.38,
+    "prompt": "Aliquip velit qui voluptate excepteur commodo non commodo enim ea magna.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 1039,
-    "prompt": "Et nisi eu ut quis ut commodo aliqua ad ex.",
+    "prompt": "Laboris veniam ipsum irure minim est laboris cillum consectetur amet minim aliquip mollit tempor enim.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
+  },
+  {
+    "clockTime": 1040,
+    "prompt": "Voluptate sunt Lorem esse fugiat laboris sit qui aliqua sint ea nulla labore.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
+  },
+  {
+    "clockTime": 1041,
+    "prompt": "Deserunt et aute elit tempor ut aliquip exercitation culpa nostrud ea.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
+  },
+  {
+    "clockTime": 1042,
+    "prompt": "Laborum cupidatat in ullamco excepteur commodo quis commodo in consectetur ea commodo.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 10.4,
-    "prompt": "Enim tempor ea et cupidatat deserunt laborum ad consequat laboris sunt anim ad.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1043,
+    "prompt": "Cupidatat culpa consectetur laborum veniam anim irure esse deserunt elit tempor incididunt.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 10.41,
-    "prompt": "Aliqua reprehenderit ut ea irure aliquip non id amet dolor eu.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 10.42,
-    "prompt": "Adipisicing nisi elit ullamco nisi velit aliqua cupidatat irure adipisicing ex est commodo esse ullamco sint.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 10.43,
-    "prompt": "Aliqua consectetur exercitation adipisicing Lorem ad sint enim consectetur consectetur exercitation aliqua non ipsum ut et.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 10.44,
-    "prompt": "Ut proident cupidatat ipsum adipisicing culpa eiusmod elit nulla laborum officia ullamco.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1044,
+    "prompt": "Elit id magna id aute ad nostrud minim non magna qui.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 1045,
-    "prompt": "Qui ullamco non ad ex labore sint commodo nulla incididunt amet.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Incididunt sunt excepteur tempor non fugiat aliquip ex magna ullamco ad.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 10.46,
-    "prompt": "Esse ut sit incididunt elit do in id pariatur ut est aliqua ipsum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1046,
+    "prompt": "Et excepteur esse proident deserunt magna qui incididunt occaecat nostrud ipsum est eu deserunt.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 1047,
-    "prompt": "Voluptate officia elit deserunt cupidatat adipisicing commodo sunt pariatur nulla ex id voluptate.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Sit ex quis dolor officia eiusmod id proident qui irure ullamco do cupidatat quis elit.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 1048,
-    "prompt": "Voluptate eiusmod mollit duis enim proident aute dolore aute ad cillum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Proident qui et adipisicing cillum veniam aute dolor ipsum nulla nostrud.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 1049,
-    "prompt": "Ullamco occaecat occaecat ullamco tempor velit ut ut laborum ut reprehenderit aliquip amet labore quis.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Aliquip cillum officia aute sit voluptate ex culpa dolore non eu est sint incididunt.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 1050,
-    "prompt": "Commodo excepteur culpa aute consectetur duis consequat cupidatat labore est magna tempor irure fugiat est.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Enim nisi reprehenderit sint Lorem sit ullamco non consequat sunt cillum aute.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 1051,
-    "prompt": "Aliquip occaecat deserunt esse sint ad aliquip consequat officia ut aliquip.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Excepteur ea qui sunt ex deserunt aute culpa ad tempor duis id elit consequat.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 10.52,
-    "prompt": "Esse ex dolore ad laborum dolor exercitation est deserunt in aliquip sint sint ea elit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1052,
+    "prompt": "Quis minim non consectetur aliquip dolor sunt mollit occaecat amet et enim pariatur in magna aliquip.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 10.53,
-    "prompt": "Esse nostrud qui duis quis et dolor qui commodo ullamco sit labore non qui.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1053,
+    "prompt": "Labore eu eu pariatur nisi esse duis sunt ad sunt qui in esse.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 10.54,
-    "prompt": "Est aliquip fugiat pariatur duis commodo incididunt reprehenderit incididunt commodo adipisicing deserunt commodo.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1054,
+    "prompt": "Elit aliquip fugiat quis esse voluptate ipsum dolor do nulla elit dolor.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 1055,
-    "prompt": "Eiusmod consectetur aute velit labore veniam ullamco cupidatat cillum irure ut.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Deserunt tempor irure anim est fugiat ut sint fugiat fugiat in cillum labore qui cillum.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 1056,
-    "prompt": "Voluptate Lorem consequat velit consectetur tempor qui sit dolore commodo veniam consequat aliquip aliquip exercitation excepteur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Mollit ullamco mollit ex id culpa eu do ex aute amet adipisicing excepteur.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 1057,
-    "prompt": "Occaecat sunt velit incididunt id officia dolore sint id sint aliqua mollit.",
+    "prompt": "Id voluptate cillum nostrud irure elit id et excepteur eu ipsum dolor irure.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 10.58,
-    "prompt": "Cupidatat adipisicing ex cillum dolor duis id veniam dolore esse officia.",
+    "clockTime": 1058,
+    "prompt": "Labore elit velit dolore eu nostrud aliquip elit culpa veniam commodo.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
+  },
+  {
+    "clockTime": 1059,
+    "prompt": "Nulla ut sunt exercitation commodo ullamco non sint eiusmod veniam.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 10.59,
-    "prompt": "Cillum officia officia excepteur excepteur et culpa dolore cupidatat esse aliquip veniam aliquip sint.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 11,
-    "prompt": "Dolore officia dolore dolor commodo ad esse eiusmod enim aliquip ullamco culpa deserunt anim.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1100,
+    "prompt": "Laboris velit mollit nisi magna excepteur occaecat ad dolore officia voluptate ullamco ea labore cupidatat exercitation.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 1101,
-    "prompt": "Consectetur mollit ea aute magna mollit est commodo sint aliquip reprehenderit ipsum consequat aliqua Lorem.",
+    "prompt": "Exercitation sint deserunt incididunt consequat exercitation velit voluptate minim veniam sit adipisicing ea officia enim sunt.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 1102,
-    "prompt": "Ullamco incididunt et duis qui aute excepteur id veniam enim nostrud minim duis qui dolor.",
+    "prompt": "Laborum exercitation et sunt dolore culpa est qui deserunt labore quis adipisicing sint consectetur qui.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
+  },
+  {
+    "clockTime": 11.03,
+    "prompt": "Voluptate sit adipisicing sunt ex commodo elit esse et duis est.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 1103,
-    "prompt": "Duis dolore quis sit fugiat elit adipisicing adipisicing exercitation excepteur labore.",
+    "clockTime": 1104,
+    "prompt": "Nostrud irure non ad do qui exercitation fugiat dolor nostrud reprehenderit duis pariatur tempor.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
+  },
+  {
+    "clockTime": 11.05,
+    "prompt": "Elit eu laboris deserunt duis sit pariatur qui laborum nulla.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 11.04,
-    "prompt": "Duis ad adipisicing Lorem consectetur quis nisi consequat veniam cupidatat sunt nisi nostrud consequat velit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 1105,
-    "prompt": "Esse laboris pariatur ex ad fugiat minim et sit magna nisi cillum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 1106,
-    "prompt": "Irure dolore ea exercitation dolor eiusmod sint cillum sit esse labore fugiat dolore aliquip elit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 11.06,
+    "prompt": "Et quis culpa ex minim consectetur cupidatat adipisicing nostrud eu occaecat veniam enim sint ex.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 11.07,
-    "prompt": "Amet elit ipsum adipisicing enim ea veniam culpa nulla enim nostrud laboris.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Sunt aliquip cupidatat ea excepteur commodo aliqua nostrud consectetur et ex duis.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 1108,
-    "prompt": "Officia anim ad proident enim aliquip elit elit exercitation pariatur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Magna ullamco officia ipsum id dolore consequat aliqua exercitation ullamco occaecat esse aliquip esse anim.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 1109,
-    "prompt": "In sint commodo reprehenderit veniam ad minim amet labore in proident ex consequat pariatur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Incididunt aliquip duis ut esse reprehenderit elit irure cupidatat fugiat veniam et labore anim et ullamco.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 1110,
-    "prompt": "Quis nulla ut ipsum labore proident sit commodo cupidatat minim adipisicing duis culpa qui ipsum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 11.1,
+    "prompt": "Laboris velit id do eiusmod excepteur ad pariatur proident mollit.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 1111,
-    "prompt": "Incididunt mollit do minim do ex aliquip tempor cupidatat aliqua eu cupidatat dolor ut officia magna.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Nisi elit pariatur irure consequat duis exercitation aliqua irure tempor est do amet enim.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 1112,
-    "prompt": "Ad occaecat ut laborum consectetur id ea cupidatat ut adipisicing fugiat culpa fugiat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 11.12,
+    "prompt": "Consequat fugiat id cillum ex minim eu est occaecat esse officia laborum qui reprehenderit ex.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 1113,
-    "prompt": "Anim quis in amet deserunt pariatur veniam est aliquip non laborum do.",
+    "prompt": "Eu Lorem est elit sint sunt in ipsum duis proident eiusmod.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 1114,
-    "prompt": "Velit exercitation amet sunt Lorem eiusmod qui proident tempor quis consectetur duis elit velit.",
+    "prompt": "Incididunt irure ad nisi minim dolore laborum esse deserunt proident.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 1115,
-    "prompt": "Occaecat est aliquip exercitation consectetur culpa enim nulla adipisicing cillum pariatur anim ad ullamco laboris.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Irure magna irure sit officia veniam ut irure aliquip reprehenderit proident id et.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 11.16,
-    "prompt": "Dolore commodo deserunt proident dolore occaecat commodo laborum consequat eiusmod dolore.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Excepteur est non ipsum duis qui do duis consectetur eiusmod dolor cupidatat commodo.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 11.17,
-    "prompt": "Minim tempor pariatur nulla veniam cillum quis commodo culpa nostrud ea dolor eiusmod eiusmod.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1117,
+    "prompt": "Consequat qui dolor nostrud sit consectetur nisi labore ut consequat anim nulla reprehenderit aliqua fugiat dolor.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 1118,
-    "prompt": "Deserunt eu non est fugiat excepteur sint non laboris consectetur officia sit ex.",
+    "prompt": "Dolor elit cupidatat irure minim id velit id id sint officia duis officia laboris.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
+  },
+  {
+    "clockTime": 11.19,
+    "prompt": "Labore consequat id magna enim ipsum id tempor pariatur aute reprehenderit adipisicing tempor ut aute.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 1119,
-    "prompt": "Aliquip sit culpa magna quis magna minim pariatur sunt consectetur cillum eu dolore officia commodo dolor.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 1120,
-    "prompt": "Sint sit sunt aute exercitation pariatur amet esse et est occaecat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 11.2,
+    "prompt": "Fugiat sit aliquip sint esse exercitation fugiat proident Lorem tempor dolor.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 11.21,
-    "prompt": "In fugiat aliquip sit sunt officia est tempor quis adipisicing in elit commodo sint proident.",
+    "prompt": "Labore consectetur aute incididunt eiusmod ullamco velit exercitation eiusmod occaecat voluptate est excepteur.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 11.22,
-    "prompt": "Ad dolore incididunt aute consequat ea Lorem dolor nulla aliqua adipisicing culpa proident sint.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Sunt quis est aliqua aliquip et irure non proident eu fugiat ad.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 11.23,
-    "prompt": "Incididunt ipsum officia incididunt consectetur exercitation pariatur enim voluptate adipisicing dolor veniam mollit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1123,
+    "prompt": "Laboris nisi laboris incididunt est adipisicing veniam labore labore pariatur exercitation laboris ad.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 11.24,
-    "prompt": "Sint non non ipsum dolor nisi enim laborum laborum aute fugiat et id ullamco adipisicing proident.",
+    "prompt": "Nisi consectetur aliquip dolore nostrud fugiat reprehenderit commodo ea qui qui esse.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
+  },
+  {
+    "clockTime": 11.25,
+    "prompt": "Occaecat nisi veniam officia non nostrud minim laborum irure laboris consequat proident aliqua esse elit.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
+  },
+  {
+    "clockTime": 11.26,
+    "prompt": "Labore consectetur laborum nulla cillum minim aliquip anim laboris Lorem pariatur pariatur velit.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
+  },
+  {
+    "clockTime": 1127,
+    "prompt": "Aliqua id aliquip sint enim fugiat esse tempor eu ipsum.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 1125,
-    "prompt": "Laboris exercitation cupidatat occaecat minim consectetur exercitation id do in.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 1126,
-    "prompt": "Anim ex consequat id cillum culpa duis officia commodo fugiat officia fugiat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 11.27,
-    "prompt": "Ad tempor ea voluptate aliquip quis dolor duis veniam in commodo amet.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 11.28,
-    "prompt": "Ad irure Lorem dolore velit et non amet velit consectetur ipsum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1128,
+    "prompt": "Sunt non voluptate quis excepteur cupidatat ullamco ullamco veniam culpa adipisicing et.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 1129,
-    "prompt": "Dolore ex dolor do magna non est tempor pariatur eiusmod commodo pariatur commodo do.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Aliquip ut excepteur Lorem laboris sunt enim esse sunt aliquip.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 1130,
-    "prompt": "Adipisicing cillum in aliquip proident officia quis dolor tempor et veniam pariatur dolore pariatur nisi laboris.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 11.3,
+    "prompt": "Quis reprehenderit incididunt amet sit culpa Lorem aliqua ad eu.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 11.31,
-    "prompt": "Reprehenderit ipsum labore ullamco tempor occaecat sit voluptate sunt sunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Duis aute pariatur pariatur nulla ipsum do culpa mollit enim exercitation enim occaecat.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 11.32,
-    "prompt": "Ut proident Lorem id commodo nisi tempor deserunt velit in.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1132,
+    "prompt": "Nisi eu dolore pariatur eiusmod aliqua duis proident esse culpa elit ut ex quis.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 1133,
-    "prompt": "Et laboris aliquip voluptate aliqua commodo occaecat reprehenderit cupidatat ullamco tempor.",
+    "prompt": "Exercitation dolore dolore aute excepteur sint laborum esse reprehenderit quis excepteur quis consectetur eu.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 1134,
-    "prompt": "Cillum consequat exercitation ipsum est non proident cupidatat ex labore nulla.",
+    "clockTime": 11.34,
+    "prompt": "Consequat dolor in aute id non laboris duis qui excepteur exercitation labore duis.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
+  },
+  {
+    "clockTime": 11.35,
+    "prompt": "Nulla do voluptate veniam culpa qui tempor est dolore consequat occaecat.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 1135,
-    "prompt": "Consectetur elit laboris consequat magna nulla magna velit sint aute tempor enim sint.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 1136,
-    "prompt": "Ad eu consectetur ea anim fugiat nulla ut occaecat laboris reprehenderit eiusmod in deserunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 11.36,
+    "prompt": "Sint minim Lorem eiusmod voluptate cupidatat dolore culpa elit proident aliquip nisi.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 11.37,
-    "prompt": "Nostrud exercitation sunt ipsum deserunt veniam reprehenderit nisi labore reprehenderit mollit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Cupidatat cupidatat sit non labore ad nostrud esse officia aliqua cupidatat exercitation duis veniam laborum.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 11.38,
-    "prompt": "Duis eu ea mollit eu occaecat id proident adipisicing minim excepteur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Dolor elit ullamco voluptate enim eu nulla eiusmod enim anim non qui Lorem aute nostrud minim.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 1139,
-    "prompt": "Aliquip in ex non consequat laboris amet adipisicing excepteur amet nostrud sit.",
+    "prompt": "Irure ea irure et excepteur adipisicing voluptate minim nostrud est ex veniam.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 11.4,
-    "prompt": "Eiusmod nostrud sit exercitation cupidatat occaecat est reprehenderit labore aute est quis fugiat culpa sint.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1140,
+    "prompt": "Cupidatat consequat dolor ex esse labore ipsum cupidatat irure incididunt eiusmod.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 1141,
-    "prompt": "Sit voluptate duis velit voluptate dolor ut ipsum adipisicing non aliquip ad sint proident.",
+    "prompt": "Do aliquip cupidatat id nostrud dolore incididunt culpa velit elit.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 11.42,
-    "prompt": "Deserunt deserunt excepteur pariatur aliquip irure nisi ipsum dolore reprehenderit pariatur nulla ut esse cillum do.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1142,
+    "prompt": "Minim veniam cupidatat Lorem dolor sit Lorem labore deserunt occaecat dolor aliquip.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 1143,
-    "prompt": "Ipsum reprehenderit sit Lorem laboris duis incididunt aliqua esse velit nisi.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Mollit anim consectetur consequat ullamco ipsum consequat nisi proident minim commodo.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 11.44,
-    "prompt": "Sunt deserunt voluptate ipsum duis velit consequat voluptate exercitation velit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Commodo exercitation in magna amet commodo nostrud culpa labore anim nisi nostrud nulla laborum.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 1145,
-    "prompt": "Eu minim laboris minim sit nostrud exercitation sint sunt exercitation fugiat quis exercitation velit cillum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 11.45,
+    "prompt": "Minim in culpa officia ea ipsum consequat et est nostrud ea.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 11.46,
-    "prompt": "Magna cupidatat id ad ullamco laborum fugiat aliquip laborum voluptate ullamco.",
+    "clockTime": 1146,
+    "prompt": "Proident minim nulla ad fugiat sunt enim cupidatat excepteur exercitation minim tempor laboris dolore.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 1147,
-    "prompt": "Eu quis dolor enim incididunt est velit Lorem exercitation pariatur id anim mollit non reprehenderit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Aliquip veniam sit nostrud ex nisi proident aute ex excepteur elit reprehenderit mollit.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 1148,
-    "prompt": "Cupidatat consequat dolore incididunt culpa nulla ullamco Lorem exercitation sint laborum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Culpa eu ipsum est nostrud Lorem eu non esse voluptate voluptate fugiat esse.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 1149,
-    "prompt": "Laborum do ex et incididunt do veniam irure consectetur adipisicing proident.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Esse aliquip aliquip ad laborum sint culpa velit mollit veniam enim excepteur.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 1150,
-    "prompt": "Veniam excepteur aliqua sint ea irure voluptate incididunt tempor incididunt.",
+    "prompt": "Duis dolor eu labore adipisicing veniam amet velit cupidatat non anim sint exercitation ipsum.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 1151,
-    "prompt": "Aliquip Lorem ut nisi ad dolor ex do reprehenderit ipsum sunt excepteur nisi eiusmod consectetur ipsum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 11.51,
+    "prompt": "Mollit Lorem incididunt ut veniam ex cupidatat veniam mollit sint non irure ullamco ea.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 11.52,
-    "prompt": "Cupidatat sint ea tempor consequat occaecat ex qui pariatur dolore labore incididunt non amet.",
+    "clockTime": 1152,
+    "prompt": "Ullamco in mollit occaecat ut pariatur nostrud eu elit in commodo et aliquip do.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 1153,
-    "prompt": "Dolor minim ut consequat nulla aute sunt consequat ex ea aliquip.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Nulla ad fugiat do nulla sint elit ut duis reprehenderit ad consequat et.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 1154,
-    "prompt": "Laborum excepteur est mollit aliqua et dolore laborum veniam anim ea.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 11.54,
+    "prompt": "Officia consectetur et reprehenderit commodo pariatur qui id et mollit.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 1155,
-    "prompt": "Minim in laborum nisi aute adipisicing in ex amet veniam fugiat occaecat reprehenderit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 11.55,
+    "prompt": "Duis aliqua commodo excepteur proident nisi et tempor nostrud dolor nulla eiusmod enim proident.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 1156,
-    "prompt": "Lorem commodo minim aliqua elit incididunt irure eu sunt voluptate.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Deserunt aute mollit ea ea ullamco laboris veniam culpa culpa laboris nostrud.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 1157,
-    "prompt": "Sint anim dolor consequat eiusmod irure eu adipisicing exercitation ad mollit fugiat elit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 11.57,
+    "prompt": "Lorem occaecat quis aliquip ut reprehenderit cupidatat labore ut proident dolore qui veniam.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 1158,
-    "prompt": "Culpa ea id elit do Lorem esse nulla fugiat aute consectetur ad.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Tempor aute ad ullamco aute reprehenderit incididunt minim esse eiusmod.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 1159,
-    "prompt": "Elit duis id irure occaecat magna cupidatat anim id nulla labore anim do.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Deserunt irure aliquip Lorem cupidatat aute ea est fugiat sit.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 1200,
-    "prompt": "Enim proident officia laborum officia nulla consectetur elit minim duis.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 12,
+    "prompt": "Voluptate sint aliqua aliquip nisi tempor eu consequat cillum ullamco nisi quis qui adipisicing.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 1201,
-    "prompt": "Enim aliquip ex occaecat do proident ad pariatur adipisicing anim eu dolor occaecat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Officia do dolore aliqua exercitation dolor ipsum nisi consectetur in ullamco ea qui quis.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 1202,
-    "prompt": "Do pariatur veniam nulla amet enim ullamco officia aliquip ad ut eu.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Irure dolore officia eu irure ipsum dolore sint anim et consectetur do consequat.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 1203,
-    "prompt": "Cupidatat labore officia proident consequat adipisicing velit veniam exercitation labore laborum esse.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 12.03,
+    "prompt": "Velit sunt nostrud laboris velit labore incididunt exercitation sit tempor ullamco in anim sint.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 12.04,
-    "prompt": "Exercitation pariatur deserunt tempor voluptate ad laboris eu cupidatat consequat proident quis.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Est reprehenderit amet sit eiusmod Lorem id ullamco nisi mollit enim labore.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 12.05,
-    "prompt": "Consectetur enim id ea fugiat id non nulla qui esse esse cupidatat incididunt id elit amet.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ullamco magna ullamco labore labore voluptate do eu eiusmod reprehenderit velit dolore in laboris.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 1206,
-    "prompt": "Qui nostrud est tempor consequat est nostrud laboris cillum laboris dolor.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Voluptate anim nulla sint enim aliquip aliquip in duis cupidatat sint incididunt deserunt officia anim eu.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 1207,
-    "prompt": "Pariatur sit aliquip non nulla eiusmod dolore ex consectetur incididunt laboris magna.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Dolore occaecat laborum deserunt sint sint exercitation consequat mollit ut non ipsum culpa in dolore fugiat.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 1208,
-    "prompt": "Amet adipisicing dolor nisi occaecat sit consequat ex minim commodo id non adipisicing quis reprehenderit nulla.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Dolore cupidatat nulla consectetur minim adipisicing proident irure sunt proident aliqua aute et elit tempor quis.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 12.09,
-    "prompt": "Ullamco ea incididunt ut occaecat fugiat ad adipisicing pariatur Lorem proident pariatur do.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1209,
+    "prompt": "Officia occaecat ut esse cillum laborum exercitation nulla consequat laborum qui veniam proident.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 1210,
-    "prompt": "Elit ullamco laborum sunt ex nostrud commodo adipisicing commodo excepteur dolore aute ut.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Proident eiusmod mollit consectetur nisi ullamco tempor ad cillum amet reprehenderit aute nostrud.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 12.11,
-    "prompt": "Commodo proident deserunt est Lorem cillum in eiusmod labore id adipisicing.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1211,
+    "prompt": "Ex magna anim velit consectetur aute qui fugiat excepteur commodo anim voluptate excepteur ad aliquip.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 1212,
-    "prompt": "Aliquip incididunt et occaecat nostrud ea irure nisi non eiusmod nisi incididunt laborum dolore do.",
+    "prompt": "Lorem nulla pariatur nisi pariatur sit sunt laboris voluptate cupidatat ea aute veniam consectetur commodo pariatur.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 1213,
-    "prompt": "Consequat dolore nisi cillum dolor ipsum elit enim ullamco proident.",
+    "prompt": "Enim esse culpa sint ipsum in excepteur ex consectetur magna non.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
-    "clockTime": 1214,
-    "prompt": "Ad pariatur exercitation dolor fugiat dolore aliqua nisi anim labore excepteur exercitation sit eu.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 12.14,
+    "prompt": "Commodo qui esse ea aute esse minim commodo sint veniam aute.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 12.15,
-    "prompt": "Anim ea non nostrud exercitation nostrud occaecat et dolore velit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Excepteur sit et enim id incididunt anim in magna eiusmod consectetur ad est.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 12.16,
-    "prompt": "Consectetur ex do ipsum velit anim fugiat occaecat reprehenderit aute ad exercitation tempor cupidatat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Qui aute adipisicing eu enim excepteur officia est ipsum ut duis et aliquip minim.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 1217,
-    "prompt": "Adipisicing nostrud enim nisi ut officia excepteur cupidatat enim aliqua dolor.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Et pariatur duis et veniam exercitation irure culpa dolore in duis est consequat.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 1218,
-    "prompt": "Nulla veniam ullamco aliqua irure proident et irure aliquip culpa sunt adipisicing dolore.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Laboris do excepteur est anim sit nostrud proident eu culpa esse dolor consectetur irure proident.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 12.19,
-    "prompt": "Amet ex do est eiusmod sunt id eu et quis consectetur tempor tempor commodo ipsum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Deserunt duis adipisicing incididunt est occaecat ad labore ut adipisicing exercitation duis exercitation magna amet.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 12.2,
-    "prompt": "Incididunt sint laboris aute et est veniam occaecat aute enim mollit aute ullamco irure culpa.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Sit nisi incididunt deserunt anim elit pariatur dolore elit Lorem proident duis.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 1221,
-    "prompt": "Labore sit cillum elit dolore Lorem dolor quis occaecat qui magna commodo tempor nostrud.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Aute sunt dolore proident ipsum Lorem laborum reprehenderit elit irure anim.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 1222,
-    "prompt": "Adipisicing ad elit eu et enim adipisicing nisi non non voluptate.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 12.22,
+    "prompt": "Ex sunt adipisicing reprehenderit sint occaecat quis id pariatur sit ipsum.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 1223,
-    "prompt": "Irure non ullamco sit aliquip aliqua anim sit commodo aliqua ipsum ex pariatur fugiat ipsum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ad ad excepteur culpa laborum non amet voluptate cupidatat laborum reprehenderit et deserunt.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 12.24,
-    "prompt": "Veniam laborum magna tempor ipsum do ullamco occaecat occaecat laboris fugiat non.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1224,
+    "prompt": "Irure qui laborum eu sunt dolore fugiat ipsum sint in fugiat commodo adipisicing.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 12.25,
-    "prompt": "Labore id ea cupidatat labore est id labore elit nisi cillum cillum velit deserunt consequat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Id dolore ipsum minim magna est cillum aliquip et ex nulla culpa.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 1226,
-    "prompt": "Pariatur consectetur minim nisi nostrud fugiat labore aliqua do ea in qui commodo consectetur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Cillum officia excepteur cupidatat est culpa ex tempor anim qui cillum mollit non ea aliqua.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 12.27,
-    "prompt": "Exercitation id commodo labore incididunt velit minim proident anim laborum elit proident ullamco laboris.",
+    "clockTime": 1227,
+    "prompt": "Aute et ut aute proident velit amet voluptate deserunt labore ad occaecat laborum irure quis laboris.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 1228,
-    "prompt": "Nulla aliquip eu labore incididunt consectetur velit reprehenderit ullamco duis anim voluptate sint.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Incididunt ipsum fugiat non consectetur est ullamco ullamco culpa veniam.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 12.29,
-    "prompt": "Minim ipsum deserunt fugiat fugiat anim exercitation aliqua enim cupidatat aliquip nostrud laboris.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1229,
+    "prompt": "Tempor aute irure non velit anim sunt aute cupidatat duis duis.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 12.3,
-    "prompt": "Sunt nulla elit aliquip sunt nisi irure cupidatat velit elit ut culpa.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1230,
+    "prompt": "Eiusmod dolore ullamco cupidatat et Lorem exercitation excepteur sunt irure.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 12.31,
-    "prompt": "Quis eu ea irure id pariatur duis culpa consequat veniam sit do nostrud nostrud.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Eiusmod irure incididunt magna occaecat deserunt exercitation aute deserunt exercitation sunt.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 1232,
-    "prompt": "Laborum reprehenderit incididunt excepteur et excepteur est consequat elit excepteur incididunt irure reprehenderit aliqua.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Fugiat consequat aute aliqua commodo duis occaecat aliqua qui consectetur.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 1233,
-    "prompt": "Minim dolor eiusmod do commodo commodo reprehenderit labore Lorem quis sit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Tempor aliqua cupidatat reprehenderit tempor enim eiusmod ut laboris magna aute eu.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 1234,
-    "prompt": "Magna ut deserunt minim aute sint consequat mollit tempor Lorem.",
+    "prompt": "Officia officia cillum consequat quis sint qui ea eu exercitation in ea ipsum do.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 12.35,
-    "prompt": "Sit culpa ut aute ea exercitation elit sint occaecat id Lorem.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Commodo anim enim aute aute minim est fugiat anim duis Lorem nulla voluptate exercitation Lorem tempor.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 12.36,
-    "prompt": "Amet sunt veniam occaecat eiusmod non anim nisi veniam culpa.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Culpa pariatur aliqua ullamco cupidatat minim exercitation ad laborum fugiat mollit cillum elit incididunt veniam.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
-    "clockTime": 1237,
-    "prompt": "Irure ex proident aute sunt aliqua officia dolor laboris enim magna eiusmod duis.",
+    "clockTime": 12.37,
+    "prompt": "Nulla laboris cillum tempor proident non proident elit ex commodo magna officia qui commodo minim.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 1238,
-    "prompt": "Sit aliquip sit culpa occaecat ullamco minim ut dolor voluptate voluptate.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Sint ullamco ad veniam dolore proident occaecat esse ex eu laborum velit anim consectetur.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 12.39,
-    "prompt": "Ipsum fugiat sit minim cupidatat ipsum consectetur mollit consequat ex.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Irure proident non irure laborum adipisicing cupidatat ullamco nulla elit cillum est.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 1240,
-    "prompt": "Ex ad aute fugiat minim et minim cillum cillum Lorem do sunt eu commodo amet culpa.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Id laborum in ea deserunt duis do amet cupidatat deserunt incididunt eiusmod.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 12.41,
-    "prompt": "Exercitation esse cillum ea labore dolore dolor ipsum commodo eiusmod excepteur labore amet Lorem duis ullamco.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Est consequat anim dolore nostrud laborum est nostrud et labore pariatur exercitation cillum in proident.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 1242,
-    "prompt": "Ea dolore labore non elit aliquip exercitation aute elit nulla cillum est voluptate.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 12.42,
+    "prompt": "Cupidatat cillum irure excepteur sit sit dolore et magna pariatur.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 1243,
-    "prompt": "Cillum nulla excepteur ad excepteur commodo qui anim et sit nostrud labore.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ad eiusmod proident quis laborum duis amet fugiat elit eiusmod ipsum aute.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 12.44,
-    "prompt": "Aliquip aliqua fugiat ullamco qui ipsum labore fugiat velit tempor deserunt eiusmod.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Et sit laboris est pariatur dolor laboris aute officia consequat est exercitation consequat ullamco.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 12.45,
-    "prompt": "Cillum pariatur ex esse Lorem officia mollit labore labore quis veniam esse.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1245,
+    "prompt": "Dolore voluptate veniam exercitation ea nostrud adipisicing occaecat eiusmod anim adipisicing laboris.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 1246,
-    "prompt": "Aute minim occaecat mollit non non anim fugiat tempor non officia commodo incididunt enim.",
+    "clockTime": 12.46,
+    "prompt": "Velit ea ad reprehenderit nostrud commodo ipsum velit voluptate ex cillum dolore excepteur nostrud.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 1247,
-    "prompt": "Minim enim quis et officia ex nulla ut est commodo do ex mollit.",
+    "prompt": "Cillum ullamco in et ipsum ea occaecat sint et ad laborum elit voluptate.",
     "department": "Department of Health and Mental Hygiene (DOHMH)",
     "datasource": "NYC Leading Causes of Death"
   },
   {
     "clockTime": 1248,
-    "prompt": "Veniam nisi dolore pariatur magna aliqua pariatur nulla voluptate consectetur pariatur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Dolor nisi qui consectetur cillum pariatur et adipisicing qui ex ex excepteur aliqua.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 12.49,
-    "prompt": "In eiusmod voluptate quis anim ea ad eiusmod exercitation sint excepteur id cupidatat eu.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1249,
+    "prompt": "Laborum ut nostrud consectetur ad do nulla id eiusmod excepteur exercitation consequat sit ex sint elit.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 12.5,
-    "prompt": "Aliqua ipsum aliquip pariatur magna do irure sunt culpa Lorem qui.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1250,
+    "prompt": "Consequat excepteur fugiat anim ad veniam veniam laborum id dolore excepteur consequat pariatur elit qui.",
+    "department": "Office of Payroll Administration (OPA)",
+    "datasource": "Citywide Payroll Data (Fiscal Year)"
   },
   {
     "clockTime": 1251,
-    "prompt": "Ipsum tempor est consequat esse dolor officia culpa cupidatat cupidatat irure.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Fugiat occaecat velit amet aute est cupidatat proident eiusmod occaecat enim anim voluptate eiusmod.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
     "clockTime": 1252,
-    "prompt": "Deserunt dolore amet deserunt id sint commodo et ea deserunt eiusmod irure non officia.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Pariatur veniam qui reprehenderit est proident deserunt cillum mollit aute laboris minim consequat.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 1253,
-    "prompt": "Dolor veniam ex tempor sunt nostrud duis consequat ipsum deserunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Ipsum eu nulla nostrud sint consectetur non proident do ex labore.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
     "clockTime": 1254,
-    "prompt": "Minim aliquip ex nulla exercitation consequat do aliquip est proident officia esse duis officia adipisicing.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Quis labore nisi pariatur anim excepteur magna aliquip non laboris Lorem amet ipsum commodo.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   },
   {
-    "clockTime": 1255,
-    "prompt": "Sunt anim in aliquip sint mollit anim eu culpa ea cillum aute deserunt aute.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 12.55,
+    "prompt": "Sunt culpa officia ad velit reprehenderit exercitation commodo ut pariatur deserunt qui sit.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 1256,
-    "prompt": "Officia id reprehenderit qui magna exercitation exercitation veniam sunt ut adipisicing irure consequat id voluptate sint.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 12.56,
+    "prompt": "Duis ipsum sint aliqua incididunt magna ipsum adipisicing irure ad est Lorem dolore.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
-    "clockTime": 12.57,
-    "prompt": "Do consectetur ea amet amet labore proident irure aliqua adipisicing ut aute eu enim.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 1257,
+    "prompt": "Labore laborum occaecat deserunt voluptate labore cupidatat in laborum quis nisi nulla nostrud.",
+    "department": "Police Department (NYPD)",
+    "datasource": "NYPD Personnel Demographics"
   },
   {
-    "clockTime": 1258,
-    "prompt": "Officia laboris eiusmod amet Lorem aute commodo est dolore cillum fugiat ex adipisicing.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "clockTime": 12.58,
+    "prompt": "Aliqua mollit aliquip sint minim eiusmod occaecat ex cupidatat laborum quis irure elit.",
+    "department": "City Council (NYCC)",
+    "datasource": "Participator Budgeting Projects"
   },
   {
     "clockTime": 1259,
-    "prompt": "Tempor officia velit deserunt enim in sunt duis et nostrud do et anim deserunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
+    "prompt": "Magna pariatur aliquip ea fugiat excepteur non sunt dolore dolore culpa pariatur sunt est.",
+    "department": "Department of Correction (BOC)",
+    "datasource": "Hart Island Burial Records"
   }
 ]

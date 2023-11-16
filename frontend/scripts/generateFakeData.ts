@@ -72,11 +72,13 @@ const generateClockNumbers = () => {
         clockTime = Number(`${hour}${paddedMinute}`);
       }
 
+      const randomDataset =
+        datasets[Math.floor(Math.random() * datasets.length)];
       clockRecords.push({
         clockTime,
         prompt: `${lorem.generateSentences(1)}`,
-        department: "Department of Health and Mental Hygiene (DOHMH)",
-        datasource: "NYC Leading Causes of Death",
+        department: randomDataset.agency,
+        datasource: randomDataset.datasetTitle,
       });
     }
   }
