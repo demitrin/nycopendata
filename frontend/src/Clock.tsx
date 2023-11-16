@@ -26,22 +26,11 @@ function getClockRecordFromCurrentTime() {
 
 }
 
-function getFormattedTime() {
-  const currentDate = new Date();
-  const hours = currentDate.getHours() % 12 || 12; // Convert to 12-hour format
-  const minutes = currentDate.getMinutes();
-  const ampm = currentDate.getHours() >= 12 ? "PM" : "AM";
-
-  return `${hours}:${minutes < 10 ? "0" : ""}${minutes} ${ampm}`;
-}
-
 const Clock = () => {
-  const [time, setTime] = useState(getFormattedTime);
   const [clockRecord, setClockRecord] = useState(getClockRecordFromCurrentTime);
 
   useEffect(() => {
     const intervalId = setInterval(() => {
-      setTime(getFormattedTime());
       setClockRecord(getClockRecordFromCurrentTime());
 
     }, 1000); // Update every minute
