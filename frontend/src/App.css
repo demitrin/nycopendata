@@ -20,15 +20,17 @@
   padding-left: 10px;
   padding-right: 10px;
 
+  font-size: 16px;
+
   .nycOpenData {
     height: 50px;
-  }
-
-  font-size: 16px;
+  }  
 }
 
 @media screen and (max-width: 630px) {
   .footer {
+      position: relative;
+      margin-top: 100px;
       flex-direction: column-reverse;
   }
 }

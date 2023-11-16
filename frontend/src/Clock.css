@@ -1,6 +1,6 @@
 .clock {
   font-size: 3em;
-  color: white;
+  color: rgba(255, 255, 255, 0.87);
   text-align: center;
   padding: 20px;
 }
@@ -13,6 +13,37 @@
   .clockTime {
     height: 150px;
     font-size: 100px;
+
+    display: flex;
+    justify-content: center;
+
+    .period {
+      width: 10px;
+      height: 10px;
+      border-radius: 5px;
+      background-color: rgba(255, 255, 255, 0.87);
+    }
+
+    .breaker {
+      margin-left: 10px;
+      margin-right: 10px;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      margin-bottom: 35px;
+
+      .topColon {
+        margin-bottom: 25px;
+      }
+    }
+
+    .faded-text {
+      color: #373737;
+    }
+
+    .faded-div {
+      background-color: #373737;
+    }
   }
 
   .prompt {
