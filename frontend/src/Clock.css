@@ -3,8 +3,29 @@
   color: white;
   text-align: center;
   padding: 20px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+
+  .clockTime {
+    height: 150px;
+    font-size: 100px;
+  }
+
+  .prompt {
+    height: 135px;
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: left;
+  }
+
+  .datasource div {
+    font-size: 14px;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-bottom: 10px;
+  }
 }
