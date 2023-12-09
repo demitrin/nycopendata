@@ -1,7 +1,12 @@
-// usage npx ts-node --esm generateFakeData.ts
-
+import * as fs from "fs";
 import { LoremIpsum } from "lorem-ipsum";
-import fs from "fs";
+
+type ClockRecord = {
+  clockTime: number;
+  prompt: string;
+  department: string;
+  datasource: string;
+};
 
 const lorem = new LoremIpsum({
   sentencesPerParagraph: {
@@ -52,42 +57,63 @@ const datasets = [
   },
 ];
 
-type ClockRecord = {
-  clockTime: number;
-  prompt: string;
-  department: string;
-  datasource: string;
-};
-
-const generateClockNumbers = () => {
-  const clockRecords: ClockRecord[] = [];
-
+function mergeData(realData: ClockRecord[]): ClockRecord[] {
+  const mergedData: ClockRecord[] = [];
   for (let hour = 1; hour < 13; hour++) {
     for (let minute = 0; minute < 60; minute++) {
-      let clockTime;
       const paddedMinute = minute < 10 ? `0${minute}` : minute.toString();
-      if (Math.random() < 0.4) {
-        clockTime = Number(`${hour}.${paddedMinute}`);
+      const targetClockTime = Number(`${hour}${paddedMinute}`);
+      const targetClockTimeInRealData = realData.find(
+        (record) =>
+          record.clockTime === targetClockTime ||
+          record.clockTime * 100 === targetClockTime
+      );
+      if (targetClockTimeInRealData) {
+        mergedData.push(targetClockTimeInRealData);
       } else {
-        clockTime = Number(`${hour}${paddedMinute}`);
+        let clockTime;
+        if (Math.random() < 0.4) {
+          clockTime = Number(`${hour}.${paddedMinute}`);
+        } else {
+          clockTime = Number(`${hour}${paddedMinute}`);
+        }
+        const randomDataset =
+          datasets[Math.floor(Math.random() * datasets.length)];
+        console.log(
+          "Not found -- generating fake data",
+          targetClockTime,
+          randomDataset.agency,
+          randomDataset.datasetTitle
+        );
+        mergedData.push({
+          clockTime,
+          prompt: `${lorem.generateSentences(1)}`,
+          department: randomDataset.agency,
+          datasource: randomDataset.datasetTitle,
+        });
       }
-
-      const randomDataset =
-        datasets[Math.floor(Math.random() * datasets.length)];
-      clockRecords.push({
-        clockTime,
-        prompt: `${lorem.generateSentences(1)}`,
-        department: randomDataset.agency,
-        datasource: randomDataset.datasetTitle,
-      });
     }
   }
-  return clockRecords;
-};
+  return mergedData;
+}
 
-console.log("generating fake data:", generateClockNumbers().length, "records");
+function main() {
+  try {
+    // Read real data from realData.json
+    const realData: ClockRecord[] = JSON.parse(
+      fs.readFileSync("realData.json", "utf-8")
+    );
+    const mergedData = mergeData(realData);
 
-fs.writeFileSync(
-  "./fakeData.json",
-  `${JSON.stringify(generateClockNumbers(), null, 2)}`
-);
+    fs.writeFileSync(
+      "../src/data.ts",
+      `export default ${JSON.stringify(mergedData, null, 2)}`
+    );
+
+    console.log("Merge successful. Merged data saved to mergedData.json");
+  } catch (error) {
+    console.error("Error:", error);
+  }
+}
+
+main();

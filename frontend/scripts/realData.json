@@ -1,4322 +1,3944 @@
-export default [
+[
   {
-    "clockTime": 100,
+    "clockTime": 100.0,
     "prompt": "feet of sidewalk at community garden id q490-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 101,
+    "clockTime": 101.0,
     "prompt": "feet of sidewalk at community garden id b532-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 102,
+    "clockTime": 102.0,
     "prompt": "feet of sidewalk at community garden id b424-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 103,
+    "clockTime": 103.0,
     "prompt": "feet of sidewalk at community garden id b511-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 104,
+    "clockTime": 104.0,
     "prompt": "feet of fence at community garden id b503-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 105,
+    "clockTime": 105.0,
     "prompt": "feet of fence at community garden id x347-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 106,
+    "clockTime": 106.0,
     "prompt": "dollars per hour is the highest base salary of nyc administrative engineer employees (2017)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 107,
+    "clockTime": 107.0,
     "prompt": "dollars per hour is the highest base salary of nyc adjunct associate professor employees (2017)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 108,
+    "clockTime": 108.0,
     "prompt": "feet of sidewalk at community garden id b495-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 109,
+    "clockTime": 109.0,
     "prompt": "feet of sidewalk at community garden id b459-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 110,
+    "clockTime": 110.0,
     "prompt": "square feet of sidewalk at community garden id b557-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 111,
+    "clockTime": 111.0,
     "prompt": "dollars per hour is the highest base salary of nyc adjunct associate professor employees (2020)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 112,
+    "clockTime": 112.0,
     "prompt": "feet of fence at community garden id b501-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 113,
+    "clockTime": 113.0,
     "prompt": "feet of fence at community garden id m364-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 114,
+    "clockTime": 114.0,
     "prompt": "feet of sidewalk at community garden id m333-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 115,
+    "clockTime": 115.0,
     "prompt": "feet of fence at community garden id m334-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 116,
+    "clockTime": 116.0,
     "prompt": "feet of fence at community garden id b487-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 117,
+    "clockTime": 117.0,
     "prompt": "median number in adult shelters in queens (01/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 118,
+    "clockTime": 118.0,
     "prompt": "dollars per hour is the highest base salary of nyc community college (laguardia) employees (2023)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 119,
+    "clockTime": 119.0,
     "prompt": "feet of sidewalk at community garden id b472-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 120,
+    "clockTime": 120.0,
     "prompt": "feet of sidewalk at community garden id b467-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 121,
+    "clockTime": 121.0,
     "prompt": "feet of sidewalk at community garden id m335-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 122,
+    "clockTime": 122.0,
     "prompt": "feet of fence at community garden id m389-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 123,
+    "clockTime": 123.0,
     "prompt": "feet of sidewalk at community garden id m392-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 124,
+    "clockTime": 124.0,
     "prompt": "feet of fence at community garden id m367-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 125,
+    "clockTime": 125.0,
     "prompt": "feet of sidewalk at community garden id b439-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 126,
+    "clockTime": 126.0,
     "prompt": "median number in adult family shelters in brooklyn (06/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 127,
+    "clockTime": 127.0,
     "prompt": "dollars per hour is the highest base salary of nyc professor employees (2023)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 128,
+    "clockTime": 128.0,
     "prompt": "feet of sidewalk at community garden id b442-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 129,
+    "clockTime": 129.0,
     "prompt": "feet of sidewalk at community garden id b493-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 130,
+    "clockTime": 130.0,
     "prompt": "feet of fence at community garden id b502-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 131,
+    "clockTime": 131.0,
     "prompt": "feet of sidewalk at community garden id b578-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 132,
+    "clockTime": 132.0,
     "prompt": "dollars per hour is the highest base salary of nyc professor employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 133,
+    "clockTime": 133.0,
     "prompt": "feet of sidewalk at community garden id x179a-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 134,
+    "clockTime": 134.0,
     "prompt": "number in adult shelter commercial hotels in brooklyn (01/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 135,
+    "clockTime": 135.0,
     "prompt": "feet of sidewalk at community garden id m332-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 136,
+    "clockTime": 136.0,
     "prompt": "feet of fence at community garden id b508-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 137,
+    "clockTime": 137.0,
     "prompt": "feet of fence at community garden id m390-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 138,
+    "clockTime": 138.0,
     "prompt": "feet of fence at community garden id m383-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 139,
+    "clockTime": 139.0,
     "prompt": "number in adult family shelters in bronx (09/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 140,
+    "clockTime": 140.0,
     "prompt": "feet of fence at community garden id b557-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 141,
+    "clockTime": 141.0,
     "prompt": "feet of sidewalk at community garden id b507-gt002",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 142,
+    "clockTime": 142.0,
     "prompt": "dollars per day is the highest base salary of nyc coach employees (2020)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 143,
+    "clockTime": 143.0,
     "prompt": "feet of fence at community garden id b495-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 144,
+    "clockTime": 144.0,
     "prompt": "square feet of sidewalk at community garden id b564-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 145,
+    "clockTime": 145.0,
     "prompt": "feet of sidewalk at community garden id x358-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 146,
+    "clockTime": 146.0,
     "prompt": "feet of fence at community garden id b441-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 147,
+    "clockTime": 147.0,
     "prompt": "dollars per day is the highest base salary of nyc dept of ed para professionals employees (2017)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 148,
+    "clockTime": 148.0,
     "prompt": "feet of sidewalk at community garden id b505-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 149,
+    "clockTime": 149.0,
     "prompt": "median number in adult family shelters in brooklyn (01/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 150,
+    "clockTime": 150.0,
     "prompt": "feet of fence at community garden id b492-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 151,
+    "clockTime": 151.0,
     "prompt": "feet of fence at community garden id m335-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 152,
+    "clockTime": 152.0,
     "prompt": "feet of sidewalk at community garden id b438-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 153,
+    "clockTime": 153.0,
     "prompt": "feet of sidewalk at community garden id b488-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 154,
+    "clockTime": 154.0,
     "prompt": "feet of fence at community garden id m344-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 155,
+    "clockTime": 155.0,
     "prompt": "number in family with children shelters in queens (12/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 156,
+    "clockTime": 156.0,
     "prompt": "feet of fence at community garden id b485-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 157,
+    "clockTime": 157.0,
     "prompt": "dollars per day is the highest base salary of nyc substitute ed para employees (2019)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 158,
+    "clockTime": 158.0,
     "prompt": "feet of fence at community garden id m298-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 159,
+    "clockTime": 159.0,
     "prompt": "feet of fence at community garden id b513-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 200,
+    "clockTime": 200.0,
     "prompt": "feet of fence at community garden id x272-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 201,
+    "clockTime": 201.0,
     "prompt": "feet of fence at community garden id m316-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 202,
+    "clockTime": 202.0,
     "prompt": "feet of sidewalk at community garden id b533-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 203,
+    "clockTime": 203.0,
     "prompt": "average number in adult family shelters in brooklyn (04/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 204,
+    "clockTime": 204.0,
     "prompt": "feet of fence at community garden id x364-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 205,
+    "clockTime": 205.0,
     "prompt": "feet of fence at community garden id b463-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 206,
+    "clockTime": 206.0,
     "prompt": "square feet of sidewalk at community garden id b487-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 207,
+    "clockTime": 207.0,
     "prompt": "feet of fence at community garden id x241-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 208,
+    "clockTime": 208.0,
     "prompt": "dollars per day is the highest base salary of nyc teacher employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 209,
+    "clockTime": 209.0,
     "prompt": "dollars per day is the highest base salary of nyc maintenance worker employees (2015)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 210,
+    "clockTime": 210.0,
     "prompt": "feet of fence at community garden id b448-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 211,
+    "clockTime": 211.0,
     "prompt": "feet of fence at community garden id m291-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 212,
+    "clockTime": 212.0,
     "prompt": "feet of sidewalk at community garden id x326-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 213,
+    "clockTime": 213.0,
     "prompt": "square feet of sidewalk at community garden id m403-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 214,
+    "clockTime": 214.0,
     "prompt": "feet of sidewalk at community garden id x324-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 215,
+    "clockTime": 215.0,
     "prompt": "feet of sidewalk at community garden id x235-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 216,
+    "clockTime": 216.0,
     "prompt": "square feet of sidewalk at community garden id b582-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 217,
+    "clockTime": 217.0,
     "prompt": "dollars per day is the highest base salary of nyc supervisor locksmith employees (2015)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 218,
+    "clockTime": 218.0,
     "prompt": "feet of sidewalk at community garden id b449-gt002",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 219,
+    "clockTime": 219.0,
     "prompt": "dollars per hour is the highest base salary of nyc community coordinator employees (2023)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 220,
+    "clockTime": 220.0,
     "prompt": "feet of sidewalk at community garden id b483-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 221,
+    "clockTime": 221.0,
     "prompt": "number in adult shelters in bronx (01/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 222,
+    "clockTime": 222.0,
     "prompt": "feet of sidewalk at community garden id b142-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 223,
+    "clockTime": 223.0,
     "prompt": "dollars per day is the highest base salary of nyc rubber tire repairer employees (2018)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 224,
+    "clockTime": 224.0,
     "prompt": "dollars per day is the highest base salary of nyc maintenance worker employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 225,
+    "clockTime": 225.0,
     "prompt": "square feet of sidewalk at community garden id b568-gt002",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 226,
+    "clockTime": 226.0,
     "prompt": "number in family with children shelters in bronx (01/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 227,
+    "clockTime": 227.0,
     "prompt": "dollars per day is the highest base salary of nyc continuing education teacher employees (2020)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 228,
+    "clockTime": 228.0,
     "prompt": "feet of fence at community garden id b467-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 229,
+    "clockTime": 229.0,
     "prompt": "number in family with children commercial hotels in brooklyn (12/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 230,
+    "clockTime": 230.0,
     "prompt": "feet of sidewalk at community garden id x276-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 231,
+    "clockTime": 231.0,
     "prompt": "number in family with children shelters in queens (09/30/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 232,
+    "clockTime": 232.0,
     "prompt": "dollars per day is the highest base salary of nyc elevator mechanic helper employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 233,
+    "clockTime": 233.0,
     "prompt": "dollars per day is the highest base salary of nyc secretary employees (2017)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 234,
+    "clockTime": 234.0,
     "prompt": "dollars per day is the highest base salary of nyc horseshoer employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 235,
+    "clockTime": 235.0,
     "prompt": "dollars per day is the highest base salary of nyc plumber's helper employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 236,
+    "clockTime": 236.0,
     "prompt": "feet of fence at community garden id b572-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 237,
+    "clockTime": 237.0,
     "prompt": "dollars per day is the highest base salary of nyc masons helper employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 238,
+    "clockTime": 238.0,
     "prompt": "square feet of sidewalk at community garden id m330-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 239,
+    "clockTime": 239.0,
     "prompt": "feet of fence at community garden id b470-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 240,
+    "clockTime": 240.0,
     "prompt": "square feet of sidewalk at community garden id m358-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 241,
+    "clockTime": 241.0,
     "prompt": "dollars per day is the highest base salary of nyc carriage upholsterer employees (2015)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 242,
+    "clockTime": 242.0,
     "prompt": "dollars per day is the highest base salary of nyc continuing education teacher employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 243,
+    "clockTime": 243.0,
     "prompt": "number in adult shelter commercial hotels in manhattan (02/29/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 244,
+    "clockTime": 244.0,
     "prompt": "dollars per day is the highest base salary of nyc maintenance worker employees (2018)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 245,
+    "clockTime": 245.0,
     "prompt": "number in adult shelter commercial hotels in queens (11/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 246,
+    "clockTime": 246.0,
     "prompt": "feet of fence at community garden id b494-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 247,
+    "clockTime": 247.0,
     "prompt": "feet of fence at community garden id b507-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 248,
+    "clockTime": 248.0,
     "prompt": "dollars per day is the highest base salary of nyc electrician's helper employees (2015)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 249,
+    "clockTime": 249.0,
     "prompt": "dollars per day is the highest base salary of nyc law department employees (2023)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 250,
+    "clockTime": 250.0,
     "prompt": "feet of fence at community garden id q495-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 251,
+    "clockTime": 251.0,
     "prompt": "feet of fence at community garden id b575-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 252,
+    "clockTime": 252.0,
     "prompt": "number in family with children commercial hotels in queens (11/30/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 253,
+    "clockTime": 253.0,
     "prompt": "feet of fence at community garden id b530-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 254,
+    "clockTime": 254.0,
     "prompt": "feet of fence at community garden id m333-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 255,
+    "clockTime": 255.0,
     "prompt": "square feet of sidewalk at community garden id m400-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 256,
+    "clockTime": 256.0,
     "prompt": "square feet of sidewalk at community garden id m380-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 257,
+    "clockTime": 257.0,
     "prompt": "dollars per day is the highest base salary of nyc non-teaching adjunct iii employees (2017)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 258,
+    "clockTime": 258.0,
     "prompt": "dollars per day is the highest base salary of nyc continuing education teacher employees (2017)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 259,
+    "clockTime": 259.0,
     "prompt": "feet of sidewalk at community garden id x357-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 300,
+    "clockTime": 300.0,
     "prompt": "feet of fence at community garden id x298-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 301,
+    "clockTime": 301.0,
     "prompt": "number in family with children shelters in bronx (02/29/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 302,
+    "clockTime": 302.0,
     "prompt": "number in adult family shelters in queens (07/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 303,
+    "clockTime": 303.0,
     "prompt": "feet of sidewalk at community garden id x275-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 304,
+    "clockTime": 304.0,
     "prompt": "feet of fence at community garden id x297-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 305,
+    "clockTime": 305.0,
     "prompt": "number in adult shelters in queens (04/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 306,
+    "clockTime": 306.0,
     "prompt": "feet of fence at community garden id b576-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 307,
+    "clockTime": 307.0,
     "prompt": "feet of fence at community garden id x323-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 308,
+    "clockTime": 308.0,
     "prompt": "dollars per day is the highest base salary of nyc bridge painter employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 309,
+    "clockTime": 309.0,
     "prompt": "dollars per day is the highest base salary of nyc printing press operator employees (2015)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 310,
+    "clockTime": 310.0,
     "prompt": "square feet of sidewalk at community garden id q518-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 311,
+    "clockTime": 311.0,
     "prompt": "dollars per day is the highest base salary of nyc supervisor highway repairer employees (2015)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 312,
+    "clockTime": 312.0,
     "prompt": "square feet of sidewalk at community garden id b569-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 313,
+    "clockTime": 313.0,
     "prompt": "dollars per day is the highest base salary of nyc auto  machinist employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 314,
+    "clockTime": 314.0,
     "prompt": "number in family with children commercial hotels in brooklyn (04/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 315,
+    "clockTime": 315.0,
     "prompt": "feet of fence at community garden id b447-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 316,
+    "clockTime": 316.0,
     "prompt": "number in adult shelter commercial hotels in queens (09/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 317,
+    "clockTime": 317.0,
     "prompt": "dollars per hour is the highest base salary of nyc professor employees (2015)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 318,
+    "clockTime": 318.0,
     "prompt": "dollars per day is the highest base salary of nyc sewage treatment worker employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 319,
+    "clockTime": 319.0,
     "prompt": "dollars per day is the highest base salary of nyc roofer employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 320,
+    "clockTime": 320.0,
     "prompt": "feet of fence at community garden id b509-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 321,
+    "clockTime": 321.0,
     "prompt": "dollars per day is the highest base salary of nyc school social worker employees (2015)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 322,
+    "clockTime": 322.0,
     "prompt": "dollars per day is the highest base salary of nyc steam fitter's helper employees (2023)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 323,
+    "clockTime": 323.0,
     "prompt": "dollars per day is the highest base salary of nyc school psychologist employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 324,
+    "clockTime": 324.0,
     "prompt": "dollars per day is the highest base salary of nyc plasterer employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 325,
+    "clockTime": 325.0,
     "prompt": "square feet of sidewalk at community garden id b525-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 326,
+    "clockTime": 326.0,
     "prompt": "dollars per day is the highest base salary of nyc glazier employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 327,
+    "clockTime": 327.0,
     "prompt": "dollars per day is the highest base salary of nyc machinist's helper employees (2020)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 328,
+    "clockTime": 328.0,
     "prompt": "feet of sidewalk at community garden id m325-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 329,
+    "clockTime": 329.0,
     "prompt": "feet of sidewalk at community garden id m268-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 330,
+    "clockTime": 330.0,
     "prompt": "dollars per day is the highest base salary of nyc guttman community college employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 331,
+    "clockTime": 331.0,
     "prompt": "square feet of sidewalk at community garden id b546-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 332,
+    "clockTime": 332.0,
     "prompt": "number in adult shelters in brooklyn (04/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 333,
+    "clockTime": 333.0,
     "prompt": "dollars per day is the highest base salary of nyc supervisor plasterer employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 334,
+    "clockTime": 334.0,
     "prompt": "dollars per day is the highest base salary of nyc city laborer employees (2018)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 335,
+    "clockTime": 335.0,
     "prompt": "dollars per day is the highest base salary of nyc supervisor glazier employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 336,
+    "clockTime": 336.0,
     "prompt": "square feet of sidewalk at community garden id m365-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 337,
+    "clockTime": 337.0,
     "prompt": "dollars per day is the highest base salary of nyc high pressure plant tender employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 338,
+    "clockTime": 338.0,
     "prompt": "feet of fence at community garden id m180-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 339,
+    "clockTime": 339.0,
     "prompt": "dollars per day is the highest base salary of nyc city laborer employees (2019)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 340,
+    "clockTime": 340.0,
     "prompt": "feet of sidewalk at community garden id q371-gt002",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 341,
+    "clockTime": 341.0,
     "prompt": "lowest # of days on force at incident for untruthful statement cases (2023).",
     "datasource": "Allegations Against Police Officers",
     "department": "Civilian Complaint Review Board (CCRB)"
   },
   {
-    "clockTime": 342,
+    "clockTime": 342.0,
     "prompt": "dollars per day is the highest base salary of nyc printing press operator employees (2019)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 343,
+    "clockTime": 343.0,
     "prompt": "dollars per day is the highest base salary of nyc housing preservation & dvlpmnt employees (2015)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 344,
+    "clockTime": 344.0,
     "prompt": "square feet of sidewalk at community garden id b538-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 345,
+    "clockTime": 345.0,
     "prompt": "square feet of sidewalk at community garden id b570-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 346,
+    "clockTime": 346.0,
     "prompt": "dollars per hour is the highest base salary of nyc member, civilian complaint review board employees (2023)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 347,
+    "clockTime": 347.0,
     "prompt": "dollars per day is the highest base salary of nyc machinist employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 348,
+    "clockTime": 348.0,
     "prompt": "square feet of sidewalk at community garden id m407-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 349,
+    "clockTime": 349.0,
     "prompt": "dollars per day is the highest base salary of nyc non-teaching adjunct ii employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 350,
+    "clockTime": 350.0,
     "prompt": "feet of fence at community garden id b556-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 351,
+    "clockTime": 351.0,
     "prompt": "dollars per day is the highest base salary of nyc school psychologist employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 352,
+    "clockTime": 352.0,
     "prompt": "dollars per day is the highest base salary of nyc construction laborer employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 353,
+    "clockTime": 353.0,
     "prompt": "feet of sidewalk at community garden id x325-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 354,
+    "clockTime": 354.0,
     "prompt": "dollars per day is the highest base salary of nyc supervisor highway repairer employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 355,
+    "clockTime": 355.0,
     "prompt": "dollars per day is the highest base salary of nyc high pressure plant tender employees (2023)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 356,
+    "clockTime": 356.0,
     "prompt": "dollars per day is the highest base salary of nyc supervisor bricklayer employees (2015)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 357,
+    "clockTime": 357.0,
     "prompt": "number in adult shelters in brooklyn (07/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 358,
+    "clockTime": 358.0,
     "prompt": "dollars per day is the highest base salary of nyc plasterer employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 359,
+    "clockTime": 359.0,
     "prompt": "dollars per day is the highest base salary of nyc sewage treatment worker employees (2020)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 400,
+    "clockTime": 400.0,
     "prompt": "feet of fence at community garden id x327-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 401,
+    "clockTime": 401.0,
     "prompt": "dollars per day is the highest base salary of nyc supervisor electrician employees (2017)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 402,
+    "clockTime": 402.0,
     "prompt": "average number in adult shelters in manhattan (11/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 403,
+    "clockTime": 403.0,
     "prompt": "dollars per day is the highest base salary of nyc school social worker employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 404,
+    "clockTime": 404.0,
     "prompt": "dollars per day is the highest base salary of nyc communication electrician employees (2020)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 405,
+    "clockTime": 405.0,
     "prompt": "dollars per day is the highest base salary of nyc motor grader operator employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 406,
+    "clockTime": 406.0,
     "prompt": "square feet of sidewalk at community garden id m364-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 407,
+    "clockTime": 407.0,
     "prompt": "number in adult family shelters in manhattan (12/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 408,
+    "clockTime": 408.0,
     "prompt": "average number in adult shelters in manhattan (07/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 409,
+    "clockTime": 409.0,
     "prompt": "square feet of sidewalk at community garden id b507-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 410,
+    "clockTime": 410.0,
     "prompt": "dollars per day is the highest base salary of nyc supervisor bridge repairer and riveter employees (2017)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 411,
+    "clockTime": 411.0,
     "prompt": "square feet of sidewalk at community garden id b473-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 412,
+    "clockTime": 412.0,
     "prompt": "average number in adult shelters in manhattan (10/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 413,
+    "clockTime": 413.0,
     "prompt": "dollars per day is the highest base salary of nyc communication electrician employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 414,
+    "clockTime": 414.0,
     "prompt": "number in family with children shelters in brooklyn (04/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 415,
+    "clockTime": 415.0,
     "prompt": "dollars per day is the highest base salary of nyc dockbuilder employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 416,
+    "clockTime": 416.0,
     "prompt": "feet of fence at community garden id b058-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 417,
+    "clockTime": 417.0,
     "prompt": "dollars per day is the highest base salary of nyc housing preservation & dvlpmnt employees (2020)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 418,
+    "clockTime": 418.0,
     "prompt": "dollars per hour is the highest base salary of nyc civil service commission employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 419,
+    "clockTime": 419.0,
     "prompt": "feet of sidewalk at community garden id b058-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 420,
+    "clockTime": 420.0,
     "prompt": "square feet of sidewalk at community garden id b480-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 421,
+    "clockTime": 421.0,
     "prompt": "dollars per day is the highest base salary of nyc radio repair mechanic employees (2023)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 422,
+    "clockTime": 422.0,
     "prompt": "dollars per day is the highest base salary of nyc supervisor elevator mechanic employees (2018)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 423,
+    "clockTime": 423.0,
     "prompt": "dollars per day is the highest base salary of nyc supervisor ship carpenter employees (2017)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 424,
+    "clockTime": 424.0,
     "prompt": "feet of fence at community garden id b474-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 425,
+    "clockTime": 425.0,
     "prompt": "square feet of sidewalk at community garden id x270-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 426,
+    "clockTime": 426.0,
     "prompt": "feet of sidewalk at community garden id q484-gt002",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 427,
+    "clockTime": 427.0,
     "prompt": "dollars per day is the highest base salary of nyc electrician employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 428,
+    "clockTime": 428.0,
     "prompt": "dollars per day is the highest base salary of nyc ship carpenter employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 429,
+    "clockTime": 429.0,
     "prompt": "dollars per day is the highest base salary of nyc supervisor sheet metal worker employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 430,
+    "clockTime": 430.0,
     "prompt": "dollars per day is the highest base salary of nyc admin for children's svcs employees (2020)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 431,
+    "clockTime": 431.0,
     "prompt": "dollars per day is the highest base salary of nyc supervisor ship carpenter employees (2019)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 432,
+    "clockTime": 432.0,
     "prompt": "dollars per day is the highest base salary of nyc supervising communication electrician employees (2019)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 433,
+    "clockTime": 433.0,
     "prompt": "dollars per day is the highest base salary of nyc supervisor elevator mechanic employees (2019)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 434,
+    "clockTime": 434.0,
     "prompt": "number in family with children shelters in brooklyn (10/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 435,
+    "clockTime": 435.0,
     "prompt": "dollars per day is the highest base salary of nyc compositor employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 436,
+    "clockTime": 436.0,
     "prompt": "dollars per day is the highest base salary of nyc fire department employees (2015)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 437,
+    "clockTime": 437.0,
     "prompt": "dollars per hour is the highest base salary of nyc chairman employees (2015)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 438,
+    "clockTime": 438.0,
     "prompt": "average number in adult shelters in brooklyn (01/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 439,
+    "clockTime": 439.0,
     "prompt": "dollars per day is the highest base salary of nyc bridge repairer and riveter employees (2023)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 440,
+    "clockTime": 440.0,
     "prompt": "square feet of sidewalk at community garden id b566-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 441,
+    "clockTime": 441.0,
     "prompt": "square feet of sidewalk at community garden id b482-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 442,
+    "clockTime": 442.0,
     "prompt": "feet of sidewalk at community garden id x296-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 443,
+    "clockTime": 443.0,
     "prompt": "dollars per day is the highest base salary of nyc dept. of homeless services employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 444,
+    "clockTime": 444.0,
     "prompt": "square feet of sidewalk at community garden id m348-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 445,
+    "clockTime": 445.0,
     "prompt": "dollars per day is the highest base salary of nyc supervisor steamfitter employees (2023)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 446,
+    "clockTime": 446.0,
     "prompt": "dollars per day is the highest base salary of nyc supervisor elevator mechanic employees (2020)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 447,
+    "clockTime": 447.0,
     "prompt": "dollars per day is the highest base salary of nyc motor grader operator employees (2018)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 448,
+    "clockTime": 448.0,
     "prompt": "dollars per hour is the highest base salary of nyc chairman employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 449,
+    "clockTime": 449.0,
     "prompt": "feet of sidewalk at community garden id b440-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 450,
+    "clockTime": 450.0,
     "prompt": "square feet of sidewalk at community garden id x317-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 451,
+    "clockTime": 451.0,
     "prompt": "dollars per day is the highest base salary of nyc supervising communication electrician employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 452,
+    "clockTime": 452.0,
     "prompt": "average number in adult shelters in bronx (11/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 453,
+    "clockTime": 453.0,
     "prompt": "number in family with children commercial hotels in queens (10/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 454,
+    "clockTime": 454.0,
     "prompt": "dollars per day is the highest base salary of nyc supervisor ship carpenter employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 455,
+    "clockTime": 455.0,
     "prompt": "dollars per hour is the highest base salary of nyc commissioner employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 456,
+    "clockTime": 456.0,
     "prompt": "dollars per day is the highest base salary of nyc gasoline roller engineer-l15 employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 457,
+    "clockTime": 457.0,
     "prompt": "dollars per day is the highest base salary of nyc hunter college high school employees (2019)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 458,
+    "clockTime": 458.0,
     "prompt": "dollars per day is the highest base salary of nyc assistant professor employees (2015)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 459,
+    "clockTime": 459.0,
     "prompt": "dollars per day is the highest base salary of nyc blacksmith employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 500,
+    "clockTime": 500.0,
     "prompt": "square feet of sidewalk at community garden id x356-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 501,
+    "clockTime": 501.0,
     "prompt": "dollars per day is the highest base salary of nyc stationary engineer employees (2019)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 502,
+    "clockTime": 502.0,
     "prompt": "number in family with children shelters in queens (11/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 503,
+    "clockTime": 503.0,
     "prompt": "number in family with children shelters in brooklyn (03/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 504,
+    "clockTime": 504.0,
     "prompt": "feet of fence at community garden id b417-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 505,
+    "clockTime": 505.0,
     "prompt": "feet of fence at community garden id q484-gt002",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 506,
+    "clockTime": 506.0,
     "prompt": "total number in adult family shelters in manhattan (12/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 507,
+    "clockTime": 507.0,
     "prompt": "number in family with children shelters in queens (08/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 508,
+    "clockTime": 508.0,
     "prompt": "dollars per day is the highest base salary of nyc stationary engineer employees (2023)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 509,
+    "clockTime": 509.0,
     "prompt": "dollars per day is the highest base salary of nyc nyc housing authority employees (2019)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 510,
+    "clockTime": 510.0,
     "prompt": "feet of fence at community garden id b514-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 511,
+    "clockTime": 511.0,
     "prompt": "dollars per day is the highest base salary of nyc department of education admin employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 512,
+    "clockTime": 512.0,
     "prompt": "number in adult shelter commercial hotels in brooklyn (03/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 513,
+    "clockTime": 513.0,
     "prompt": "number in family with children shelters in brooklyn (12/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 514,
+    "clockTime": 514.0,
     "prompt": "number in family with children shelters in brooklyn (01/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 515,
+    "clockTime": 515.0,
     "prompt": "total number in adult family shelters in manhattan (07/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 516,
+    "clockTime": 516.0,
     "prompt": "number in adult shelter commercial hotels in brooklyn (03/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 517,
+    "clockTime": 517.0,
     "prompt": "feet of fence at community garden id x245-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 518,
+    "clockTime": 518.0,
     "prompt": "feet of fence at community garden id x357-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 519,
+    "clockTime": 519.0,
     "prompt": "number in adult shelters in brooklyn (05/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 520,
+    "clockTime": 520.0,
     "prompt": "square feet of sidewalk at community garden id b502-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 521,
+    "clockTime": 521.0,
     "prompt": "number in adult shelter commercial hotels in brooklyn (08/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 522,
+    "clockTime": 522.0,
     "prompt": "number in family with children shelters in manhattan (01/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 523,
+    "clockTime": 523.0,
     "prompt": "dollars per day is the highest base salary of nyc adjunct assistant professor employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 524,
+    "clockTime": 524.0,
     "prompt": "dollars per day is the highest base salary of nyc supervisor boiler maker employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 525,
+    "clockTime": 525.0,
     "prompt": "number in adult shelters in brooklyn (11/30/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 526,
+    "clockTime": 526.0,
     "prompt": "number in family with children shelters in manhattan (05/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 527,
+    "clockTime": 527.0,
     "prompt": "dollars per day is the highest base salary of nyc professor employees (2015)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 528,
+    "clockTime": 528.0,
     "prompt": "square feet of sidewalk at community garden id b528-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 529,
+    "clockTime": 529.0,
     "prompt": "number in family with children shelters in manhattan (01/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 530,
+    "clockTime": 530.0,
     "prompt": "feet of fence at community garden id m105-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 531,
+    "clockTime": 531.0,
     "prompt": "dollars per day is the highest base salary of nyc supervisor elevator mechanic employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 532,
+    "clockTime": 532.0,
     "prompt": "number in adult shelters in bronx (07/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 533,
+    "clockTime": 533.0,
     "prompt": "number in family with children shelters in manhattan (09/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 534,
+    "clockTime": 534.0,
     "prompt": "dollars per day is the highest base salary of nyc instructor employees (2018)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 535,
+    "clockTime": 535.0,
     "prompt": "total number in adult family commercial hotels in brooklyn (07/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 536,
+    "clockTime": 536.0,
     "prompt": "dollars per day is the highest base salary of nyc lecturer employees (2019)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 537,
+    "clockTime": 537.0,
     "prompt": "number in family with children shelters in manhattan (10/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 538,
+    "clockTime": 538.0,
     "prompt": "number in family with children commercial hotels in bronx (05/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 539,
+    "clockTime": 539.0,
     "prompt": "dollars per day is the highest base salary of nyc community college (hostos) employees (2018)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 540,
+    "clockTime": 540.0,
     "prompt": "number in adult shelter commercial hotels in manhattan (09/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 541,
+    "clockTime": 541.0,
     "prompt": "number in family with children shelters in manhattan (03/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 542,
+    "clockTime": 542.0,
     "prompt": "number in family with children commercial hotels in manhattan (11/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 543,
+    "clockTime": 543.0,
     "prompt": "dollars per day is the highest base salary of nyc crane operator ampes employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 544,
+    "clockTime": 544.0,
     "prompt": "dollars per day is the highest base salary of nyc department of transportation employees (2018)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 545,
+    "clockTime": 545.0,
     "prompt": "number in adult shelters in brooklyn (05/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 546,
+    "clockTime": 546.0,
     "prompt": "number in adult shelters in bronx (04/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 547,
+    "clockTime": 547.0,
     "prompt": "number in family with children shelters in brooklyn (08/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 548,
+    "clockTime": 548.0,
     "prompt": "dollars per day is the highest base salary of nyc department of education admin employees (2023)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 549,
+    "clockTime": 549.0,
     "prompt": "number in family with children commercial hotels in staten island (08/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 550,
+    "clockTime": 550.0,
     "prompt": "square feet of sidewalk at community garden id m408-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 551,
+    "clockTime": 551.0,
     "prompt": "number in family with children shelters in brooklyn (01/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 552,
+    "clockTime": 552.0,
     "prompt": "feet of fence at community garden id x358-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 553,
+    "clockTime": 553.0,
     "prompt": "dollars per day is the highest base salary of nyc community college (laguardia) employees (2020)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 554,
+    "clockTime": 554.0,
     "prompt": "dollars per day is the highest base salary of nyc teacher-general ed employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 555,
+    "clockTime": 555.0,
     "prompt": "dollars per day is the highest base salary of nyc community college (bronx) employees (2017)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 556,
+    "clockTime": 556.0,
     "prompt": "average number in adult shelters in manhattan (08/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 557,
+    "clockTime": 557.0,
     "prompt": "dollars per day is the highest base salary of nyc adjunct professor employees (2020)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 558,
+    "clockTime": 558.0,
     "prompt": "number in family with children shelters in manhattan (04/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 559,
+    "clockTime": 559.0,
     "prompt": "number in adult shelters in manhattan (01/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 600,
+    "clockTime": 600.0,
     "prompt": "square feet of sidewalk at community garden id m325-gt003",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 601,
+    "clockTime": 601.0,
     "prompt": "number in family with children commercial hotels in manhattan (04/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 602,
+    "clockTime": 602.0,
     "prompt": "number in adult shelters in brooklyn (03/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 603,
+    "clockTime": 603.0,
     "prompt": "dollars per day is the highest base salary of nyc department of correction employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 604,
+    "clockTime": 604.0,
     "prompt": "number in adult shelters in brooklyn (08/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 605,
+    "clockTime": 605.0,
     "prompt": "number in adult shelters in bronx (10/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 606,
+    "clockTime": 606.0,
     "prompt": "number in adult shelters in bronx (11/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 607,
+    "clockTime": 607.0,
     "prompt": "number in adult shelters in brooklyn (04/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 608,
+    "clockTime": 608.0,
     "prompt": "square feet of sidewalk at community garden id m313-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 609,
+    "clockTime": 609.0,
     "prompt": "number in family with children shelters in brooklyn (01/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 610,
+    "clockTime": 610.0,
     "prompt": "square feet of sidewalk at community garden id b465-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 611,
+    "clockTime": 611.0,
     "prompt": "dollars per day is the highest base salary of nyc adjunct assistant professor employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 612,
+    "clockTime": 612.0,
     "prompt": "number in adult shelters in manhattan (11/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 613,
+    "clockTime": 613.0,
     "prompt": "dollars per day is the highest base salary of nyc community college (bronx) employees (2020)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 614,
+    "clockTime": 614.0,
     "prompt": "number in adult shelters in bronx (03/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 615,
+    "clockTime": 615.0,
     "prompt": "number in adult shelters in bronx (09/30/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 616,
+    "clockTime": 616.0,
     "prompt": "number in adult shelters in bronx (05/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 617,
+    "clockTime": 617.0,
     "prompt": "number in family with children commercial hotels in brooklyn (12/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 618,
+    "clockTime": 618.0,
     "prompt": "dollars per day is the highest base salary of nyc senior stationary engineer employees (2019)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 619,
+    "clockTime": 619.0,
     "prompt": "dollars per day is the highest base salary of nyc assistant principal employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 620,
+    "clockTime": 620.0,
     "prompt": "feet of fence at community garden id x246-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 621,
+    "clockTime": 621.0,
     "prompt": "number in adult shelters in bronx (06/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 622,
+    "clockTime": 622.0,
     "prompt": "number in adult shelters in bronx (08/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 623,
+    "clockTime": 623.0,
     "prompt": "number in family with children commercial hotels in queens (10/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 624,
+    "clockTime": 624.0,
     "prompt": "square feet of sidewalk at community garden id m337-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 625,
+    "clockTime": 625.0,
     "prompt": "number in adult shelters in brooklyn (09/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 626,
+    "clockTime": 626.0,
     "prompt": "number in adult shelters in manhattan (04/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 627,
+    "clockTime": 627.0,
     "prompt": "number in adult shelters in manhattan (06/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 628,
+    "clockTime": 628.0,
     "prompt": "number in family with children shelters in manhattan (12/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 629,
+    "clockTime": 629.0,
     "prompt": "number in family with children commercial hotels in manhattan (02/29/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 630,
+    "clockTime": 630.0,
     "prompt": "square feet of sidewalk at community garden id m389-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 631,
+    "clockTime": 631.0,
     "prompt": "total number in adult family shelters in bronx (03/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 632,
+    "clockTime": 632.0,
     "prompt": "total number in adult family shelters in queens (10/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 633,
+    "clockTime": 633.0,
     "prompt": "number in adult shelters in brooklyn (04/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 634,
+    "clockTime": 634.0,
     "prompt": "number in family with children commercial hotels in brooklyn (11/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 635,
+    "clockTime": 635.0,
     "prompt": "number in adult shelters in brooklyn (06/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 636,
+    "clockTime": 636.0,
     "prompt": "number in family with children shelters in brooklyn (01/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 637,
+    "clockTime": 637.0,
     "prompt": "total number in adult family commercial hotels in manhattan (07/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 638,
+    "clockTime": 638.0,
     "prompt": "number in family with children shelters in brooklyn (11/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 639,
+    "clockTime": 639.0,
     "prompt": "number in family with children shelters in queens (05/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 640,
+    "clockTime": 640.0,
     "prompt": "square feet of sidewalk at community garden id b442-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 641,
+    "clockTime": 641.0,
     "prompt": "dollars per day is the highest base salary of nyc assistant principal employees (2017)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 642,
+    "clockTime": 642.0,
     "prompt": "dollars per day is the highest base salary of nyc professor employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 643,
+    "clockTime": 643.0,
     "prompt": "dollars per day is the highest base salary of nyc associate professor employees (2019)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 644,
+    "clockTime": 644.0,
     "prompt": "dollars per day is the highest base salary of nyc supervisor employees (2017)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 645,
+    "clockTime": 645.0,
     "prompt": "number in family with children shelters in brooklyn (08/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 646,
+    "clockTime": 646.0,
     "prompt": "number in family with children commercial hotels in brooklyn (10/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 647,
+    "clockTime": 647.0,
     "prompt": "number in family with children shelters in brooklyn (07/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 648,
+    "clockTime": 648.0,
     "prompt": "number in adult shelter commercial hotels in brooklyn (08/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 649,
+    "clockTime": 649.0,
     "prompt": "total number in adult shelters in queens (11/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 650,
+    "clockTime": 650.0,
     "prompt": "square feet of sidewalk at community garden id x293-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 651,
+    "clockTime": 651.0,
     "prompt": "total number in adult family shelters in queens (07/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 652,
+    "clockTime": 652.0,
     "prompt": "number in adult shelters in brooklyn (12/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 653,
+    "clockTime": 653.0,
     "prompt": "number in adult shelters in brooklyn (06/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 654,
+    "clockTime": 654.0,
     "prompt": "number in adult shelters in brooklyn (08/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 655,
+    "clockTime": 655.0,
     "prompt": "number in family with children shelters in brooklyn (05/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 656,
+    "clockTime": 656.0,
     "prompt": "number in adult shelters in brooklyn (05/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 657,
+    "clockTime": 657.0,
     "prompt": "number in adult shelters in manhattan (04/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 658,
+    "clockTime": 658.0,
     "prompt": "number in adult shelters in brooklyn (04/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 659,
+    "clockTime": 659.0,
     "prompt": "number in adult shelters in brooklyn (09/30/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 700,
+    "clockTime": 700.0,
     "prompt": "square feet of sidewalk at community garden id x361-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 701,
+    "clockTime": 701.0,
     "prompt": "total number in adult family shelters in brooklyn (08/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 702,
+    "clockTime": 702.0,
     "prompt": "number in adult shelters in brooklyn (10/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 703,
+    "clockTime": 703.0,
     "prompt": "number in family with children shelters in bronx (09/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 704,
+    "clockTime": 704.0,
     "prompt": "number in adult shelters in brooklyn (10/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 705,
+    "clockTime": 705.0,
     "prompt": "square feet of sidewalk at community garden id m341-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 706,
+    "clockTime": 706.0,
     "prompt": "number in family with children shelters in queens (03/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 707,
+    "clockTime": 707.0,
     "prompt": "million nyc residents in 1980",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 708,
+    "clockTime": 708.0,
     "prompt": "million nyc residents in 1981",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 709,
+    "clockTime": 709.0,
     "prompt": "dollars per day is the highest base salary of nyc adjunct lecturer employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 710,
+    "clockTime": 710.0,
     "prompt": "million nyc residents in 1979",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 711,
+    "clockTime": 711.0,
     "prompt": "square feet of sidewalk at community garden id b448-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 712,
+    "clockTime": 712.0,
     "prompt": "feet of fence at community garden id b527-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 713,
+    "clockTime": 713.0,
     "prompt": "number in adult shelters in manhattan (04/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 714,
+    "clockTime": 714.0,
     "prompt": "square feet of sidewalk at community garden id b445-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 715,
-    "prompt": "Sint proident sit commodo proident id duis consectetur adipisicing minim dolor irure.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 716,
+    "clockTime": 716.0,
     "prompt": "number in adult shelter commercial hotels in queens (01/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 717,
+    "clockTime": 717.0,
     "prompt": "number in family with children shelters in bronx (07/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 718,
+    "clockTime": 718.0,
     "prompt": "million nyc residents in 1983",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 719,
+    "clockTime": 719.0,
     "prompt": "number in adult shelters in bronx (01/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 720,
+    "clockTime": 720.0,
     "prompt": "number in adult shelters in manhattan (03/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 721,
+    "clockTime": 721.0,
     "prompt": "number in family with children shelters in manhattan (05/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 722,
+    "clockTime": 722.0,
     "prompt": "number in family with children commercial hotels in manhattan (10/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 723,
+    "clockTime": 723.0,
     "prompt": "million nyc residents in 1984",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 724,
+    "clockTime": 724.0,
     "prompt": "number in family with children shelters in manhattan (01/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 725,
+    "clockTime": 725.0,
     "prompt": "feet of fence at community garden id x233a-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 726,
+    "clockTime": 726.0,
     "prompt": "number in adult shelter commercial hotels in brooklyn (01/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 727,
+    "clockTime": 727.0,
     "prompt": "million nyc residents in 1985",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 728,
+    "clockTime": 728.0,
     "prompt": "number in family with children commercial hotels in manhattan (10/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 729,
+    "clockTime": 729.0,
     "prompt": "total number in adult family shelters in brooklyn (11/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 730,
+    "clockTime": 730.0,
     "prompt": "number in adult shelters in brooklyn (10/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 731,
+    "clockTime": 731.0,
     "prompt": "million nyc residents in 1986",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 732,
+    "clockTime": 732.0,
     "prompt": "number in adult shelters in bronx (06/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 733,
+    "clockTime": 733.0,
     "prompt": "million nyc residents in 1990",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 734,
+    "clockTime": 734.0,
     "prompt": "million nyc residents in 1987",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 735,
+    "clockTime": 735.0,
     "prompt": "million nyc residents in 1988",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 736,
+    "clockTime": 736.0,
     "prompt": "number in adult shelters in manhattan (09/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 737,
+    "clockTime": 737.0,
     "prompt": "million nyc residents in 1991",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 738,
+    "clockTime": 738.0,
     "prompt": "dollars per day is the highest base salary of nyc lecturer employees (2023)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 739,
+    "clockTime": 739.0,
     "prompt": "total number in adult family shelters in brooklyn (05/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 740,
+    "clockTime": 740.0,
     "prompt": "number in family with children shelters in manhattan (10/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 741,
+    "clockTime": 741.0,
     "prompt": "number in family with children shelters in queens (06/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 742,
+    "clockTime": 742.0,
     "prompt": "million nyc residents in 1992",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 743,
+    "clockTime": 743.0,
     "prompt": "dollars per day is the highest base salary of nyc assistant principal employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 744,
+    "clockTime": 744.0,
     "prompt": "total number in adult family shelters in brooklyn (06/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 745,
+    "clockTime": 745.0,
     "prompt": "number in family with children shelters in manhattan (06/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 746,
+    "clockTime": 746.0,
     "prompt": "dollars per day is the highest base salary of nyc community college (kingsboro) employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 747,
+    "clockTime": 747.0,
     "prompt": "total number in adult family shelters in queens (03/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 748,
+    "clockTime": 748.0,
     "prompt": "dollars per day is the highest base salary of nyc community college (manhattan) employees (2019)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 749,
+    "clockTime": 749.0,
     "prompt": "dollars per day is the highest base salary of nyc community college (manhattan) employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 750,
+    "clockTime": 750.0,
     "prompt": "million nyc residents in 1993",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 751,
+    "clockTime": 751.0,
     "prompt": "number in family with children shelters in manhattan (11/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 752,
+    "clockTime": 752.0,
     "prompt": "number in family with children shelters in bronx (10/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 753,
+    "clockTime": 753.0,
     "prompt": "total number in adult family shelters in brooklyn (04/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 754,
+    "clockTime": 754.0,
     "prompt": "number in family with children shelters in manhattan (04/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 755,
+    "clockTime": 755.0,
     "prompt": "number in adult shelters in manhattan (01/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 756,
+    "clockTime": 756.0,
     "prompt": "square feet of sidewalk at community garden id b530-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 757,
+    "clockTime": 757.0,
     "prompt": "million nyc residents in 1994",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 758,
+    "clockTime": 758.0,
     "prompt": "number in adult shelter commercial hotels in queens (05/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 759,
-    "prompt": "Exercitation eu eiusmod irure consectetur amet irure Lorem tempor anim incididunt nisi.",
-    "department": "City Council (NYCC)",
-    "datasource": "Participator Budgeting Projects"
-  },
-  {
-    "clockTime": 800,
+    "clockTime": 800.0,
     "prompt": "million nyc residents in 2000",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 801,
+    "clockTime": 801.0,
     "prompt": "square feet of sidewalk at community garden id b494-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 802,
+    "clockTime": 802.0,
     "prompt": "million nyc residents in 2001",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 803,
+    "clockTime": 803.0,
     "prompt": "number in family with children shelters in brooklyn (08/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 804,
+    "clockTime": 804.0,
     "prompt": "million nyc residents in 2002",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 805,
+    "clockTime": 805.0,
     "prompt": "million nyc residents in 2003",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 806,
+    "clockTime": 806.0,
     "prompt": "number in family with children shelters in queens (02/28/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 807,
+    "clockTime": 807.0,
     "prompt": "million nyc residents in 2004",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 808,
+    "clockTime": 808.0,
     "prompt": "total number in adult family shelters in bronx (12/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 809,
+    "clockTime": 809.0,
     "prompt": "million nyc residents in 2005",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 810,
+    "clockTime": 810.0,
     "prompt": "million nyc residents in 2006",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 811,
+    "clockTime": 811.0,
     "prompt": "number in family with children commercial hotels in queens (09/30/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 812,
+    "clockTime": 812.0,
     "prompt": "million nyc residents in 2007",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 813,
+    "clockTime": 813.0,
     "prompt": "number in family with children shelters in brooklyn (12/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 814,
+    "clockTime": 814.0,
     "prompt": "million nyc residents in 2008",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 815,
+    "clockTime": 815.0,
     "prompt": "million nyc residents in 2009",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 816,
+    "clockTime": 816.0,
     "prompt": "total number in adult shelters in queens (07/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 817,
+    "clockTime": 817.0,
     "prompt": "million nyc residents in 2010",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 818,
+    "clockTime": 818.0,
     "prompt": "total number in adult shelters in queens (11/30/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 819,
+    "clockTime": 819.0,
     "prompt": "dollars per day is the highest base salary of nyc adjunct assistant professor employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 820,
+    "clockTime": 820.0,
     "prompt": "square feet of sidewalk at community garden id x328-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 821,
+    "clockTime": 821.0,
     "prompt": "number in family with children shelters in brooklyn (11/30/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 822,
+    "clockTime": 822.0,
     "prompt": "number in family with children shelters in queens (05/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 823,
+    "clockTime": 823.0,
     "prompt": "number in family with children shelters in brooklyn (07/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 824,
+    "clockTime": 824.0,
     "prompt": "square feet of sidewalk at community garden id m291-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 825,
+    "clockTime": 825.0,
     "prompt": "number in adult shelter commercial hotels in queens (07/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 826,
+    "clockTime": 826.0,
     "prompt": "number in family with children shelters in queens (12/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 827,
+    "clockTime": 827.0,
     "prompt": "dollars per day is the highest base salary of nyc adjunct professor employees (2018)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 828,
+    "clockTime": 828.0,
     "prompt": "dollars per day is the highest base salary of nyc dept of ed per diem teachers employees (2018)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 829,
+    "clockTime": 829.0,
     "prompt": "number in family with children shelters in queens (01/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 830,
+    "clockTime": 830.0,
     "prompt": "number in family with children shelters in queens (01/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 831,
+    "clockTime": 831.0,
     "prompt": "number in family with children shelters in brooklyn (06/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 832,
+    "clockTime": 832.0,
     "prompt": "number in family with children shelters in queens (03/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 833,
+    "clockTime": 833.0,
     "prompt": "million nyc residents in 2011",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 834,
+    "clockTime": 834.0,
     "prompt": "number in family with children shelters in manhattan (05/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 835,
+    "clockTime": 835.0,
     "prompt": "number in family with children shelters in queens (01/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 836,
+    "clockTime": 836.0,
     "prompt": "number in family with children shelters in brooklyn (08/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 837,
+    "clockTime": 837.0,
     "prompt": "number in adult shelter commercial hotels in queens (06/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 838,
+    "clockTime": 838.0,
     "prompt": "number in family with children shelters in brooklyn (05/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 839,
+    "clockTime": 839.0,
     "prompt": "number in family with children shelters in queens (03/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 840,
+    "clockTime": 840.0,
     "prompt": "square feet of sidewalk at community garden id x347-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 841,
+    "clockTime": 841.0,
     "prompt": "number in family with children shelters in manhattan (01/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 842,
+    "clockTime": 842.0,
     "prompt": "number in family with children shelters in queens (12/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 843,
+    "clockTime": 843.0,
     "prompt": "dollars per day is the highest base salary of nyc community college (bronx) employees (2023)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 844,
+    "clockTime": 844.0,
     "prompt": "number in family with children shelters in brooklyn (08/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 845,
+    "clockTime": 845.0,
     "prompt": "number in family with children shelters in queens (08/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 846,
+    "clockTime": 846.0,
     "prompt": "million nyc residents in 2012",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 847,
+    "clockTime": 847.0,
     "prompt": "total number in adult family shelters in brooklyn (09/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 848,
+    "clockTime": 848.0,
     "prompt": "number in family with children shelters in queens (01/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 849,
+    "clockTime": 849.0,
     "prompt": "number in adult shelters in brooklyn (07/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 850,
+    "clockTime": 850.0,
     "prompt": "number in family with children shelters in queens (01/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 851,
+    "clockTime": 851.0,
     "prompt": "number in family with children shelters in manhattan (07/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 852,
+    "clockTime": 852.0,
     "prompt": "dollars per day is the highest base salary of nyc community college (manhattan) employees (2018)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 853,
+    "clockTime": 853.0,
     "prompt": "number in family with children shelters in brooklyn (06/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 854,
+    "clockTime": 854.0,
     "prompt": "number in family with children shelters in bronx (12/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 855,
+    "clockTime": 855.0,
     "prompt": "number in family with children shelters in queens (03/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 856,
+    "clockTime": 856.0,
     "prompt": "million nyc residents in 2013",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 857,
+    "clockTime": 857.0,
     "prompt": "number in family with children shelters in queens (04/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 858,
+    "clockTime": 858.0,
     "prompt": "dollars per day is the highest base salary of nyc adjunct lecturer employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 859,
+    "clockTime": 859.0,
     "prompt": "number in family with children shelters in queens (05/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 900,
+    "clockTime": 900.0,
     "prompt": "square feet of sidewalk at community garden id m298-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 901,
+    "clockTime": 901.0,
     "prompt": "number in family with children shelters in bronx (01/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 902,
+    "clockTime": 902.0,
     "prompt": "total number in adult family shelters in queens (06/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 903,
+    "clockTime": 903.0,
     "prompt": "dollars per day is the highest base salary of nyc associate professor employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 904,
+    "clockTime": 904.0,
     "prompt": "dollars per day is the highest base salary of nyc adjunct lecturer employees (2020)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 905,
+    "clockTime": 905.0,
     "prompt": "total number in adult family shelters in queens (06/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 906,
+    "clockTime": 906.0,
     "prompt": "number in adult shelters in manhattan (04/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 907,
-    "prompt": "Tempor irure deserunt ea enim irure consequat labore proident cupidatat velit in ea fugiat.",
-    "department": "Office of Payroll Administration (OPA)",
-    "datasource": "Citywide Payroll Data (Fiscal Year)"
-  },
-  {
-    "clockTime": 908,
+    "clockTime": 908.0,
     "prompt": "number in adult shelters in manhattan (11/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 909,
+    "clockTime": 909.0,
     "prompt": "number in adult shelter commercial hotels in queens (12/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 910,
+    "clockTime": 910.0,
     "prompt": "square feet of sidewalk at community garden id m297a-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 911,
+    "clockTime": 911.0,
     "prompt": "total number in adult family shelters in manhattan (03/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 9.12,
-    "prompt": "Occaecat sunt proident dolore nostrud voluptate aute dolor labore veniam excepteur ut anim.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 913,
+    "clockTime": 913.0,
     "prompt": "number in adult shelters in manhattan (09/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 9.14,
-    "prompt": "Ad in laborum aute esse do amet sit pariatur culpa.",
-    "department": "City Council (NYCC)",
-    "datasource": "Participator Budgeting Projects"
-  },
-  {
-    "clockTime": 915,
+    "clockTime": 915.0,
     "prompt": "number in family with children shelters in bronx (02/28/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 916,
+    "clockTime": 916.0,
     "prompt": "number in adult shelters in manhattan (10/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 917,
+    "clockTime": 917.0,
     "prompt": "dollars per day is the highest base salary of nyc lecturer employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 918,
-    "prompt": "Excepteur ipsum quis qui minim amet cupidatat excepteur minim elit officia ad esse.",
-    "department": "City Council (NYCC)",
-    "datasource": "Participator Budgeting Projects"
-  },
-  {
-    "clockTime": 9.19,
-    "prompt": "Est enim mollit laborum enim pariatur incididunt reprehenderit ut laboris dolore.",
-    "department": "Office of Payroll Administration (OPA)",
-    "datasource": "Citywide Payroll Data (Fiscal Year)"
-  },
-  {
-    "clockTime": 920,
+    "clockTime": 920.0,
     "prompt": "dollars per day is the highest base salary of nyc principal employees (2019)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 921,
-    "prompt": "Occaecat incididunt non nostrud enim aute voluptate voluptate velit id duis et.",
-    "department": "Police Department (NYPD)",
-    "datasource": "NYPD Personnel Demographics"
-  },
-  {
-    "clockTime": 922,
+    "clockTime": 922.0,
     "prompt": "number in adult shelters in brooklyn (02/29/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 923,
+    "clockTime": 923.0,
     "prompt": "square feet of sidewalk at community garden id b508-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 924,
+    "clockTime": 924.0,
     "prompt": "number in adult shelters in brooklyn (09/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 925,
+    "clockTime": 925.0,
     "prompt": "number in adult shelters in brooklyn (01/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 926,
-    "prompt": "Aute laboris enim non quis voluptate magna culpa non reprehenderit ex in anim.",
-    "department": "Police Department (NYPD)",
-    "datasource": "NYPD Personnel Demographics"
-  },
-  {
-    "clockTime": 927,
+    "clockTime": 927.0,
     "prompt": "number in adult shelter commercial hotels in queens (08/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 928,
+    "clockTime": 928.0,
     "prompt": "number in family with children shelters in queens (08/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 929,
+    "clockTime": 929.0,
     "prompt": "number in family with children shelters in brooklyn (10/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 930,
+    "clockTime": 930.0,
     "prompt": "number in adult shelters in manhattan (06/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 931,
-    "prompt": "Deserunt sint ullamco laborum adipisicing duis dolor ad adipisicing mollit est esse fugiat excepteur.",
-    "department": "Department of Correction (BOC)",
-    "datasource": "Hart Island Burial Records"
-  },
-  {
-    "clockTime": 932,
-    "prompt": "Pariatur ipsum cupidatat excepteur labore id et dolor tempor voluptate officia.",
-    "department": "City Council (NYCC)",
-    "datasource": "Participator Budgeting Projects"
-  },
-  {
-    "clockTime": 933,
+    "clockTime": 933.0,
     "prompt": "number in adult shelters in manhattan (12/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 934,
+    "clockTime": 934.0,
     "prompt": "number in adult shelters in brooklyn (09/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 935,
-    "prompt": "Cupidatat aliqua esse exercitation eiusmod excepteur cillum dolore sint sint eu ad pariatur.",
-    "department": "City Council (NYCC)",
-    "datasource": "Participator Budgeting Projects"
-  },
-  {
-    "clockTime": 9.36,
-    "prompt": "Aliquip commodo eiusmod nostrud ea nostrud dolor laborum eiusmod id culpa.",
-    "department": "City Council (NYCC)",
-    "datasource": "Participator Budgeting Projects"
-  },
-  {
-    "clockTime": 937,
+    "clockTime": 937.0,
     "prompt": "number in adult shelters in brooklyn (12/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 938,
-    "prompt": "Consectetur ea cillum non velit consectetur culpa dolor non reprehenderit veniam.",
-    "department": "Department of Correction (BOC)",
-    "datasource": "Hart Island Burial Records"
-  },
-  {
-    "clockTime": 939,
+    "clockTime": 939.0,
     "prompt": "dollars per day is the highest base salary of nyc professor employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 940,
-    "prompt": "Enim aliquip nostrud amet amet ad irure officia labore ea.",
-    "department": "Police Department (NYPD)",
-    "datasource": "NYPD Personnel Demographics"
-  },
-  {
-    "clockTime": 9.41,
-    "prompt": "Nisi laboris nulla Lorem occaecat adipisicing ipsum deserunt non nisi commodo sunt ad dolor amet incididunt.",
-    "department": "Police Department (NYPD)",
-    "datasource": "NYPD Personnel Demographics"
-  },
-  {
-    "clockTime": 942,
+    "clockTime": 942.0,
     "prompt": "total number in adult family shelters in queens (07/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 943,
-    "prompt": "Ullamco eiusmod nisi esse fugiat ad enim exercitation veniam elit nisi cillum irure.",
-    "department": "Department of Correction (BOC)",
-    "datasource": "Hart Island Burial Records"
-  },
-  {
-    "clockTime": 944,
+    "clockTime": 944.0,
     "prompt": "number in adult shelters in manhattan (03/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 945,
+    "clockTime": 945.0,
     "prompt": "number in family with children shelters in bronx (04/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 946,
+    "clockTime": 946.0,
     "prompt": "number in adult shelters in brooklyn (10/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 9.47,
-    "prompt": "Exercitation occaecat ex aliquip aliqua enim anim excepteur magna tempor culpa est amet labore.",
-    "department": "Department of Correction (BOC)",
-    "datasource": "Hart Island Burial Records"
-  },
-  {
-    "clockTime": 948,
-    "prompt": "Anim qui eu cillum dolor dolore irure deserunt cupidatat sunt ut ullamco.",
-    "department": "Office of Payroll Administration (OPA)",
-    "datasource": "Citywide Payroll Data (Fiscal Year)"
-  },
-  {
-    "clockTime": 949,
-    "prompt": "Excepteur occaecat sint exercitation laboris proident cillum velit nostrud ipsum excepteur eiusmod.",
-    "department": "Department of Correction (BOC)",
-    "datasource": "Hart Island Burial Records"
-  },
-  {
-    "clockTime": 950,
+    "clockTime": 950.0,
     "prompt": "number in family with children shelters in brooklyn (12/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 951,
+    "clockTime": 951.0,
     "prompt": "number in adult shelters in manhattan (01/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 952,
+    "clockTime": 952.0,
     "prompt": "number in adult shelters in manhattan (04/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 953,
+    "clockTime": 953.0,
     "prompt": "number in family with children shelters in bronx (09/30/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 954,
+    "clockTime": 954.0,
     "prompt": "square feet of sidewalk at community garden id b532-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 955,
+    "clockTime": 955.0,
     "prompt": "number in adult shelters in manhattan (02/29/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 956,
+    "clockTime": 956.0,
     "prompt": "number in adult shelters in manhattan (04/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 957,
+    "clockTime": 957.0,
     "prompt": "square feet of sidewalk at community garden id b398-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 958,
+    "clockTime": 958.0,
     "prompt": "dollars per day is the highest base salary of nyc professor employees (2023)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 959,
+    "clockTime": 959.0,
     "prompt": "dollars per day is the highest base salary of nyc professor employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
-    "clockTime": 1000,
+    "clockTime": 1000.0,
     "prompt": "square feet of sidewalk at community garden id q121a-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 1001,
+    "clockTime": 1001.0,
     "prompt": "number in family with children commercial hotels in bronx (05/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1002,
+    "clockTime": 1002.0,
     "prompt": "millions of gallons of water consumed by nyc residents every day (2016)",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 1003,
+    "clockTime": 1003.0,
     "prompt": "number in family with children shelters in queens (06/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1004,
+    "clockTime": 1004.0,
     "prompt": "number in adult shelters in brooklyn (02/28/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1005,
+    "clockTime": 1005.0,
     "prompt": "total number in adult shelters in queens (11/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1006,
+    "clockTime": 1006.0,
     "prompt": "millions of gallons of water consumed by nyc residents every day (2013)",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 1007,
+    "clockTime": 1007.0,
     "prompt": "millions of gallons of water consumed by nyc residents every day (2009)",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 1008,
+    "clockTime": 1008.0,
     "prompt": "millions of gallons of water consumed by nyc residents every day (2018)",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 1009,
+    "clockTime": 1009.0,
     "prompt": "millions of gallons of water consumed by nyc residents every day (2012)",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 10.1,
-    "prompt": "Id est anim consectetur ad ut pariatur excepteur quis exercitation labore sunt.",
-    "department": "Office of Payroll Administration (OPA)",
-    "datasource": "Citywide Payroll Data (Fiscal Year)"
-  },
-  {
-    "clockTime": 1011,
+    "clockTime": 1011.0,
     "prompt": "number in adult shelters in brooklyn (12/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1012,
+    "clockTime": 1012.0,
     "prompt": "number in family with children commercial hotels in bronx (07/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1013,
+    "clockTime": 1013.0,
     "prompt": "number in adult shelter commercial hotels in queens (08/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1014,
-    "prompt": "Aute labore adipisicing reprehenderit quis mollit qui ea et id consectetur ex et ex.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 1015,
+    "clockTime": 1015.0,
     "prompt": "total number in adult family shelters in manhattan (11/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1016,
+    "clockTime": 1016.0,
     "prompt": "number in adult shelter commercial hotels in queens (07/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1017,
-    "prompt": "Sint mollit aliqua voluptate mollit elit labore irure cillum sit labore commodo.",
-    "department": "City Council (NYCC)",
-    "datasource": "Participator Budgeting Projects"
-  },
-  {
-    "clockTime": 1018,
+    "clockTime": 1018.0,
     "prompt": "feet of fence at community garden id b471-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 1019,
+    "clockTime": 1019.0,
     "prompt": "number in family with children shelters in bronx (06/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1020,
-    "prompt": "Anim aute exercitation tempor cillum deserunt laborum ullamco in duis laborum.",
-    "department": "Office of Payroll Administration (OPA)",
-    "datasource": "Citywide Payroll Data (Fiscal Year)"
-  },
-  {
-    "clockTime": 1021,
+    "clockTime": 1021.0,
     "prompt": "millions of gallons of water consumed by nyc residents every day (2011)",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 1022,
+    "clockTime": 1022.0,
     "prompt": "number in family with children shelters in queens (01/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 10.23,
-    "prompt": "Excepteur laboris labore esse qui irure reprehenderit do eu dolore consequat ea ea laboris aute.",
-    "department": "Police Department (NYPD)",
-    "datasource": "NYPD Personnel Demographics"
-  },
-  {
-    "clockTime": 10.24,
-    "prompt": "Lorem laborum sint cillum anim sunt nisi nulla labore in dolor fugiat ullamco magna dolore dolor.",
-    "department": "Police Department (NYPD)",
-    "datasource": "NYPD Personnel Demographics"
-  },
-  {
-    "clockTime": 1025,
+    "clockTime": 1025.0,
     "prompt": "feet of sidewalk at community garden id q300-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 10.26,
-    "prompt": "Enim Lorem officia sit magna cillum qui tempor exercitation sit incididunt laborum qui cupidatat ea.",
-    "department": "Office of Payroll Administration (OPA)",
-    "datasource": "Citywide Payroll Data (Fiscal Year)"
-  },
-  {
-    "clockTime": 1027,
+    "clockTime": 1027.0,
     "prompt": "number in family with children shelters in brooklyn (04/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1028,
-    "prompt": "Ipsum ipsum mollit non ullamco irure commodo ut aliqua culpa minim aliqua reprehenderit Lorem cillum.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 1029,
+    "clockTime": 1029.0,
     "prompt": "number in adult shelters in brooklyn (03/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1030,
+    "clockTime": 1030.0,
     "prompt": "square feet of sidewalk at community garden id b511-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 1031,
+    "clockTime": 1031.0,
     "prompt": "total number in adult family shelters in bronx (07/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1032,
+    "clockTime": 1032.0,
     "prompt": "number in adult shelters in manhattan (01/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1033,
+    "clockTime": 1033.0,
     "prompt": "total number in adult family shelters in bronx (10/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1034,
+    "clockTime": 1034.0,
     "prompt": "number in adult shelter commercial hotels in queens (01/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1035,
+    "clockTime": 1035.0,
     "prompt": "number in family with children shelters in queens (12/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 10.36,
-    "prompt": "Ipsum ullamco labore qui voluptate velit ullamco pariatur ipsum aute voluptate veniam anim Lorem.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 1037,
+    "clockTime": 1037.0,
     "prompt": "number in adult shelters in brooklyn (04/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1038,
+    "clockTime": 1038.0,
     "prompt": "number in family with children shelters in bronx (04/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1039,
+    "clockTime": 1039.0,
     "prompt": "millions of gallons of water consumed by nyc residents every day (2010)",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 1040,
+    "clockTime": 1040.0,
     "prompt": "number in family with children shelters in queens (04/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1041,
+    "clockTime": 1041.0,
     "prompt": "number in family with children shelters in bronx (12/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 10.42,
-    "prompt": "Proident cupidatat consectetur Lorem Lorem ea id amet non esse anim velit ipsum elit exercitation dolor.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 1043,
+    "clockTime": 1043.0,
     "prompt": "number in adult shelters in brooklyn (01/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 10.44,
-    "prompt": "Sit duis ea officia aute qui aliquip incididunt ullamco est ex culpa id.",
-    "department": "City Council (NYCC)",
-    "datasource": "Participator Budgeting Projects"
-  },
-  {
-    "clockTime": 1045,
+    "clockTime": 1045.0,
     "prompt": "number in family with children shelters in bronx (07/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1046,
+    "clockTime": 1046.0,
     "prompt": "number in family with children shelters in queens (08/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1047,
+    "clockTime": 1047.0,
     "prompt": "number in adult shelters in manhattan (09/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 10.48,
-    "prompt": "Cillum sint eiusmod occaecat voluptate non tempor pariatur culpa sit veniam.",
-    "department": "Police Department (NYPD)",
-    "datasource": "NYPD Personnel Demographics"
-  },
-  {
-    "clockTime": 1049,
+    "clockTime": 1049.0,
     "prompt": "number in adult shelter commercial hotels in queens (11/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1050,
+    "clockTime": 1050.0,
     "prompt": "square feet of sidewalk at community garden id b452-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 10.51,
-    "prompt": "Ex enim laboris consectetur quis non consectetur irure aute anim non id mollit Lorem enim.",
-    "department": "Office of Payroll Administration (OPA)",
-    "datasource": "Citywide Payroll Data (Fiscal Year)"
-  },
-  {
-    "clockTime": 1052,
+    "clockTime": 1052.0,
     "prompt": "number in family with children shelters in bronx (05/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1053,
+    "clockTime": 1053.0,
     "prompt": "number in family with children shelters in bronx (07/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1054,
+    "clockTime": 1054.0,
     "prompt": "square feet of sidewalk at community garden id m387-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 10.55,
-    "prompt": "Sint consequat est excepteur magna nisi anim commodo quis exercitation.",
-    "department": "Department of Correction (BOC)",
-    "datasource": "Hart Island Burial Records"
-  },
-  {
-    "clockTime": 1056,
+    "clockTime": 1056.0,
     "prompt": "number in family with children shelters in bronx (07/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1057,
+    "clockTime": 1057.0,
     "prompt": "total number in adult family shelters in bronx (06/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1058,
+    "clockTime": 1058.0,
     "prompt": "number in family with children commercial hotels in queens (01/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1059,
+    "clockTime": 1059.0,
     "prompt": "square feet of sidewalk at community garden id b495-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 1100,
+    "clockTime": 1100.0,
     "prompt": "number in family with children shelters in bronx (07/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1101,
+    "clockTime": 1101.0,
     "prompt": "number in family with children shelters in bronx (02/28/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1102,
+    "clockTime": 1102.0,
     "prompt": "number in family with children shelters in bronx (01/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1103,
+    "clockTime": 1103.0,
     "prompt": "number in family with children shelters in bronx (10/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1104,
+    "clockTime": 1104.0,
     "prompt": "total number in adult family shelters in bronx (12/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1105,
+    "clockTime": 1105.0,
     "prompt": "number in family with children shelters in bronx (09/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1106,
+    "clockTime": 1106.0,
     "prompt": "number in family with children shelters in manhattan (09/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 11.07,
-    "prompt": "Magna proident cillum deserunt ea officia enim officia ipsum officia occaecat cillum.",
-    "department": "Department of Correction (BOC)",
-    "datasource": "Hart Island Burial Records"
-  },
-  {
-    "clockTime": 1108,
+    "clockTime": 1108.0,
     "prompt": "number in family with children commercial hotels in manhattan (04/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1109,
-    "prompt": "Lorem do cillum id amet esse dolor dolor esse qui minim cillum adipisicing anim.",
-    "department": "Office of Payroll Administration (OPA)",
-    "datasource": "Citywide Payroll Data (Fiscal Year)"
-  },
-  {
-    "clockTime": 1110,
+    "clockTime": 1110.0,
     "prompt": "number in family with children shelters in bronx (04/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1111,
+    "clockTime": 1111.0,
     "prompt": "square feet of sidewalk at community garden id b516-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 1112,
+    "clockTime": 1112.0,
     "prompt": "number in family with children commercial hotels in manhattan (02/28/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1113,
+    "clockTime": 1113.0,
     "prompt": "number in family with children shelters in manhattan (10/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1114,
+    "clockTime": 1114.0,
     "prompt": "millions of gallons of water consumed by nyc residents every day (2007)",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 1115,
+    "clockTime": 1115.0,
     "prompt": "total number in adult family shelters in bronx (01/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1116,
+    "clockTime": 1116.0,
     "prompt": "number in family with children shelters in bronx (03/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1117,
+    "clockTime": 1117.0,
     "prompt": "number in family with children shelters in brooklyn (09/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1118,
+    "clockTime": 1118.0,
     "prompt": "square feet of sidewalk at community garden id b563-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 1119,
+    "clockTime": 1119.0,
     "prompt": "number in family with children shelters in brooklyn (05/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1120,
+    "clockTime": 1120.0,
     "prompt": "number in family with children commercial hotels in manhattan (12/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1121,
+    "clockTime": 1121.0,
     "prompt": "total number in adult family shelters in bronx (08/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1122,
+    "clockTime": 1122.0,
     "prompt": "square feet of sidewalk at community garden id b421-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 1123,
-    "prompt": "Ad do tempor nisi exercitation cupidatat aute cupidatat amet fugiat.",
-    "department": "Police Department (NYPD)",
-    "datasource": "NYPD Personnel Demographics"
-  },
-  {
-    "clockTime": 1124,
+    "clockTime": 1124.0,
     "prompt": "total number in adult family shelters in bronx (05/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 11.25,
-    "prompt": "Esse consectetur voluptate anim ipsum do aliquip proident velit sit cillum irure et.",
-    "department": "Police Department (NYPD)",
-    "datasource": "NYPD Personnel Demographics"
-  },
-  {
-    "clockTime": 1126,
-    "prompt": "Est ad anim enim laboris cupidatat nulla nostrud ipsum officia tempor exercitation.",
-    "department": "Department of Correction (BOC)",
-    "datasource": "Hart Island Burial Records"
-  },
-  {
-    "clockTime": 1127,
+    "clockTime": 1127.0,
     "prompt": "number in family with children commercial hotels in manhattan (06/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 11.28,
-    "prompt": "Deserunt ad sunt elit non dolor ipsum dolor eiusmod do ad est aliqua laboris mollit.",
-    "department": "City Council (NYCC)",
-    "datasource": "Participator Budgeting Projects"
-  },
-  {
-    "clockTime": 1129,
+    "clockTime": 1129.0,
     "prompt": "number in family with children shelters in brooklyn (12/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 11.3,
-    "prompt": "Eu fugiat aliqua eu aliqua culpa nostrud officia quis ea laborum dolore consectetur irure.",
-    "department": "Department of Correction (BOC)",
-    "datasource": "Hart Island Burial Records"
-  },
-  {
-    "clockTime": 1131,
+    "clockTime": 1131.0,
     "prompt": "number in adult shelter commercial hotels in queens (04/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1132,
+    "clockTime": 1132.0,
     "prompt": "number in family with children shelters in bronx (01/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1133,
+    "clockTime": 1133.0,
     "prompt": "number in family with children shelters in bronx (12/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1134,
+    "clockTime": 1134.0,
     "prompt": "number in family with children shelters in bronx (02/28/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1135,
+    "clockTime": 1135.0,
     "prompt": "millions of gallons of water consumed by nyc residents every day (2002)",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 1136,
+    "clockTime": 1136.0,
     "prompt": "number in family with children shelters in bronx (02/28/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1137,
+    "clockTime": 1137.0,
     "prompt": "number in family with children shelters in bronx (12/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1138,
+    "clockTime": 1138.0,
     "prompt": "millions of gallons of water consumed by nyc residents every day (2005)",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 1139,
+    "clockTime": 1139.0,
     "prompt": "total number in adult family shelters in manhattan (12/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 11.4,
-    "prompt": "Lorem minim est qui occaecat do consequat consectetur amet enim dolore culpa elit.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 1141,
+    "clockTime": 1141.0,
     "prompt": "number in family with children shelters in bronx (12/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1142,
-    "prompt": "Mollit qui est consectetur magna cillum ut deserunt ut in commodo voluptate amet.",
-    "department": "Police Department (NYPD)",
-    "datasource": "NYPD Personnel Demographics"
-  },
-  {
-    "clockTime": 1143,
+    "clockTime": 1143.0,
     "prompt": "total number in adult family shelters in queens (11/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1144,
+    "clockTime": 1144.0,
     "prompt": "number in family with children shelters in queens (10/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1145,
+    "clockTime": 1145.0,
     "prompt": "number in family with children shelters in brooklyn (02/28/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1146,
-    "prompt": "Elit sint duis quis aliqua deserunt enim duis consectetur cupidatat in laboris fugiat anim.",
-    "department": "Office of Payroll Administration (OPA)",
-    "datasource": "Citywide Payroll Data (Fiscal Year)"
-  },
-  {
-    "clockTime": 1147,
+    "clockTime": 1147.0,
     "prompt": "total number in adult family shelters in bronx (01/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1148,
+    "clockTime": 1148.0,
     "prompt": "number in family with children shelters in bronx (09/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1149,
+    "clockTime": 1149.0,
     "prompt": "total number in adult shelters in queens (09/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1150,
+    "clockTime": 1150.0,
     "prompt": "total number in adult family shelters in manhattan (08/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1151,
-    "prompt": "Sunt pariatur proident aute nisi eiusmod tempor ut eiusmod eiusmod ea adipisicing.",
-    "department": "City Council (NYCC)",
-    "datasource": "Participator Budgeting Projects"
-  },
-  {
-    "clockTime": 1152,
+    "clockTime": 1152.0,
     "prompt": "number in family with children shelters in bronx (10/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1153,
+    "clockTime": 1153.0,
     "prompt": "total number in adult family shelters in manhattan (01/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1154,
+    "clockTime": 1154.0,
     "prompt": "number in family with children shelters in bronx (11/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1155,
+    "clockTime": 1155.0,
     "prompt": "square feet of sidewalk at community garden id b486-gt002",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 11.56,
-    "prompt": "Sint magna incididunt esse esse minim nisi proident est anim Lorem commodo pariatur.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 1157,
+    "clockTime": 1157.0,
     "prompt": "number in family with children shelters in bronx (05/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1158,
+    "clockTime": 1158.0,
     "prompt": "number in family with children shelters in bronx (02/29/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1159,
-    "prompt": "Laboris excepteur laboris in aute non aliqua occaecat officia ea consequat est adipisicing esse cupidatat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 1200,
+    "clockTime": 1200.0,
     "prompt": "square feet of sidewalk at community garden id m350-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 1201,
+    "clockTime": 1201.0,
     "prompt": "number in adult shelters in manhattan (08/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1202,
+    "clockTime": 1202.0,
     "prompt": "number in family with children shelters in bronx (10/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1203,
-    "prompt": "Duis cupidatat Lorem duis dolore mollit consectetur duis eiusmod quis.",
-    "department": "Office of Payroll Administration (OPA)",
-    "datasource": "Citywide Payroll Data (Fiscal Year)"
-  },
-  {
-    "clockTime": 1204,
+    "clockTime": 1204.0,
     "prompt": "number in family with children shelters in bronx (11/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1205,
+    "clockTime": 1205.0,
     "prompt": "millions of gallons of water consumed by nyc residents every day (1997)",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 1206,
+    "clockTime": 1206.0,
     "prompt": "number in family with children shelters in bronx (07/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1207,
-    "prompt": "Fugiat nisi velit amet sint nulla deserunt proident ex nisi excepteur officia.",
-    "department": "Police Department (NYPD)",
-    "datasource": "NYPD Personnel Demographics"
-  },
-  {
-    "clockTime": 1208,
+    "clockTime": 1208.0,
     "prompt": "number in adult shelters in manhattan (04/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1209,
-    "prompt": "Mollit nostrud nulla aute deserunt eiusmod labore reprehenderit labore minim.",
-    "department": "City Council (NYCC)",
-    "datasource": "Participator Budgeting Projects"
-  },
-  {
-    "clockTime": 1210,
+    "clockTime": 1210.0,
     "prompt": "number in family with children shelters in bronx (07/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1211,
+    "clockTime": 1211.0,
     "prompt": "number in family with children shelters in bronx (10/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1212,
-    "prompt": "Voluptate cillum est amet qui ullamco sint cillum nostrud minim labore.",
-    "department": "Department of Correction (BOC)",
-    "datasource": "Hart Island Burial Records"
-  },
-  {
-    "clockTime": 1213,
+    "clockTime": 1213.0,
     "prompt": "total number in adult family shelters in manhattan (06/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 12.14,
-    "prompt": "Ad id commodo nisi nostrud cupidatat exercitation in est occaecat non nulla veniam aliqua.",
-    "department": "Office of Payroll Administration (OPA)",
-    "datasource": "Citywide Payroll Data (Fiscal Year)"
-  },
-  {
-    "clockTime": 1215,
+    "clockTime": 1215.0,
     "prompt": "number in adult shelter commercial hotels in queens (05/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1216,
+    "clockTime": 1216.0,
     "prompt": "square feet of sidewalk at community garden id m323-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 1217,
+    "clockTime": 1217.0,
     "prompt": "number in family with children shelters in bronx (04/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1218,
-    "prompt": "Consequat enim esse pariatur sunt irure deserunt sint reprehenderit aliquip ullamco aliqua.",
-    "department": "Police Department (NYPD)",
-    "datasource": "NYPD Personnel Demographics"
-  },
-  {
-    "clockTime": 1219,
+    "clockTime": 1219.0,
     "prompt": "millions of gallons of water consumed by nyc residents every day (1998)",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 1220,
+    "clockTime": 1220.0,
     "prompt": "number in family with children shelters in bronx (03/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 12.21,
-    "prompt": "Dolore reprehenderit nostrud fugiat nostrud incididunt aliqua culpa do aute ea sint consectetur in officia sunt.",
-    "department": "Police Department (NYPD)",
-    "datasource": "NYPD Personnel Demographics"
-  },
-  {
-    "clockTime": 1222,
-    "prompt": "Incididunt culpa mollit cillum dolore nostrud consequat exercitation consequat culpa dolor ullamco.",
-    "department": "Office of Payroll Administration (OPA)",
-    "datasource": "Citywide Payroll Data (Fiscal Year)"
-  },
-  {
-    "clockTime": 1223,
+    "clockTime": 1223.0,
     "prompt": "number in family with children commercial hotels in manhattan (07/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1224,
+    "clockTime": 1224.0,
     "prompt": "square feet of sidewalk at community garden id b424-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 1225,
-    "prompt": "Mollit commodo sit tempor et est proident labore ut pariatur cupidatat.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 1226,
+    "clockTime": 1226.0,
     "prompt": "number in family with children shelters in queens (04/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1227,
+    "clockTime": 1227.0,
     "prompt": "number in family with children shelters in bronx (07/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1228,
+    "clockTime": 1228.0,
     "prompt": "number in family with children shelters in bronx (09/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1229,
+    "clockTime": 1229.0,
     "prompt": "number in family with children shelters in bronx (04/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1230,
+    "clockTime": 1230.0,
     "prompt": "square feet of sidewalk at community garden id b414-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 1231,
+    "clockTime": 1231.0,
     "prompt": "number in family with children shelters in bronx (06/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1232,
+    "clockTime": 1232.0,
     "prompt": "total number in adult family shelters in manhattan (08/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1233,
+    "clockTime": 1233.0,
     "prompt": "number in family with children shelters in bronx (04/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1234,
+    "clockTime": 1234.0,
     "prompt": "number in family with children shelters in bronx (12/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1235,
+    "clockTime": 1235.0,
     "prompt": "number in family with children shelters in bronx (06/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1236,
+    "clockTime": 1236.0,
     "prompt": "square feet of sidewalk at community garden id m354-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 1237,
+    "clockTime": 1237.0,
     "prompt": "millions of gallons of water consumed by nyc residents every day (1999)",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 1238,
+    "clockTime": 1238.0,
     "prompt": "number in family with children shelters in bronx (08/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 12.39,
-    "prompt": "Irure qui eiusmod nisi velit dolore aliqua aliqua adipisicing elit anim eiusmod ex dolore sunt adipisicing.",
-    "department": "Office of Payroll Administration (OPA)",
-    "datasource": "Citywide Payroll Data (Fiscal Year)"
-  },
-  {
-    "clockTime": 1240,
+    "clockTime": 1240.0,
     "prompt": "millions of gallons of water consumed by nyc residents every day (2000)",
     "datasource": "Water Consumption in the City of New York",
     "department": "Department of Environmental Protection (DEP)"
   },
   {
-    "clockTime": 12.41,
-    "prompt": "Minim ipsum sint deserunt est nostrud pariatur voluptate sunt elit duis aute incididunt.",
-    "department": "Department of Health and Mental Hygiene (DOHMH)",
-    "datasource": "NYC Leading Causes of Death"
-  },
-  {
-    "clockTime": 1242,
+    "clockTime": 1242.0,
     "prompt": "number in family with children shelters in bronx (04/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1243,
+    "clockTime": 1243.0,
     "prompt": "number in family with children shelters in bronx (09/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1244,
+    "clockTime": 1244.0,
     "prompt": "total number in adult shelters in queens (04/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1245,
+    "clockTime": 1245.0,
     "prompt": "number in family with children shelters in bronx (08/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1246,
+    "clockTime": 1246.0,
     "prompt": "number in family with children shelters in bronx (12/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1247,
+    "clockTime": 1247.0,
     "prompt": "number in family with children shelters in bronx (07/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1248,
-    "prompt": "Voluptate aliqua ipsum sunt quis eu mollit sunt nulla in ullamco aute ipsum.",
-    "department": "Department of Correction (BOC)",
-    "datasource": "Hart Island Burial Records"
-  },
-  {
-    "clockTime": 1249,
-    "prompt": "Laboris sit elit velit ex aute commodo nostrud ea cupidatat.",
-    "department": "Office of Payroll Administration (OPA)",
-    "datasource": "Citywide Payroll Data (Fiscal Year)"
-  },
-  {
-    "clockTime": 1250,
+    "clockTime": 1250.0,
     "prompt": "square feet of sidewalk at community garden id b166-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 1251,
+    "clockTime": 1251.0,
     "prompt": "number in family with children shelters in bronx (05/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 12.52,
-    "prompt": "Id mollit laboris labore consectetur consectetur consequat adipisicing reprehenderit Lorem aliqua ad exercitation.",
-    "department": "Police Department (NYPD)",
-    "datasource": "NYPD Personnel Demographics"
-  },
-  {
-    "clockTime": 1253,
+    "clockTime": 1253.0,
     "prompt": "number in family with children shelters in bronx (11/30/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1254,
+    "clockTime": 1254.0,
     "prompt": "number in family with children shelters in bronx (11/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
-    "clockTime": 1255,
-    "prompt": "Consequat proident ex dolore aute ex dolore aliqua culpa cupidatat est amet.",
-    "department": "Police Department (NYPD)",
-    "datasource": "NYPD Personnel Demographics"
-  },
-  {
-    "clockTime": 1256,
+    "clockTime": 1256.0,
     "prompt": "median # of days on force at incident for discourtesy cases (2023).",
     "datasource": "Allegations Against Police Officers",
     "department": "Civilian Complaint Review Board (CCRB)"
   },
   {
-    "clockTime": 1257,
+    "clockTime": 1257.0,
     "prompt": "square feet of sidewalk at community garden id b507-gt002",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
-    "clockTime": 1258,
+    "clockTime": 1258.0,
     "prompt": "number in family with children shelters in bronx (02/29/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
-  },
-  {
-    "clockTime": 12.59,
-    "prompt": "Amet cillum anim ea et laboris nisi ea deserunt enim aute eu pariatur Lorem.",
-    "department": "Department of Correction (BOC)",
-    "datasource": "Hart Island Burial Records"
   }
 ]

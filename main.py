@@ -4,6 +4,7 @@ import numpy as np
 import re
 import os
 import uuid
+import math
 from typing import TypedDict, Optional, Dict, List
 
 from sqlalchemy import create_engine
@@ -28,15 +29,243 @@ class DatasetToCrawl(TypedDict):
 
 datasets_to_crawl: list[DatasetToCrawl] = [
     {
-        'input_file': '~/Downloads/Water_Consumption_in_the_City_of_New_York_20231101.csv',
-        'filename': 'Water_Consumption_in_the_City_of_New_York_20231101.csv',
+        'input_file': '~/Downloads/Individual_Census_by_Borough__Community_District__and_Facility_Type_20231206.csv',
+        'filename': 'Individual_Census_by_Borough__Community_District__and_Facility_Type_20231206.csv',
+        'measure_columns': ['Adult Family Commercial Hotel'],
+        'category_columns': ['borough', 'report_date'],
+        'only_aggregates': False,
+        'prompt_templates': [
+            {
+                'measure': 'Adult Family Commercial Hotel',
+                'prompt_template': 'number in Adult Family Commercial Hotels in {borough} ({report_date})'
+            }
+        ]
+    },
+    {
+        'input_file': '~/Downloads/Individual_Census_by_Borough__Community_District__and_Facility_Type_20231206.csv',
+        'filename': 'Individual_Census_by_Borough__Community_District__and_Facility_Type_20231206.csv',
+        'measure_columns': ['Adult Family Shelter'],
+        'category_columns': ['borough', 'report_date'],
+        'only_aggregates': False,
+        'prompt_templates': [
+            {
+                'measure': 'Adult Family Shelter',
+                'prompt_template': 'number in Adult Family Shelters in {borough} ({report_date})'
+            }
+        ]
+    },
+    {
+        'input_file': '~/Downloads/Individual_Census_by_Borough__Community_District__and_Facility_Type_20231206.csv',
+        'filename': 'Individual_Census_by_Borough__Community_District__and_Facility_Type_20231206.csv',
+        'measure_columns': ['Adult Shelter'],
+        'category_columns': ['borough', 'report_date'],
+        'only_aggregates': False,
+        'prompt_templates': [
+            {
+                'measure': 'Adult Shelter',
+                'prompt_template': 'number in Adult Shelters in {borough} ({report_date})'
+            }
+        ]
+    },
+    {
+        'input_file': '~/Downloads/Individual_Census_by_Borough__Community_District__and_Facility_Type_20231206.csv',
+        'filename': 'Individual_Census_by_Borough__Community_District__and_Facility_Type_20231206.csv',
+        'measure_columns': ['Adult Shelter Commercial Hotel'],
+        'category_columns': ['borough', 'report_date'],
+        'only_aggregates': False,
+        'prompt_templates': [
+            {
+                'measure': 'Adult Shelter Commercial Hotel',
+                'prompt_template': 'number in Adult Shelter Commercial Hotels in {borough} ({report_date})'
+            }
+        ]
+    },
+    {
+        'input_file': '~/Downloads/Individual_Census_by_Borough__Community_District__and_Facility_Type_20231206.csv',
+        'filename': 'Individual_Census_by_Borough__Community_District__and_Facility_Type_20231206.csv',
+        'measure_columns': ['Family With Children Commercial Hotel'],
+        'category_columns': ['borough', 'report_date'],
+        'only_aggregates': False,
+        'prompt_templates': [
+            {
+                'measure': 'Family With Children Commercial Hotel',
+                'prompt_template': 'number in Family With Children Commercial Hotels in {borough} ({report_date})'
+            }
+        ]
+    },
+    {
+        'input_file': '~/Downloads/Individual_Census_by_Borough__Community_District__and_Facility_Type_20231206.csv',
+        'filename': 'Individual_Census_by_Borough__Community_District__and_Facility_Type_20231206.csv',
+        'measure_columns': ['Family With Children Shelter'],
+        'category_columns': ['borough', 'report_date'],
+        'only_aggregates': False,
+        'prompt_templates': [
+            {
+                'measure': 'Family With Children Shelter',
+                'prompt_template': 'number in Family With Children Shelters in {borough} ({report_date})'
+            }
+        ]
+    },
+    {
+        'input_file': '~/Downloads/Individual_Census_by_Borough__Community_District__and_Facility_Type_20231206.csv',
+        'filename': 'Individual_Census_by_Borough__Community_District__and_Facility_Type_20231206.csv',
+        'measure_columns': ['Adult Family Commercial Hotel'],
+        'year_column': 'report_date',
+        'category_columns': ['borough'],
+        'only_aggregates': True,
+        'prompt_templates': [
+            {
+                'measure': 'Adult Family Commercial Hotel',
+                'category_columns': ['report_date', 'borough'],
+                'aggregate_function': 'sum',
+                'prompt_template': 'total number in Adult Family Commercial Hotels in {borough} ({report_date})'
+            },
+            {
+                'measure': 'Adult Family Commercial Hotel',
+                'category_columns': ['report_date', 'borough'],
+                'aggregate_function': 'mean',
+                'prompt_template': 'average number in Adult Family Commercial Hotels in {borough} ({report_date})'
+            },
+            {
+                'measure': 'Adult Family Commercial Hotel',
+                'category_columns': ['report_date', 'borough'],
+                'aggregate_function': 'median',
+                'prompt_template': 'median number in Adult Family Commercial Hotels in {borough} ({report_date})'
+            },
+        ]
+    },
+    {
+        'input_file': '~/Downloads/Individual_Census_by_Borough__Community_District__and_Facility_Type_20231206.csv',
+        'filename': 'Individual_Census_by_Borough__Community_District__and_Facility_Type_20231206.csv',
+        'measure_columns': ['Adult Family Shelter'],
+        'year_column': 'report_date',
+        'category_columns': ['borough'],
+        'only_aggregates': True,
+        'prompt_templates': [
+            {
+                'measure': 'Adult Family Shelter',
+                'category_columns': ['report_date', 'borough'],
+                'aggregate_function': 'sum',
+                'prompt_template': 'total number in Adult Family Shelters in {borough} ({report_date})'
+            },
+            {
+                'measure': 'Adult Family Shelter',
+                'category_columns': ['report_date', 'borough'],
+                'aggregate_function': 'mean',
+                'prompt_template': 'average number in Adult Family Shelters in {borough} ({report_date})'
+            },
+            {
+                'measure': 'Adult Family Shelter',
+                'category_columns': ['report_date', 'borough'],
+                'aggregate_function': 'median',
+                'prompt_template': 'median number in Adult Family Shelters in {borough} ({report_date})'
+            },
+        ]
+    },
+    {
+        'input_file': '~/Downloads/Individual_Census_by_Borough__Community_District__and_Facility_Type_20231206.csv',
+        'filename': 'Individual_Census_by_Borough__Community_District__and_Facility_Type_20231206.csv',
+        'year_column': 'report_date',
+        'measure_columns': ['Adult Shelter'],
+        'category_columns': ['borough'],
+        'only_aggregates': True,
+        'prompt_templates': [
+            {
+                'measure': 'Adult Shelter',
+                'category_columns': ['report_date', 'borough'],
+                'aggregate_function': 'sum',
+                'prompt_template': 'total number in Adult Shelters in {borough} ({report_date})'
+            },
+            {
+                'measure': 'Adult Shelter',
+                'category_columns': ['report_date', 'borough'],
+                'aggregate_function': 'mean',
+                'prompt_template': 'average number in Adult Shelters in {borough} ({report_date})'
+            },
+            {
+                'measure': 'Adult Shelter',
+                'category_columns': ['report_date', 'borough'],
+                'aggregate_function': 'median',
+                'prompt_template': 'median number in Adult Shelters in {borough} ({report_date})'
+            },
+        ]
+    },
+    {
+        'input_file': '~/Downloads/Civilian_Complaint_Review_Board__Allegations_Against_Police_Officers_20231206.csv',
+        'filename': 'Civilian_Complaint_Review_Board__Allegations_Against_Police_Officers_20231206.csv',
+        'measure_columns': ['officer_days_on_force_at_incident'],
+        'category_columns': ['fado_type'],
+        'only_aggregates': True,
+        'prompt_templates': [
+            {
+                'measure': 'officer_days_on_force_at_incident',
+                'category_columns': ['fado_type'],
+                'aggregate_function': 'min',
+                'prompt_template': 'lowest # of days on force at incident for {fado_type} cases (2023).'
+            },
+             {
+                'measure': 'officer_days_on_force_at_incident',
+                'category_columns': ['fado_type'],
+                'aggregate_function': 'mean',
+                'prompt_template': 'average # of days on force at incident for {fado_type} cases (2023).'
+            },
+            {
+                'measure': 'officer_days_on_force_at_incident',
+                'category_columns': ['fado_type'],
+                'aggregate_function': 'median',
+                'prompt_template': 'median # of days on force at incident for {fado_type} cases (2023).'
+            },
+        ]
+    },
+    {
+        'input_file': '~/Downloads/GreenThumb_Site_Visits_20231206.csv',
+        'filename': 'GreenThumb_Site_Visits_20231206.csv',
+        'measure_columns': ['totalsidewalklength'],
+        'category_columns': ['parksid'],
+        'only_aggregates': False,
+        'prompt_templates': [
+            {
+                'measure': 'totalsidewalklength',
+                'prompt_template': 'feet of sidewalk at community garden id {parksid}'
+            }
+        ]
+    },
+    {
+        'input_file': '~/Downloads/GreenThumb_Site_Visits_20231206.csv',
+        'filename': 'GreenThumb_Site_Visits_20231206.csv',
+        'measure_columns': ['totalsidewalkarea'],
+        'category_columns': ['parksid'],
+        'only_aggregates': False,
+        'prompt_templates': [
+            {
+                'measure': 'totalsidewalkarea',
+                'prompt_template': 'square feet of sidewalk at community garden id {parksid}'
+            }
+        ]
+    }, 
+    {
+        'input_file': '~/Downloads/GreenThumb_Site_Visits_20231206.csv',
+        'filename': 'GreenThumb_Site_Visits_20231206.csv',
+        'measure_columns': ['totalfencelength'],
+        'category_columns': ['parksid'],
+        'only_aggregates': False,
+        'prompt_templates': [
+            {
+                'measure': 'totalfencelength',
+                'prompt_template': 'feet of fence at community garden id {parksid}'
+            }
+        ]
+    },
+    {
+        'input_file': '~/Downloads/Water_Consumption_in_the_City_of_New_York_20231206.csv',
+        'filename': 'Water_Consumption_in_the_City_of_New_York_20231206.csv',
         'measure_columns': ['new york city population', 'nyc_consumption(million_gallons_per_day)'],
         'category_columns': ['year'],
         'only_aggregates': False,
         'prompt_templates': [
             {
                 'measure': 'new york city population',
-                'prompt_template': '{units} total residents of NYC ({year})'
+                'prompt_template': '{units} NYC residents in {year}'
             },
             {
                 'measure': 'nyc_consumption(million_gallons_per_day)',
@@ -45,8 +274,8 @@ datasets_to_crawl: list[DatasetToCrawl] = [
         ]
     },
     {
-        'input_file': '~/Downloads/Citywide_Payroll_Data__Fiscal_Year__20231101.csv',
-        'filename': 'Citywide_Payroll_Data__Fiscal_Year__20231101.csv',
+        'input_file': '~/Downloads/Citywide_Payroll_Data__Fiscal_Year__20231114.csv',
+        'filename': 'Citywide_Payroll_Data__Fiscal_Year__20231114.csv',
         'measure_columns': ['base_salary'],
         'category_columns': ['agency_name', 'work_location_borough', 'title_description', 'pay_basis'],
         'year_column': 'fiscal_year',
@@ -56,25 +285,25 @@ datasets_to_crawl: list[DatasetToCrawl] = [
                 'measure': 'base_salary',
                 'category_columns': ['fiscal_year', 'agency_name', 'pay_basis'],
                 'aggregate_function': 'max',
-                'prompt_template': '{units} {pay_basis} is the highest base salary of NYC {agency_name} employees ({fiscal_year})'
+                'prompt_template': '{units} dollars {pay_basis} is the highest base salary of NYC {agency_name} employees ({fiscal_year})'
             },
             {
                 'measure': 'base_salary',
                 'category_columns': ['fiscal_year', 'agency_name', 'work_location_borough', 'pay_basis'],
                 'aggregate_function': 'max',
-                'prompt_template': '{units} {pay_basis} is the highest base salary of NYC {agency_name} employees in {work_location_borough} ({fiscal_year})'
+                'prompt_template': '{units} dollars {pay_basis} is the highest base salary of NYC {agency_name} employees in {work_location_borough} ({fiscal_year})'
             },
             {
                 'measure': 'base_salary',
                 'category_columns': ['fiscal_year', 'work_location_borough', 'title_description', 'pay_basis'],
                 'aggregate_function': 'max',
-                'prompt_template': '{units} {pay_basis} is the highest base salary of NYC {title_description} employees in {work_location_borough} ({fiscal_year})'
+                'prompt_template': '{units} dollars {pay_basis} is the highest base salary of NYC {title_description} employees in {work_location_borough} ({fiscal_year})'
             },
             {
                 'measure': 'base_salary',
                 'category_columns': ['fiscal_year', 'title_description', 'pay_basis'],
                 'aggregate_function': 'max',
-                'prompt_template': '{units} {pay_basis} is the highest base salary of NYC {title_description} employees ({fiscal_year})'
+                'prompt_template': '{units} dollars {pay_basis} is the highest base salary of NYC {title_description} employees ({fiscal_year})'
             },
         ]
     }
@@ -91,49 +320,6 @@ def numbers_of_interest():
     return numbers
 
 clock_numbers = numbers_of_interest()
-
-def sanitize_column_name(col_name):
-     return re.sub(r'[^a-zA-Z0-9]', '_', col_name).lower()
-
-def extract_clock_rows(table_df, measure, input_file, category_columns, prompt_templates):
-    extracted_clock_time_options = []
-    # try and find the prompt template
-    prompt_template = None
-    for template_config in prompt_templates:
-        if template_config['measure'] != measure:
-            continue
-        prompt_template= template_config['prompt_template']
-
-    if not prompt_template:
-        print(category_columns, measure, prompt_templates)
-        print('no template')
-        return extracted_clock_time_options
-
-    for index, row in table_df.iterrows():
-        measure_value = row[measure]
-        valid_clock_time = is_valid_clock_time(measure_value)
-        prompt = prompt_template
-        for category_column in category_columns:
-            prompt = prompt.replace(f'{{{category_column}}}', str(row[category_column]))
-
-        units = valid_clock_time['units']
-        if valid_clock_time == 'raw':
-            units = ''
-        prompt = prompt.replace('{units}', str(units))
-
-        if valid_clock_time['is_valid']:
-            extracted_clock_time_options.append({
-                'id': str(uuid.uuid4()),
-                'clock_time': valid_clock_time['clock_time'],
-                'raw_measure_column_value': measure_value,
-                'measure_column_value_for_clock': valid_clock_time['clock_value'],
-                'measure_columns': [measure],
-                'category_columns': [category_columns],
-                'dataset': input_file,
-                'prompt': prompt,
-            })
-
-    return extracted_clock_time_options
 
 class ValidClockTime(TypedDict):
     units: str
@@ -189,7 +375,7 @@ def units_and_clock_value(number):
             'clock_value': number / one_million,
         }
 
-    if number < 1260 and number > 100:
+    if number < 1260 and number >= 100:
         return {
             'unit': 'raw',
             'clock_value': int(number),
@@ -212,6 +398,61 @@ def is_valid_clock_time(number) -> ValidClockTime:
         'is_valid': str(clock_time) in clock_numbers,
     }
 
+def sanitize_column_name(col_name):
+     return re.sub(r'[^a-zA-Z0-9]', '_', col_name).lower()
+
+def replace_category_columns(prompt, category_column, category_column_value):
+    try:
+        value = int(float(category_column_value))
+    except ValueError:
+        value = category_column_value
+    prompt = prompt.replace(f'{{{category_column}}}', str(value))
+    return prompt
+
+
+def extract_clock_rows(table_df, measure, input_file, category_columns, prompt_templates):
+    extracted_clock_time_options = []
+    # try and find the prompt template
+    prompt_template = None
+    for template_config in prompt_templates:
+        if template_config['measure'] != measure:
+            continue
+        prompt_template= template_config['prompt_template']
+
+    if not prompt_template:
+        print(category_columns, measure, prompt_templates)
+        print('no template')
+        return extracted_clock_time_options
+
+    for index, row in table_df.iterrows():
+        measure_value = row[measure]
+        if(math.isnan(measure_value)):
+            continue
+        valid_clock_time = is_valid_clock_time(measure_value)
+        prompt = prompt_template
+
+        for category_column in category_columns:
+            prompt = replace_category_columns(prompt, category_column, row[category_column])
+
+        units = valid_clock_time['units']
+        if valid_clock_time == 'raw':
+            units = ''
+        prompt = prompt.replace('{units}', str(units))
+
+        if valid_clock_time['is_valid']:
+            extracted_clock_time_options.append({
+                'id': str(uuid.uuid4()),
+                'clock_time': valid_clock_time['clock_time'],
+                'raw_measure_column_value': measure_value,
+                'measure_column_value_for_clock': valid_clock_time['clock_value'],
+                'measure_columns': [measure],
+                'category_columns': [category_columns],
+                'dataset': input_file,
+                'prompt': prompt.strip().lower(),
+            })
+
+    return extracted_clock_time_options
+
 def extract_clock_rows_from_aggregate(agg_table_df, measure, category_columns, aggregate_function_names, input_file, prompt_templates):
     extracted_clock_time_options = []
 
@@ -226,6 +467,8 @@ def extract_clock_rows_from_aggregate(agg_table_df, measure, category_columns, a
         category_columns_values = row.Index if isinstance(row.Index, tuple) else [row.Index]
         for aggregate_func in aggregate_function_names:
             raw_measure_value = getattr(row, aggregate_func)
+            if(math.isnan(raw_measure_value)):
+                continue
             valid_clock_time = is_valid_clock_time(raw_measure_value)
             prompt_template = None
             for template_config in prompt_templates:
@@ -238,12 +481,13 @@ def extract_clock_rows_from_aggregate(agg_table_df, measure, category_columns, a
 
             prompt = prompt_template
             for i, category_column in enumerate(category_columns):
-                prompt = prompt.replace(f'{{{category_column}}}', str(category_columns_values[i]))
+                prompt = replace_category_columns(prompt, category_column, category_columns_values[i])
 
             units = valid_clock_time['units']
             if units == 'raw':
                 units = ''
             prompt = prompt.replace('{units}', units)
+
             if valid_clock_time['is_valid']:
                 extracted_clock_time_options.append({
                     'id': str(uuid.uuid4()),
@@ -255,7 +499,7 @@ def extract_clock_rows_from_aggregate(agg_table_df, measure, category_columns, a
                     'category_columns_values': category_columns_values,
                     'aggregate_function': aggregate_func,
                     'dataset': input_file,
-                    'prompt': prompt
+                    'prompt': prompt.strip().lower()
                 })
 
     return extracted_clock_time_options
@@ -310,9 +554,16 @@ def crawl_dataset(input_file, category_columns, measure_columns, only_aggregates
         # Array[Array[string]] for all pairs of categories
         power_set_categories = []
         for i in range(len(category_columns)):
-            power_set_categories.append([year_column, category_columns[i]])
+            if year_column:
+                power_set_categories.append([year_column, category_columns[i]])
+            else:
+                power_set_categories.append([category_columns[i]])
+
             for j in range(i+1, len(category_columns)):
-                power_set_categories.append([year_column, category_columns[i], category_columns[j]])
+                if year_column:
+                    power_set_categories.append([year_column, category_columns[i], category_columns[j]])
+                else:
+                    power_set_categories.append([category_columns[i], category_columns[j]])
 
         aggregate_rows_to_insert = []
         for categories in power_set_categories:
