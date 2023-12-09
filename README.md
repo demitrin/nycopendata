@@ -78,12 +78,6 @@ Dump the data
 $ python3 dump_data.py
 ```
 
-Dump the data
-
-```bash
-$ python3 dump_data.py
-```
-
 Merge real data with fake data
 
 ```bash
