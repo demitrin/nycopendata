@@ -6,7 +6,7 @@
 }
 
 .footer {
-  position: fixed; 
+  position: fixed;
   bottom: 0;
   left: 0;
   right: 0;
@@ -24,13 +24,13 @@
 
   .nycOpenData {
     height: 50px;
-  }  
+  }
 }
 
-@media screen and (max-width: 630px) {
+@media screen and (max-width: 700px) {
   .footer {
-      position: relative;
-      margin-top: 100px;
-      flex-direction: column-reverse;
+    position: relative;
+    margin-top: 100px;
+    flex-direction: column-reverse;
   }
 }

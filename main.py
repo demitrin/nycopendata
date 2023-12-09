@@ -37,7 +37,7 @@ datasets_to_crawl: list[DatasetToCrawl] = [
         'prompt_templates': [
             {
                 'measure': 'Adult Family Commercial Hotel',
-                'prompt_template': 'number in Adult Family Commercial Hotels in {borough} ({report_date})'
+                'prompt_template': 'number of persons in Adult Family Commercial Hotels in {borough} ({report_date})'
             }
         ]
     },
@@ -50,7 +50,7 @@ datasets_to_crawl: list[DatasetToCrawl] = [
         'prompt_templates': [
             {
                 'measure': 'Adult Family Shelter',
-                'prompt_template': 'number in Adult Family Shelters in {borough} ({report_date})'
+                'prompt_template': 'number of persons in Adult Family Shelters in {borough} ({report_date})'
             }
         ]
     },
@@ -63,7 +63,7 @@ datasets_to_crawl: list[DatasetToCrawl] = [
         'prompt_templates': [
             {
                 'measure': 'Adult Shelter',
-                'prompt_template': 'number in Adult Shelters in {borough} ({report_date})'
+                'prompt_template': 'number of persons in Adult Shelters in {borough} ({report_date})'
             }
         ]
     },
@@ -76,7 +76,7 @@ datasets_to_crawl: list[DatasetToCrawl] = [
         'prompt_templates': [
             {
                 'measure': 'Adult Shelter Commercial Hotel',
-                'prompt_template': 'number in Adult Shelter Commercial Hotels in {borough} ({report_date})'
+                'prompt_template': 'number of persons in Adult Shelter Commercial Hotels in {borough} ({report_date})'
             }
         ]
     },
@@ -89,7 +89,7 @@ datasets_to_crawl: list[DatasetToCrawl] = [
         'prompt_templates': [
             {
                 'measure': 'Family With Children Commercial Hotel',
-                'prompt_template': 'number in Family With Children Commercial Hotels in {borough} ({report_date})'
+                'prompt_template': 'number of persons in Family With Children Commercial Hotels in {borough} ({report_date})'
             }
         ]
     },
@@ -102,7 +102,7 @@ datasets_to_crawl: list[DatasetToCrawl] = [
         'prompt_templates': [
             {
                 'measure': 'Family With Children Shelter',
-                'prompt_template': 'number in Family With Children Shelters in {borough} ({report_date})'
+                'prompt_template': 'number of persons in Family With Children Shelters in {borough} ({report_date})'
             }
         ]
     },
@@ -118,19 +118,19 @@ datasets_to_crawl: list[DatasetToCrawl] = [
                 'measure': 'Adult Family Commercial Hotel',
                 'category_columns': ['report_date', 'borough'],
                 'aggregate_function': 'sum',
-                'prompt_template': 'total number in Adult Family Commercial Hotels in {borough} ({report_date})'
+                'prompt_template': 'total number of persons in Adult Family Commercial Hotels in {borough} ({report_date})'
             },
             {
                 'measure': 'Adult Family Commercial Hotel',
                 'category_columns': ['report_date', 'borough'],
                 'aggregate_function': 'mean',
-                'prompt_template': 'average number in Adult Family Commercial Hotels in {borough} ({report_date})'
+                'prompt_template': 'average number of persons in Adult Family Commercial Hotels in {borough} ({report_date})'
             },
             {
                 'measure': 'Adult Family Commercial Hotel',
                 'category_columns': ['report_date', 'borough'],
                 'aggregate_function': 'median',
-                'prompt_template': 'median number in Adult Family Commercial Hotels in {borough} ({report_date})'
+                'prompt_template': 'median number of persons in Adult Family Commercial Hotels in {borough} ({report_date})'
             },
         ]
     },
@@ -146,19 +146,19 @@ datasets_to_crawl: list[DatasetToCrawl] = [
                 'measure': 'Adult Family Shelter',
                 'category_columns': ['report_date', 'borough'],
                 'aggregate_function': 'sum',
-                'prompt_template': 'total number in Adult Family Shelters in {borough} ({report_date})'
+                'prompt_template': 'total number of persons in Adult Family Shelters in {borough} ({report_date})'
             },
             {
                 'measure': 'Adult Family Shelter',
                 'category_columns': ['report_date', 'borough'],
                 'aggregate_function': 'mean',
-                'prompt_template': 'average number in Adult Family Shelters in {borough} ({report_date})'
+                'prompt_template': 'average number of persons in Adult Family Shelters in {borough} ({report_date})'
             },
             {
                 'measure': 'Adult Family Shelter',
                 'category_columns': ['report_date', 'borough'],
                 'aggregate_function': 'median',
-                'prompt_template': 'median number in Adult Family Shelters in {borough} ({report_date})'
+                'prompt_template': 'median number of persons in Adult Family Shelters in {borough} ({report_date})'
             },
         ]
     },
@@ -174,19 +174,19 @@ datasets_to_crawl: list[DatasetToCrawl] = [
                 'measure': 'Adult Shelter',
                 'category_columns': ['report_date', 'borough'],
                 'aggregate_function': 'sum',
-                'prompt_template': 'total number in Adult Shelters in {borough} ({report_date})'
+                'prompt_template': 'total number of persons in Adult Shelters in {borough} ({report_date})'
             },
             {
                 'measure': 'Adult Shelter',
                 'category_columns': ['report_date', 'borough'],
                 'aggregate_function': 'mean',
-                'prompt_template': 'average number in Adult Shelters in {borough} ({report_date})'
+                'prompt_template': 'average number of persons in Adult Shelters in {borough} ({report_date})'
             },
             {
                 'measure': 'Adult Shelter',
                 'category_columns': ['report_date', 'borough'],
                 'aggregate_function': 'median',
-                'prompt_template': 'median number in Adult Shelters in {borough} ({report_date})'
+                'prompt_template': 'median number of persons in Adult Shelters in {borough} ({report_date})'
             },
         ]
     },
