@@ -1,7 +1,7 @@
 [
   {
     "clockTime": 100.0,
-    "prompt": "feet of sidewalk at community garden id q490-gt001",
+    "prompt": "feet of fence at community garden id b582-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
@@ -31,19 +31,19 @@
   },
   {
     "clockTime": 105.0,
-    "prompt": "feet of fence at community garden id x347-gt001",
+    "prompt": "feet of sidewalk at community garden id x332-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 106.0,
-    "prompt": "dollars per hour is the highest base salary of nyc administrative engineer employees (2017)",
+    "prompt": "dollars per hour is the highest base salary of nyc special assistant employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 107.0,
-    "prompt": "dollars per hour is the highest base salary of nyc adjunct associate professor employees (2017)",
+    "prompt": "dollars per hour is the highest base salary of nyc adjunct professor employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -61,13 +61,13 @@
   },
   {
     "clockTime": 110.0,
-    "prompt": "square feet of sidewalk at community garden id b557-gt001",
+    "prompt": "feet of sidewalk at community garden id m306-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 111.0,
-    "prompt": "dollars per hour is the highest base salary of nyc adjunct associate professor employees (2020)",
+    "prompt": "dollars per hour is the highest base salary of nyc district attorney qns county employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -103,13 +103,13 @@
   },
   {
     "clockTime": 117.0,
-    "prompt": "median number in adult shelters in queens (01/31/2021)",
+    "prompt": "number of persons in adult shelter commercial hotels in bronx (07/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 118.0,
-    "prompt": "dollars per hour is the highest base salary of nyc community college (laguardia) employees (2023)",
+    "prompt": "dollars per hour is the highest base salary of nyc adjunct professor employees (2018)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -121,19 +121,19 @@
   },
   {
     "clockTime": 120.0,
-    "prompt": "feet of sidewalk at community garden id b467-gt001",
+    "prompt": "feet of sidewalk at community garden id x331-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 121.0,
-    "prompt": "feet of sidewalk at community garden id m335-gt001",
+    "prompt": "feet of sidewalk at community garden id x266-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 122.0,
-    "prompt": "feet of fence at community garden id m389-gt001",
+    "prompt": "feet of sidewalk at community garden id m396-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
@@ -145,31 +145,31 @@
   },
   {
     "clockTime": 124.0,
-    "prompt": "feet of fence at community garden id m367-gt001",
+    "prompt": "feet of sidewalk at community garden id b579-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 125.0,
-    "prompt": "feet of sidewalk at community garden id b439-gt001",
+    "prompt": "feet of sidewalk at community garden id b466-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 126.0,
-    "prompt": "median number in adult family shelters in brooklyn (06/30/2021)",
+    "prompt": "median number of persons in adult shelters in brooklyn (03/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 127.0,
-    "prompt": "dollars per hour is the highest base salary of nyc professor employees (2023)",
+    "prompt": "dollars per hour is the highest base salary of nyc community college (bronx) employees (2023)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 128.0,
-    "prompt": "feet of sidewalk at community garden id b442-gt001",
+    "prompt": "feet of fence at community garden id m328-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
@@ -181,7 +181,7 @@
   },
   {
     "clockTime": 130.0,
-    "prompt": "feet of fence at community garden id b502-gt001",
+    "prompt": "feet of sidewalk at community garden id b425-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
@@ -199,13 +199,13 @@
   },
   {
     "clockTime": 133.0,
-    "prompt": "feet of sidewalk at community garden id x179a-gt001",
+    "prompt": "feet of sidewalk at community garden id x001a-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 134.0,
-    "prompt": "number in adult shelter commercial hotels in brooklyn (01/31/2020)",
+    "prompt": "number of persons in adult shelter commercial hotels in brooklyn (10/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -217,31 +217,31 @@
   },
   {
     "clockTime": 136.0,
-    "prompt": "feet of fence at community garden id b508-gt001",
+    "prompt": "feet of sidewalk at community garden id b550-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 137.0,
-    "prompt": "feet of fence at community garden id m390-gt001",
+    "prompt": "feet of sidewalk at community garden id m390-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 138.0,
-    "prompt": "feet of fence at community garden id m383-gt001",
+    "prompt": "feet of sidewalk at community garden id b474-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 139.0,
-    "prompt": "number in adult family shelters in bronx (09/30/2021)",
+    "prompt": "number of persons in adult shelter commercial hotels in queens (10/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 140.0,
-    "prompt": "feet of fence at community garden id b557-gt001",
+    "prompt": "square feet of sidewalk at community garden id b496-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
@@ -283,7 +283,7 @@
   },
   {
     "clockTime": 147.0,
-    "prompt": "dollars per day is the highest base salary of nyc dept of ed para professionals employees (2017)",
+    "prompt": "dollars per day is the highest base salary of nyc substitute ed para employees (2017)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -295,19 +295,19 @@
   },
   {
     "clockTime": 149.0,
-    "prompt": "median number in adult family shelters in brooklyn (01/31/2022)",
+    "prompt": "number of persons in adult shelter commercial hotels in queens (04/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 150.0,
-    "prompt": "feet of fence at community garden id b492-gt001",
+    "prompt": "feet of sidewalk at community garden id m281-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 151.0,
-    "prompt": "feet of fence at community garden id m335-gt001",
+    "prompt": "feet of fence at community garden id b505-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
@@ -325,13 +325,13 @@
   },
   {
     "clockTime": 154.0,
-    "prompt": "feet of fence at community garden id m344-gt001",
+    "prompt": "feet of sidewalk at community garden id b450-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 155.0,
-    "prompt": "number in family with children shelters in queens (12/31/2018)",
+    "prompt": "number of persons in adult family shelters in brooklyn (01/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -343,7 +343,7 @@
   },
   {
     "clockTime": 157.0,
-    "prompt": "dollars per day is the highest base salary of nyc substitute ed para employees (2019)",
+    "prompt": "dollars per hour is the highest base salary of nyc pre-ses ed para employees (2019)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -361,7 +361,7 @@
   },
   {
     "clockTime": 200.0,
-    "prompt": "feet of fence at community garden id x272-gt001",
+    "prompt": "feet of sidewalk at community garden id b522-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
@@ -373,13 +373,13 @@
   },
   {
     "clockTime": 202.0,
-    "prompt": "feet of sidewalk at community garden id b533-gt001",
+    "prompt": "feet of sidewalk at community garden id b390-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 203.0,
-    "prompt": "average number in adult family shelters in brooklyn (04/30/2023)",
+    "prompt": "number of persons in adult family shelters in bronx (04/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -397,7 +397,7 @@
   },
   {
     "clockTime": 206.0,
-    "prompt": "square feet of sidewalk at community garden id b487-gt001",
+    "prompt": "feet of sidewalk at community garden id b463-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
@@ -481,13 +481,13 @@
   },
   {
     "clockTime": 220.0,
-    "prompt": "feet of sidewalk at community garden id b483-gt001",
+    "prompt": "feet of fence at community garden id m363-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 221.0,
-    "prompt": "number in adult shelters in bronx (01/31/2022)",
+    "prompt": "number of persons in family with children shelters in brooklyn (12/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -499,7 +499,7 @@
   },
   {
     "clockTime": 223.0,
-    "prompt": "dollars per day is the highest base salary of nyc rubber tire repairer employees (2018)",
+    "prompt": "dollars per day is the highest base salary of nyc horseshoer employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -517,7 +517,7 @@
   },
   {
     "clockTime": 226.0,
-    "prompt": "number in family with children shelters in bronx (01/31/2019)",
+    "prompt": "number of persons in adult shelters in manhattan (05/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -529,31 +529,31 @@
   },
   {
     "clockTime": 228.0,
-    "prompt": "feet of fence at community garden id b467-gt001",
+    "prompt": "feet of fence at community garden id b526-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 229.0,
-    "prompt": "number in family with children commercial hotels in brooklyn (12/31/2022)",
+    "prompt": "number of persons in adult shelter commercial hotels in queens (08/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 230.0,
-    "prompt": "feet of sidewalk at community garden id x276-gt001",
+    "prompt": "feet of fence at community garden id x314-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 231.0,
-    "prompt": "number in family with children shelters in queens (09/30/2018)",
+    "prompt": "number of persons in adult shelter commercial hotels in manhattan (06/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 232.0,
-    "prompt": "dollars per day is the highest base salary of nyc elevator mechanic helper employees (2016)",
+    "prompt": "dollars per day is the highest base salary of nyc elevator mechanic helper employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -583,7 +583,7 @@
   },
   {
     "clockTime": 237.0,
-    "prompt": "dollars per day is the highest base salary of nyc masons helper employees (2014)",
+    "prompt": "dollars per day is the highest base salary of nyc masons helper employees (2015)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -601,25 +601,25 @@
   },
   {
     "clockTime": 240.0,
-    "prompt": "square feet of sidewalk at community garden id m358-gt001",
+    "prompt": "square feet of sidewalk at community garden id m362-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 241.0,
-    "prompt": "dollars per day is the highest base salary of nyc carriage upholsterer employees (2015)",
+    "prompt": "dollars per day is the highest base salary of nyc carriage upholsterer employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 242.0,
-    "prompt": "dollars per day is the highest base salary of nyc continuing education teacher employees (2016)",
+    "prompt": "dollars per day is the highest base salary of nyc non-teaching adjunct ii employees (2017)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 243.0,
-    "prompt": "number in adult shelter commercial hotels in manhattan (02/29/2020)",
+    "prompt": "number of persons in adult shelter commercial hotels in brooklyn (05/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -631,7 +631,7 @@
   },
   {
     "clockTime": 245.0,
-    "prompt": "number in adult shelter commercial hotels in queens (11/30/2022)",
+    "prompt": "number of persons in adult shelter commercial hotels in manhattan (10/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -655,13 +655,13 @@
   },
   {
     "clockTime": 249.0,
-    "prompt": "dollars per day is the highest base salary of nyc law department employees (2023)",
+    "prompt": "dollars per day is the highest base salary of nyc taxi & limousine commission employees (2023)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 250.0,
-    "prompt": "feet of fence at community garden id q495-gt001",
+    "prompt": "square feet of sidewalk at community garden id b581-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
@@ -673,7 +673,7 @@
   },
   {
     "clockTime": 252.0,
-    "prompt": "number in family with children commercial hotels in queens (11/30/2018)",
+    "prompt": "number of persons in adult shelter commercial hotels in queens (02/28/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -709,7 +709,7 @@
   },
   {
     "clockTime": 258.0,
-    "prompt": "dollars per day is the highest base salary of nyc continuing education teacher employees (2017)",
+    "prompt": "dollars per day is the highest base salary of nyc plumber's helper employees (2019)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -721,19 +721,19 @@
   },
   {
     "clockTime": 300.0,
-    "prompt": "feet of fence at community garden id x298-gt001",
+    "prompt": "feet of fence at community garden id b383-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 301.0,
-    "prompt": "number in family with children shelters in bronx (02/29/2020)",
+    "prompt": "number of persons in adult shelter commercial hotels in manhattan (10/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 302.0,
-    "prompt": "number in adult family shelters in queens (07/31/2018)",
+    "prompt": "number of persons in adult family shelters in queens (07/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -751,13 +751,13 @@
   },
   {
     "clockTime": 305.0,
-    "prompt": "number in adult shelters in queens (04/30/2020)",
+    "prompt": "median number of persons in adult shelters in bronx (07/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 306.0,
-    "prompt": "feet of fence at community garden id b576-gt001",
+    "prompt": "square feet of sidewalk at community garden id b594-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
@@ -769,7 +769,7 @@
   },
   {
     "clockTime": 308.0,
-    "prompt": "dollars per day is the highest base salary of nyc bridge painter employees (2016)",
+    "prompt": "dollars per day is the highest base salary of nyc senior sewage treatment worker employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -787,7 +787,7 @@
   },
   {
     "clockTime": 311.0,
-    "prompt": "dollars per day is the highest base salary of nyc supervisor highway repairer employees (2015)",
+    "prompt": "dollars per day is the highest base salary of nyc city laborer employees (2017)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -805,7 +805,7 @@
   },
   {
     "clockTime": 314.0,
-    "prompt": "number in family with children commercial hotels in brooklyn (04/30/2023)",
+    "prompt": "number of persons in family with children commercial hotels in brooklyn (03/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -817,25 +817,25 @@
   },
   {
     "clockTime": 316.0,
-    "prompt": "number in adult shelter commercial hotels in queens (09/30/2021)",
+    "prompt": "median number of persons in adult shelters in manhattan (09/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 317.0,
-    "prompt": "dollars per hour is the highest base salary of nyc professor employees (2015)",
+    "prompt": "dollars per hour is the highest base salary of nyc community college (queensboro) employees (2015)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 318.0,
-    "prompt": "dollars per day is the highest base salary of nyc sewage treatment worker employees (2016)",
+    "prompt": "dollars per day is the highest base salary of nyc supervisor painter employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 319.0,
-    "prompt": "dollars per day is the highest base salary of nyc roofer employees (2022)",
+    "prompt": "dollars per day is the highest base salary of nyc roofer employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -853,7 +853,7 @@
   },
   {
     "clockTime": 322.0,
-    "prompt": "dollars per day is the highest base salary of nyc steam fitter's helper employees (2023)",
+    "prompt": "dollars per day is the highest base salary of nyc plumber employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -865,19 +865,19 @@
   },
   {
     "clockTime": 324.0,
-    "prompt": "dollars per day is the highest base salary of nyc plasterer employees (2014)",
+    "prompt": "dollars per day is the highest base salary of nyc instructor employees (2023)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 325.0,
-    "prompt": "square feet of sidewalk at community garden id b525-gt001",
+    "prompt": "feet of sidewalk at community garden id b417-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 326.0,
-    "prompt": "dollars per day is the highest base salary of nyc glazier employees (2021)",
+    "prompt": "dollars per day is the highest base salary of nyc glazier employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -901,7 +901,7 @@
   },
   {
     "clockTime": 330.0,
-    "prompt": "dollars per day is the highest base salary of nyc guttman community college employees (2021)",
+    "prompt": "dollars per hour is the highest base salary of nyc assistant professor employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -913,37 +913,37 @@
   },
   {
     "clockTime": 332.0,
-    "prompt": "number in adult shelters in brooklyn (04/30/2022)",
+    "prompt": "number of persons in adult shelters in brooklyn (04/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 333.0,
-    "prompt": "dollars per day is the highest base salary of nyc supervisor plasterer employees (2014)",
+    "prompt": "dollars per day is the highest base salary of nyc communication electrician employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 334.0,
-    "prompt": "dollars per day is the highest base salary of nyc city laborer employees (2018)",
+    "prompt": "dollars per day is the highest base salary of nyc instructor employees (2020)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 335.0,
-    "prompt": "dollars per day is the highest base salary of nyc supervisor glazier employees (2021)",
+    "prompt": "dollars per day is the highest base salary of nyc supervisor glazier employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 336.0,
-    "prompt": "square feet of sidewalk at community garden id m365-gt001",
+    "prompt": "feet of sidewalk at community garden id m312-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 337.0,
-    "prompt": "dollars per day is the highest base salary of nyc high pressure plant tender employees (2022)",
+    "prompt": "dollars per hour is the highest base salary of nyc medical investigator employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -955,13 +955,13 @@
   },
   {
     "clockTime": 339.0,
-    "prompt": "dollars per day is the highest base salary of nyc city laborer employees (2019)",
+    "prompt": "dollars per day is the highest base salary of nyc supervisor thermostat repair employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 340.0,
-    "prompt": "feet of sidewalk at community garden id q371-gt002",
+    "prompt": "feet of fence at community garden id x349-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
@@ -979,7 +979,7 @@
   },
   {
     "clockTime": 343.0,
-    "prompt": "dollars per day is the highest base salary of nyc housing preservation & dvlpmnt employees (2015)",
+    "prompt": "dollars per day is the highest base salary of nyc school social worker employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -997,13 +997,13 @@
   },
   {
     "clockTime": 346.0,
-    "prompt": "dollars per hour is the highest base salary of nyc member, civilian complaint review board employees (2023)",
+    "prompt": "dollars per hour is the highest base salary of nyc civilian complaint review bd employees (2017)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 347.0,
-    "prompt": "dollars per day is the highest base salary of nyc machinist employees (2022)",
+    "prompt": "dollars per day is the highest base salary of nyc machinist employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -1033,7 +1033,7 @@
   },
   {
     "clockTime": 352.0,
-    "prompt": "dollars per day is the highest base salary of nyc construction laborer employees (2021)",
+    "prompt": "dollars per day is the highest base salary of nyc construction laborer employees (2020)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -1045,13 +1045,13 @@
   },
   {
     "clockTime": 354.0,
-    "prompt": "dollars per day is the highest base salary of nyc supervisor highway repairer employees (2016)",
+    "prompt": "dollars per day is the highest base salary of nyc highway repairer employees (2017)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 355.0,
-    "prompt": "dollars per day is the highest base salary of nyc high pressure plant tender employees (2023)",
+    "prompt": "dollars per day is the highest base salary of nyc teacher-special ed employees (2018)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -1063,25 +1063,25 @@
   },
   {
     "clockTime": 357.0,
-    "prompt": "number in adult shelters in brooklyn (07/31/2023)",
+    "prompt": "number of persons in family with children shelters in bronx (01/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 358.0,
-    "prompt": "dollars per day is the highest base salary of nyc plasterer employees (2021)",
+    "prompt": "dollars per day is the highest base salary of nyc plasterer employees (2018)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 359.0,
-    "prompt": "dollars per day is the highest base salary of nyc sewage treatment worker employees (2020)",
+    "prompt": "dollars per day is the highest base salary of nyc sewage treatment worker employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 400.0,
-    "prompt": "feet of fence at community garden id x327-gt001",
+    "prompt": "feet of fence at community garden id b562-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
@@ -1093,25 +1093,25 @@
   },
   {
     "clockTime": 402.0,
-    "prompt": "average number in adult shelters in manhattan (11/30/2022)",
+    "prompt": "number of persons in family with children shelters in brooklyn (02/28/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 403.0,
-    "prompt": "dollars per day is the highest base salary of nyc school social worker employees (2021)",
+    "prompt": "dollars per day is the highest base salary of nyc welder employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 404.0,
-    "prompt": "dollars per day is the highest base salary of nyc communication electrician employees (2020)",
+    "prompt": "dollars per day is the highest base salary of nyc rigger employees (2020)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 405.0,
-    "prompt": "dollars per day is the highest base salary of nyc motor grader operator employees (2016)",
+    "prompt": "dollars per day is the highest base salary of nyc sheet metal worker employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -1123,13 +1123,13 @@
   },
   {
     "clockTime": 407.0,
-    "prompt": "number in adult family shelters in manhattan (12/31/2019)",
+    "prompt": "number of persons in adult family shelters in manhattan (10/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 408.0,
-    "prompt": "average number in adult shelters in manhattan (07/31/2022)",
+    "prompt": "number of persons in family with children shelters in brooklyn (12/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -1141,7 +1141,7 @@
   },
   {
     "clockTime": 410.0,
-    "prompt": "dollars per day is the highest base salary of nyc supervisor bridge repairer and riveter employees (2017)",
+    "prompt": "dollars per day is the highest base salary of nyc supervisor dockbuilder employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -1153,7 +1153,7 @@
   },
   {
     "clockTime": 412.0,
-    "prompt": "average number in adult shelters in manhattan (10/31/2022)",
+    "prompt": "median number of persons in adult shelters in bronx (03/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -1165,13 +1165,13 @@
   },
   {
     "clockTime": 414.0,
-    "prompt": "number in family with children shelters in brooklyn (04/30/2019)",
+    "prompt": "number of persons in family with children shelters in brooklyn (04/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 415.0,
-    "prompt": "dollars per day is the highest base salary of nyc dockbuilder employees (2021)",
+    "prompt": "dollars per day is the highest base salary of nyc dockbuilder employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -1201,13 +1201,13 @@
   },
   {
     "clockTime": 420.0,
-    "prompt": "square feet of sidewalk at community garden id b480-gt001",
+    "prompt": "square feet of sidewalk at community garden id x316-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 421.0,
-    "prompt": "dollars per day is the highest base salary of nyc radio repair mechanic employees (2023)",
+    "prompt": "dollars per day is the highest base salary of nyc radio repair mechanic employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -1219,7 +1219,7 @@
   },
   {
     "clockTime": 423.0,
-    "prompt": "dollars per day is the highest base salary of nyc supervisor ship carpenter employees (2017)",
+    "prompt": "dollars per day is the highest base salary of nyc supervisor ship carpenter employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -1249,19 +1249,19 @@
   },
   {
     "clockTime": 428.0,
-    "prompt": "dollars per day is the highest base salary of nyc ship carpenter employees (2021)",
+    "prompt": "dollars per day is the highest base salary of nyc ship carpenter employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 429.0,
-    "prompt": "dollars per day is the highest base salary of nyc supervisor sheet metal worker employees (2021)",
+    "prompt": "dollars per day is the highest base salary of nyc supervisor sheet metal worker employees (2020)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 430.0,
-    "prompt": "dollars per day is the highest base salary of nyc admin for children's svcs employees (2020)",
+    "prompt": "dollars per day is the highest base salary of nyc adjunct professor employees (2019)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -1285,19 +1285,19 @@
   },
   {
     "clockTime": 434.0,
-    "prompt": "number in family with children shelters in brooklyn (10/31/2022)",
+    "prompt": "number of persons in family with children shelters in brooklyn (10/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 435.0,
-    "prompt": "dollars per day is the highest base salary of nyc compositor employees (2016)",
+    "prompt": "dollars per day is the highest base salary of nyc nyc housing authority employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 436.0,
-    "prompt": "dollars per day is the highest base salary of nyc fire department employees (2015)",
+    "prompt": "dollars per day is the highest base salary of nyc community college (hostos) employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -1309,7 +1309,7 @@
   },
   {
     "clockTime": 438.0,
-    "prompt": "average number in adult shelters in brooklyn (01/31/2023)",
+    "prompt": "number of persons in family with children shelters in brooklyn (09/30/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -1363,7 +1363,7 @@
   },
   {
     "clockTime": 447.0,
-    "prompt": "dollars per day is the highest base salary of nyc motor grader operator employees (2018)",
+    "prompt": "dollars per day is the highest base salary of nyc tractor operator employees (2017)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -1381,7 +1381,7 @@
   },
   {
     "clockTime": 450.0,
-    "prompt": "square feet of sidewalk at community garden id x317-gt001",
+    "prompt": "square feet of sidewalk at community garden id x341-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
@@ -1393,31 +1393,31 @@
   },
   {
     "clockTime": 452.0,
-    "prompt": "average number in adult shelters in bronx (11/30/2022)",
+    "prompt": "average number of persons in adult shelters in brooklyn (01/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 453.0,
-    "prompt": "number in family with children commercial hotels in queens (10/31/2019)",
+    "prompt": "number of persons in adult shelters in manhattan (09/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 454.0,
-    "prompt": "dollars per day is the highest base salary of nyc supervisor ship carpenter employees (2021)",
+    "prompt": "dollars per day is the highest base salary of nyc supervisor ship carpenter employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 455.0,
-    "prompt": "dollars per hour is the highest base salary of nyc commissioner employees (2021)",
+    "prompt": "dollars per day is the highest base salary of nyc community college (kingsboro) employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 456.0,
-    "prompt": "dollars per day is the highest base salary of nyc gasoline roller engineer-l15 employees (2014)",
+    "prompt": "dollars per day is the highest base salary of nyc department of transportation employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -1435,13 +1435,13 @@
   },
   {
     "clockTime": 459.0,
-    "prompt": "dollars per day is the highest base salary of nyc blacksmith employees (2022)",
+    "prompt": "dollars per day is the highest base salary of nyc boiler maker employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 500.0,
-    "prompt": "square feet of sidewalk at community garden id x356-gt001",
+    "prompt": "feet of sidewalk at community garden id b383-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
@@ -1453,13 +1453,13 @@
   },
   {
     "clockTime": 502.0,
-    "prompt": "number in family with children shelters in queens (11/30/2021)",
+    "prompt": "number of persons in family with children shelters in manhattan (09/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 503.0,
-    "prompt": "number in family with children shelters in brooklyn (03/31/2020)",
+    "prompt": "total number of persons in adult family shelters in manhattan (07/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -1477,13 +1477,13 @@
   },
   {
     "clockTime": 506.0,
-    "prompt": "total number in adult family shelters in manhattan (12/31/2021)",
+    "prompt": "number of persons in family with children shelters in brooklyn (02/28/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 507.0,
-    "prompt": "number in family with children shelters in queens (08/31/2020)",
+    "prompt": "number of persons in family with children commercial hotels in brooklyn (03/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -1507,37 +1507,37 @@
   },
   {
     "clockTime": 511.0,
-    "prompt": "dollars per day is the highest base salary of nyc department of education admin employees (2022)",
+    "prompt": "dollars per day is the highest base salary of nyc dept. of homeless services employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 512.0,
-    "prompt": "number in adult shelter commercial hotels in brooklyn (03/31/2023)",
+    "prompt": "number of persons in adult shelter commercial hotels in brooklyn (05/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 513.0,
-    "prompt": "number in family with children shelters in brooklyn (12/31/2018)",
+    "prompt": "median number of persons in adult shelters in bronx (12/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 514.0,
-    "prompt": "number in family with children shelters in brooklyn (01/31/2019)",
+    "prompt": "number of persons in family with children shelters in queens (05/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 515.0,
-    "prompt": "total number in adult family shelters in manhattan (07/31/2023)",
+    "prompt": "number of persons in family with children shelters in queens (04/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 516.0,
-    "prompt": "number in adult shelter commercial hotels in brooklyn (03/31/2022)",
+    "prompt": "number of persons in adult shelters in manhattan (06/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -1555,7 +1555,7 @@
   },
   {
     "clockTime": 519.0,
-    "prompt": "number in adult shelters in brooklyn (05/31/2022)",
+    "prompt": "total number of persons in adult family shelters in manhattan (04/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -1567,13 +1567,13 @@
   },
   {
     "clockTime": 521.0,
-    "prompt": "number in adult shelter commercial hotels in brooklyn (08/31/2022)",
+    "prompt": "number of persons in family with children shelters in queens (09/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 522.0,
-    "prompt": "number in family with children shelters in manhattan (01/31/2023)",
+    "prompt": "total number of persons in adult family shelters in bronx (08/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -1591,19 +1591,19 @@
   },
   {
     "clockTime": 525.0,
-    "prompt": "number in adult shelters in brooklyn (11/30/2018)",
+    "prompt": "number of persons in adult shelters in brooklyn (11/30/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 526.0,
-    "prompt": "number in family with children shelters in manhattan (05/31/2021)",
+    "prompt": "number of persons in family with children shelters in manhattan (05/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 527.0,
-    "prompt": "dollars per day is the highest base salary of nyc professor employees (2015)",
+    "prompt": "dollars per day is the highest base salary of nyc community college (kingsboro) employees (2015)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -1615,7 +1615,7 @@
   },
   {
     "clockTime": 529.0,
-    "prompt": "number in family with children shelters in manhattan (01/31/2022)",
+    "prompt": "number of persons in adult shelters in manhattan (06/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -1627,19 +1627,19 @@
   },
   {
     "clockTime": 531.0,
-    "prompt": "dollars per day is the highest base salary of nyc supervisor elevator mechanic employees (2022)",
+    "prompt": "dollars per day is the highest base salary of nyc adjunct associate professor employees (2018)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 532.0,
-    "prompt": "number in adult shelters in bronx (07/31/2022)",
+    "prompt": "number of persons in family with children shelters in brooklyn (09/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 533.0,
-    "prompt": "number in family with children shelters in manhattan (09/30/2021)",
+    "prompt": "number of persons in family with children shelters in manhattan (06/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -1651,7 +1651,7 @@
   },
   {
     "clockTime": 535.0,
-    "prompt": "total number in adult family commercial hotels in brooklyn (07/31/2023)",
+    "prompt": "number of persons in adult family commercial hotels in manhattan (07/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -1663,91 +1663,91 @@
   },
   {
     "clockTime": 537.0,
-    "prompt": "number in family with children shelters in manhattan (10/31/2021)",
+    "prompt": "number of persons in family with children shelters in manhattan (10/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 538.0,
-    "prompt": "number in family with children commercial hotels in bronx (05/31/2023)",
+    "prompt": "number of persons in adult shelters in brooklyn (03/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 539.0,
-    "prompt": "dollars per day is the highest base salary of nyc community college (hostos) employees (2018)",
+    "prompt": "dollars per day is the highest base salary of nyc fire department employees (2019)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 540.0,
-    "prompt": "number in adult shelter commercial hotels in manhattan (09/30/2020)",
+    "prompt": "number of persons in adult family commercial hotels in manhattan (06/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 541.0,
-    "prompt": "number in family with children shelters in manhattan (03/31/2022)",
+    "prompt": "number of persons in adult shelter commercial hotels in manhattan (07/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 542.0,
-    "prompt": "number in family with children commercial hotels in manhattan (11/30/2020)",
+    "prompt": "number of persons in family with children shelters in manhattan (11/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 543.0,
-    "prompt": "dollars per day is the highest base salary of nyc crane operator ampes employees (2021)",
+    "prompt": "dollars per day is the highest base salary of nyc crane operator ampes employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 544.0,
-    "prompt": "dollars per day is the highest base salary of nyc department of transportation employees (2018)",
+    "prompt": "dollars per day is the highest base salary of nyc department of sanitation employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 545.0,
-    "prompt": "number in adult shelters in brooklyn (05/31/2019)",
+    "prompt": "number of persons in adult shelters in brooklyn (05/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 546.0,
-    "prompt": "number in adult shelters in bronx (04/30/2023)",
+    "prompt": "number of persons in adult shelters in manhattan (05/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 547.0,
-    "prompt": "number in family with children shelters in brooklyn (08/31/2022)",
+    "prompt": "median number of persons in adult shelters in bronx (10/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 548.0,
-    "prompt": "dollars per day is the highest base salary of nyc department of education admin employees (2023)",
+    "prompt": "dollars per day is the highest base salary of nyc nyc housing authority employees (2023)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 549.0,
-    "prompt": "number in family with children commercial hotels in staten island (08/31/2023)",
+    "prompt": "number of persons in family with children shelters in manhattan (09/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 550.0,
-    "prompt": "square feet of sidewalk at community garden id m408-gt001",
+    "prompt": "square feet of sidewalk at community garden id b444-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 551.0,
-    "prompt": "number in family with children shelters in brooklyn (01/31/2023)",
+    "prompt": "number of persons in family with children shelters in brooklyn (01/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -1777,7 +1777,7 @@
   },
   {
     "clockTime": 556.0,
-    "prompt": "average number in adult shelters in manhattan (08/31/2019)",
+    "prompt": "number of persons in adult shelter commercial hotels in queens (04/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -1789,61 +1789,61 @@
   },
   {
     "clockTime": 558.0,
-    "prompt": "number in family with children shelters in manhattan (04/30/2022)",
+    "prompt": "number of persons in family with children shelters in queens (09/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 559.0,
-    "prompt": "number in adult shelters in manhattan (01/31/2019)",
+    "prompt": "number of persons in family with children shelters in manhattan (03/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 600.0,
-    "prompt": "square feet of sidewalk at community garden id m325-gt003",
+    "prompt": "square feet of sidewalk at community garden id m329-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 601.0,
-    "prompt": "number in family with children commercial hotels in manhattan (04/30/2019)",
+    "prompt": "number of persons in adult shelter commercial hotels in queens (01/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 602.0,
-    "prompt": "number in adult shelters in brooklyn (03/31/2022)",
+    "prompt": "number of persons in adult shelters in manhattan (12/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 603.0,
-    "prompt": "dollars per day is the highest base salary of nyc department of correction employees (2022)",
+    "prompt": "dollars per day is the highest base salary of nyc hra/dept of social services employees (2023)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 604.0,
-    "prompt": "number in adult shelters in brooklyn (08/31/2022)",
+    "prompt": "number of persons in adult shelters in bronx (09/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 605.0,
-    "prompt": "number in adult shelters in bronx (10/31/2022)",
+    "prompt": "number of persons in family with children commercial hotels in manhattan (01/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 606.0,
-    "prompt": "number in adult shelters in bronx (11/30/2022)",
+    "prompt": "number of persons in family with children shelters in manhattan (07/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 607.0,
-    "prompt": "number in adult shelters in brooklyn (04/30/2022)",
+    "prompt": "number of persons in adult shelters in brooklyn (04/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -1855,7 +1855,7 @@
   },
   {
     "clockTime": 609.0,
-    "prompt": "number in family with children shelters in brooklyn (01/31/2021)",
+    "prompt": "number of persons in adult family shelters in queens (01/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -1873,7 +1873,7 @@
   },
   {
     "clockTime": 612.0,
-    "prompt": "number in adult shelters in manhattan (11/30/2021)",
+    "prompt": "number of persons in adult shelters in manhattan (05/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -1885,37 +1885,37 @@
   },
   {
     "clockTime": 614.0,
-    "prompt": "number in adult shelters in bronx (03/31/2023)",
+    "prompt": "number of persons in adult shelters in bronx (09/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 615.0,
-    "prompt": "number in adult shelters in bronx (09/30/2018)",
+    "prompt": "number of persons in adult shelter commercial hotels in brooklyn (05/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 616.0,
-    "prompt": "number in adult shelters in bronx (05/31/2019)",
+    "prompt": "number of persons in adult shelters in manhattan (11/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 617.0,
-    "prompt": "number in family with children commercial hotels in brooklyn (12/31/2019)",
+    "prompt": "number of persons in family with children commercial hotels in brooklyn (12/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 618.0,
-    "prompt": "dollars per day is the highest base salary of nyc senior stationary engineer employees (2019)",
+    "prompt": "dollars per day is the highest base salary of nyc senior stationary engineer employees (2020)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 619.0,
-    "prompt": "dollars per day is the highest base salary of nyc assistant principal employees (2016)",
+    "prompt": "dollars per day is the highest base salary of nyc supervisor employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -1927,19 +1927,19 @@
   },
   {
     "clockTime": 621.0,
-    "prompt": "number in adult shelters in bronx (06/30/2023)",
+    "prompt": "number of persons in family with children shelters in manhattan (05/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 622.0,
-    "prompt": "number in adult shelters in bronx (08/31/2019)",
+    "prompt": "number of persons in adult shelters in bronx (03/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 623.0,
-    "prompt": "number in family with children commercial hotels in queens (10/31/2019)",
+    "prompt": "number of persons in family with children commercial hotels in queens (10/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -1951,91 +1951,91 @@
   },
   {
     "clockTime": 625.0,
-    "prompt": "number in adult shelters in brooklyn (09/30/2023)",
+    "prompt": "number of persons in family with children shelters in brooklyn (03/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 626.0,
-    "prompt": "number in adult shelters in manhattan (04/30/2020)",
+    "prompt": "number of persons in adult shelters in brooklyn (01/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 627.0,
-    "prompt": "number in adult shelters in manhattan (06/30/2020)",
+    "prompt": "number of persons in adult shelters in bronx (09/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 628.0,
-    "prompt": "number in family with children shelters in manhattan (12/31/2019)",
+    "prompt": "number of persons in adult shelters in bronx (04/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 629.0,
-    "prompt": "number in family with children commercial hotels in manhattan (02/29/2020)",
+    "prompt": "number of persons in adult shelters in bronx (02/28/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 630.0,
-    "prompt": "square feet of sidewalk at community garden id m389-gt001",
+    "prompt": "square feet of sidewalk at community garden id m344-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 631.0,
-    "prompt": "total number in adult family shelters in bronx (03/31/2021)",
+    "prompt": "total number of persons in adult family shelters in bronx (03/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 632.0,
-    "prompt": "total number in adult family shelters in queens (10/31/2021)",
+    "prompt": "number of persons in family with children shelters in brooklyn (04/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 633.0,
-    "prompt": "number in adult shelters in brooklyn (04/30/2023)",
+    "prompt": "number of persons in family with children shelters in manhattan (06/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 634.0,
-    "prompt": "number in family with children commercial hotels in brooklyn (11/30/2019)",
+    "prompt": "number of persons in adult shelters in brooklyn (12/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 635.0,
-    "prompt": "number in adult shelters in brooklyn (06/30/2019)",
+    "prompt": "number of persons in adult shelters in brooklyn (06/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 636.0,
-    "prompt": "number in family with children shelters in brooklyn (01/31/2021)",
+    "prompt": "number of persons in family with children shelters in brooklyn (01/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 637.0,
-    "prompt": "total number in adult family commercial hotels in manhattan (07/31/2023)",
+    "prompt": "total number of persons in adult family commercial hotels in manhattan (07/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 638.0,
-    "prompt": "number in family with children shelters in brooklyn (11/30/2019)",
+    "prompt": "number of persons in adult shelters in brooklyn (06/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 639.0,
-    "prompt": "number in family with children shelters in queens (05/31/2021)",
+    "prompt": "number of persons in family with children shelters in brooklyn (09/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2053,7 +2053,7 @@
   },
   {
     "clockTime": 642.0,
-    "prompt": "dollars per day is the highest base salary of nyc professor employees (2016)",
+    "prompt": "dollars per day is the highest base salary of nyc adjunct professor employees (2016)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -2071,31 +2071,31 @@
   },
   {
     "clockTime": 645.0,
-    "prompt": "number in family with children shelters in brooklyn (08/31/2020)",
+    "prompt": "number of persons in family with children shelters in brooklyn (08/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 646.0,
-    "prompt": "number in family with children commercial hotels in brooklyn (10/31/2019)",
+    "prompt": "number of persons in family with children shelters in brooklyn (03/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 647.0,
-    "prompt": "number in family with children shelters in brooklyn (07/31/2018)",
+    "prompt": "number of persons in adult shelters in brooklyn (01/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 648.0,
-    "prompt": "number in adult shelter commercial hotels in brooklyn (08/31/2021)",
+    "prompt": "number of persons in adult shelter commercial hotels in brooklyn (08/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 649.0,
-    "prompt": "total number in adult shelters in queens (11/30/2020)",
+    "prompt": "number of persons in adult shelters in brooklyn (05/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2107,85 +2107,85 @@
   },
   {
     "clockTime": 651.0,
-    "prompt": "total number in adult family shelters in queens (07/31/2021)",
+    "prompt": "total number of persons in adult family shelters in queens (07/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 652.0,
-    "prompt": "number in adult shelters in brooklyn (12/31/2018)",
+    "prompt": "number of persons in family with children shelters in brooklyn (06/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 653.0,
-    "prompt": "number in adult shelters in brooklyn (06/30/2019)",
+    "prompt": "number of persons in adult shelters in brooklyn (06/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 654.0,
-    "prompt": "number in adult shelters in brooklyn (08/31/2022)",
+    "prompt": "number of persons in adult shelters in brooklyn (11/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 655.0,
-    "prompt": "number in family with children shelters in brooklyn (05/31/2019)",
+    "prompt": "number of persons in family with children shelters in brooklyn (05/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 656.0,
-    "prompt": "number in adult shelters in brooklyn (05/31/2019)",
+    "prompt": "number of persons in adult shelters in brooklyn (05/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 657.0,
-    "prompt": "number in adult shelters in manhattan (04/30/2022)",
+    "prompt": "number of persons in adult shelters in brooklyn (03/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 658.0,
-    "prompt": "number in adult shelters in brooklyn (04/30/2019)",
+    "prompt": "number of persons in adult shelters in brooklyn (04/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 659.0,
-    "prompt": "number in adult shelters in brooklyn (09/30/2018)",
+    "prompt": "number of persons in adult shelters in brooklyn (09/30/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 700.0,
-    "prompt": "square feet of sidewalk at community garden id x361-gt001",
+    "prompt": "square feet of sidewalk at community garden id b427-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 701.0,
-    "prompt": "total number in adult family shelters in brooklyn (08/31/2020)",
+    "prompt": "total number of persons in adult family shelters in brooklyn (08/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 702.0,
-    "prompt": "number in adult shelters in brooklyn (10/31/2018)",
+    "prompt": "number of persons in adult shelters in brooklyn (10/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 703.0,
-    "prompt": "number in family with children shelters in bronx (09/30/2020)",
+    "prompt": "total number of persons in adult family shelters in brooklyn (01/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 704.0,
-    "prompt": "number in adult shelters in brooklyn (10/31/2023)",
+    "prompt": "number of persons in family with children shelters in brooklyn (08/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2197,7 +2197,7 @@
   },
   {
     "clockTime": 706.0,
-    "prompt": "number in family with children shelters in queens (03/31/2021)",
+    "prompt": "number of persons in family with children shelters in brooklyn (02/29/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2233,13 +2233,13 @@
   },
   {
     "clockTime": 712.0,
-    "prompt": "feet of fence at community garden id b527-gt001",
+    "prompt": "feet of sidewalk at community garden id b527-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 713.0,
-    "prompt": "number in adult shelters in manhattan (04/30/2023)",
+    "prompt": "number of persons in adult shelters in manhattan (04/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2251,13 +2251,13 @@
   },
   {
     "clockTime": 716.0,
-    "prompt": "number in adult shelter commercial hotels in queens (01/31/2022)",
+    "prompt": "number of persons in family with children shelters in brooklyn (11/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 717.0,
-    "prompt": "number in family with children shelters in bronx (07/31/2020)",
+    "prompt": "number of persons in family with children commercial hotels in queens (10/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2269,25 +2269,25 @@
   },
   {
     "clockTime": 719.0,
-    "prompt": "number in adult shelters in bronx (01/31/2023)",
+    "prompt": "number of persons in family with children commercial hotels in bronx (10/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 720.0,
-    "prompt": "number in adult shelters in manhattan (03/31/2023)",
+    "prompt": "number of persons in adult shelters in bronx (04/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 721.0,
-    "prompt": "number in family with children shelters in manhattan (05/31/2020)",
+    "prompt": "number of persons in family with children shelters in manhattan (05/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 722.0,
-    "prompt": "number in family with children commercial hotels in manhattan (10/31/2021)",
+    "prompt": "number of persons in family with children commercial hotels in manhattan (10/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2299,7 +2299,7 @@
   },
   {
     "clockTime": 724.0,
-    "prompt": "number in family with children shelters in manhattan (01/31/2021)",
+    "prompt": "number of persons in adult shelters in manhattan (05/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2311,7 +2311,7 @@
   },
   {
     "clockTime": 726.0,
-    "prompt": "number in adult shelter commercial hotels in brooklyn (01/31/2021)",
+    "prompt": "number of persons in adult shelter commercial hotels in brooklyn (01/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2323,19 +2323,19 @@
   },
   {
     "clockTime": 728.0,
-    "prompt": "number in family with children commercial hotels in manhattan (10/31/2022)",
+    "prompt": "number of persons in family with children commercial hotels in manhattan (10/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 729.0,
-    "prompt": "total number in adult family shelters in brooklyn (11/30/2021)",
+    "prompt": "total number of persons in adult family shelters in brooklyn (01/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 730.0,
-    "prompt": "number in adult shelters in brooklyn (10/31/2023)",
+    "prompt": "number of persons in adult shelters in brooklyn (03/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2347,7 +2347,7 @@
   },
   {
     "clockTime": 732.0,
-    "prompt": "number in adult shelters in bronx (06/30/2023)",
+    "prompt": "number of persons in adult shelters in manhattan (04/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2371,7 +2371,7 @@
   },
   {
     "clockTime": 736.0,
-    "prompt": "number in adult shelters in manhattan (09/30/2023)",
+    "prompt": "number of persons in adult shelter commercial hotels in brooklyn (02/28/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2389,19 +2389,19 @@
   },
   {
     "clockTime": 739.0,
-    "prompt": "total number in adult family shelters in brooklyn (05/31/2019)",
+    "prompt": "total number of persons in adult family shelters in brooklyn (05/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 740.0,
-    "prompt": "number in family with children shelters in manhattan (10/31/2022)",
+    "prompt": "number of persons in family with children commercial hotels in manhattan (07/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 741.0,
-    "prompt": "number in family with children shelters in queens (06/30/2020)",
+    "prompt": "number of persons in family with children shelters in queens (06/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2413,31 +2413,31 @@
   },
   {
     "clockTime": 743.0,
-    "prompt": "dollars per day is the highest base salary of nyc assistant principal employees (2021)",
+    "prompt": "dollars per day is the highest base salary of nyc supervisor employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 744.0,
-    "prompt": "total number in adult family shelters in brooklyn (06/30/2019)",
+    "prompt": "total number of persons in adult family shelters in brooklyn (06/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 745.0,
-    "prompt": "number in family with children shelters in manhattan (06/30/2023)",
+    "prompt": "number of persons in family with children commercial hotels in queens (07/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 746.0,
-    "prompt": "dollars per day is the highest base salary of nyc community college (kingsboro) employees (2021)",
+    "prompt": "dollars per day is the highest base salary of nyc lecturer employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 747.0,
-    "prompt": "total number in adult family shelters in queens (03/31/2021)",
+    "prompt": "number of persons in adult shelters in manhattan (11/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2449,7 +2449,7 @@
   },
   {
     "clockTime": 749.0,
-    "prompt": "dollars per day is the highest base salary of nyc community college (manhattan) employees (2014)",
+    "prompt": "dollars per day is the highest base salary of nyc adjunct professor employees (2014)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -2461,31 +2461,31 @@
   },
   {
     "clockTime": 751.0,
-    "prompt": "number in family with children shelters in manhattan (11/30/2022)",
+    "prompt": "number of persons in family with children commercial hotels in staten island (10/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 752.0,
-    "prompt": "number in family with children shelters in bronx (10/31/2020)",
+    "prompt": "number of persons in family with children shelters in manhattan (12/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 753.0,
-    "prompt": "total number in adult family shelters in brooklyn (04/30/2020)",
+    "prompt": "total number of persons in adult family shelters in brooklyn (04/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 754.0,
-    "prompt": "number in family with children shelters in manhattan (04/30/2019)",
+    "prompt": "number of persons in family with children shelters in manhattan (04/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 755.0,
-    "prompt": "number in adult shelters in manhattan (01/31/2020)",
+    "prompt": "total number of persons in adult shelters in bronx (10/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2503,7 +2503,7 @@
   },
   {
     "clockTime": 758.0,
-    "prompt": "number in adult shelter commercial hotels in queens (05/31/2021)",
+    "prompt": "number of persons in adult shelter commercial hotels in brooklyn (02/28/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2527,7 +2527,7 @@
   },
   {
     "clockTime": 803.0,
-    "prompt": "number in family with children shelters in brooklyn (08/31/2020)",
+    "prompt": "number of persons in family with children shelters in brooklyn (08/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2545,7 +2545,7 @@
   },
   {
     "clockTime": 806.0,
-    "prompt": "number in family with children shelters in queens (02/28/2022)",
+    "prompt": "number of persons in family with children shelters in queens (02/28/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2557,7 +2557,7 @@
   },
   {
     "clockTime": 808.0,
-    "prompt": "total number in adult family shelters in bronx (12/31/2020)",
+    "prompt": "total number of persons in adult family shelters in bronx (12/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2575,7 +2575,7 @@
   },
   {
     "clockTime": 811.0,
-    "prompt": "number in family with children commercial hotels in queens (09/30/2018)",
+    "prompt": "number of persons in family with children shelters in brooklyn (07/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2587,7 +2587,7 @@
   },
   {
     "clockTime": 813.0,
-    "prompt": "number in family with children shelters in brooklyn (12/31/2021)",
+    "prompt": "number of persons in family with children shelters in brooklyn (12/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2605,7 +2605,7 @@
   },
   {
     "clockTime": 816.0,
-    "prompt": "total number in adult shelters in queens (07/31/2021)",
+    "prompt": "total number of persons in adult family shelters in brooklyn (02/28/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2617,7 +2617,7 @@
   },
   {
     "clockTime": 818.0,
-    "prompt": "total number in adult shelters in queens (11/30/2018)",
+    "prompt": "total number of persons in adult shelters in queens (11/30/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2635,19 +2635,19 @@
   },
   {
     "clockTime": 821.0,
-    "prompt": "number in family with children shelters in brooklyn (11/30/2018)",
+    "prompt": "number of persons in family with children shelters in brooklyn (05/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 822.0,
-    "prompt": "number in family with children shelters in queens (05/31/2019)",
+    "prompt": "number of persons in family with children shelters in queens (05/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 823.0,
-    "prompt": "number in family with children shelters in brooklyn (07/31/2023)",
+    "prompt": "number of persons in family with children shelters in brooklyn (07/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2659,13 +2659,13 @@
   },
   {
     "clockTime": 825.0,
-    "prompt": "number in adult shelter commercial hotels in queens (07/31/2018)",
+    "prompt": "number of persons in adult shelters in brooklyn (05/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 826.0,
-    "prompt": "number in family with children shelters in queens (12/31/2018)",
+    "prompt": "number of persons in family with children shelters in queens (10/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2683,25 +2683,25 @@
   },
   {
     "clockTime": 829.0,
-    "prompt": "number in family with children shelters in queens (01/31/2019)",
+    "prompt": "number of persons in family with children shelters in manhattan (01/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 830.0,
-    "prompt": "number in family with children shelters in queens (01/31/2023)",
+    "prompt": "number of persons in family with children shelters in brooklyn (08/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 831.0,
-    "prompt": "number in family with children shelters in brooklyn (06/30/2019)",
+    "prompt": "number of persons in family with children shelters in bronx (11/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 832.0,
-    "prompt": "number in family with children shelters in queens (03/31/2023)",
+    "prompt": "number of persons in family with children shelters in brooklyn (05/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2713,37 +2713,37 @@
   },
   {
     "clockTime": 834.0,
-    "prompt": "number in family with children shelters in manhattan (05/31/2019)",
+    "prompt": "number of persons in family with children shelters in queens (11/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 835.0,
-    "prompt": "number in family with children shelters in queens (01/31/2021)",
+    "prompt": "number of persons in family with children shelters in queens (04/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 836.0,
-    "prompt": "number in family with children shelters in brooklyn (08/31/2019)",
+    "prompt": "number of persons in family with children shelters in brooklyn (06/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 837.0,
-    "prompt": "number in adult shelter commercial hotels in queens (06/30/2021)",
+    "prompt": "number of persons in family with children shelters in bronx (06/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 838.0,
-    "prompt": "number in family with children shelters in brooklyn (05/31/2019)",
+    "prompt": "number of persons in family with children shelters in queens (09/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 839.0,
-    "prompt": "number in family with children shelters in queens (03/31/2022)",
+    "prompt": "number of persons in family with children shelters in manhattan (02/29/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2755,13 +2755,13 @@
   },
   {
     "clockTime": 841.0,
-    "prompt": "number in family with children shelters in manhattan (01/31/2019)",
+    "prompt": "number of persons in family with children shelters in brooklyn (03/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 842.0,
-    "prompt": "number in family with children shelters in queens (12/31/2019)",
+    "prompt": "number of persons in family with children shelters in queens (12/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2773,13 +2773,13 @@
   },
   {
     "clockTime": 844.0,
-    "prompt": "number in family with children shelters in brooklyn (08/31/2019)",
+    "prompt": "number of persons in family with children shelters in brooklyn (08/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 845.0,
-    "prompt": "number in family with children shelters in queens (08/31/2022)",
+    "prompt": "number of persons in family with children shelters in queens (09/30/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2791,55 +2791,55 @@
   },
   {
     "clockTime": 847.0,
-    "prompt": "total number in adult family shelters in brooklyn (09/30/2022)",
+    "prompt": "number of persons in family with children shelters in brooklyn (07/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 848.0,
-    "prompt": "number in family with children shelters in queens (01/31/2020)",
+    "prompt": "number of persons in family with children shelters in brooklyn (09/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 849.0,
-    "prompt": "number in adult shelters in brooklyn (07/31/2018)",
+    "prompt": "number of persons in adult shelters in brooklyn (07/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 850.0,
-    "prompt": "number in family with children shelters in queens (01/31/2019)",
+    "prompt": "number of persons in adult shelter commercial hotels in queens (09/30/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 851.0,
-    "prompt": "number in family with children shelters in manhattan (07/31/2018)",
+    "prompt": "number of persons in family with children shelters in brooklyn (04/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 852.0,
-    "prompt": "dollars per day is the highest base salary of nyc community college (manhattan) employees (2018)",
+    "prompt": "dollars per day is the highest base salary of nyc adjunct assistant professor employees (2018)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 853.0,
-    "prompt": "number in family with children shelters in brooklyn (06/30/2023)",
+    "prompt": "number of persons in family with children shelters in brooklyn (06/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 854.0,
-    "prompt": "number in family with children shelters in bronx (12/31/2021)",
+    "prompt": "number of persons in family with children shelters in queens (03/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 855.0,
-    "prompt": "number in family with children shelters in queens (03/31/2023)",
+    "prompt": "number of persons in family with children shelters in brooklyn (02/29/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2851,7 +2851,7 @@
   },
   {
     "clockTime": 857.0,
-    "prompt": "number in family with children shelters in queens (04/30/2023)",
+    "prompt": "number of persons in family with children shelters in manhattan (11/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2863,31 +2863,31 @@
   },
   {
     "clockTime": 859.0,
-    "prompt": "number in family with children shelters in queens (05/31/2023)",
+    "prompt": "number of persons in family with children shelters in bronx (08/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 900.0,
-    "prompt": "square feet of sidewalk at community garden id m298-gt001",
+    "prompt": "square feet of sidewalk at community garden id m361-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 901.0,
-    "prompt": "number in family with children shelters in bronx (01/31/2019)",
+    "prompt": "number of persons in family with children shelters in bronx (01/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 902.0,
-    "prompt": "total number in adult family shelters in queens (06/30/2019)",
+    "prompt": "total number of persons in adult family shelters in queens (06/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 903.0,
-    "prompt": "dollars per day is the highest base salary of nyc associate professor employees (2021)",
+    "prompt": "dollars per day is the highest base salary of nyc associate professor employees (2020)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -2899,25 +2899,25 @@
   },
   {
     "clockTime": 905.0,
-    "prompt": "total number in adult family shelters in queens (06/30/2022)",
+    "prompt": "total number of persons in adult family shelters in queens (06/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 906.0,
-    "prompt": "number in adult shelters in manhattan (04/30/2019)",
+    "prompt": "number of persons in adult shelters in manhattan (04/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 908.0,
-    "prompt": "number in adult shelters in manhattan (11/30/2019)",
+    "prompt": "total number of persons in adult shelters in queens (08/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 909.0,
-    "prompt": "number in adult shelter commercial hotels in queens (12/31/2020)",
+    "prompt": "total number of persons in adult shelters in queens (09/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2929,25 +2929,25 @@
   },
   {
     "clockTime": 911.0,
-    "prompt": "total number in adult family shelters in manhattan (03/31/2020)",
+    "prompt": "total number of persons in adult family shelters in manhattan (03/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 913.0,
-    "prompt": "number in adult shelters in manhattan (09/30/2022)",
+    "prompt": "number of persons in adult shelters in manhattan (09/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 915.0,
-    "prompt": "number in family with children shelters in bronx (02/28/2021)",
+    "prompt": "number of persons in family with children shelters in bronx (02/28/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 916.0,
-    "prompt": "number in adult shelters in manhattan (10/31/2022)",
+    "prompt": "number of persons in family with children shelters in bronx (01/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2959,13 +2959,13 @@
   },
   {
     "clockTime": 920.0,
-    "prompt": "dollars per day is the highest base salary of nyc principal employees (2019)",
+    "prompt": "dollars per day is the highest base salary of nyc teacher-general ed employees (2021)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 922.0,
-    "prompt": "number in adult shelters in brooklyn (02/29/2020)",
+    "prompt": "number of persons in adult shelter commercial hotels in queens (06/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -2977,109 +2977,109 @@
   },
   {
     "clockTime": 924.0,
-    "prompt": "number in adult shelters in brooklyn (09/30/2023)",
+    "prompt": "number of persons in family with children shelters in brooklyn (11/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 925.0,
-    "prompt": "number in adult shelters in brooklyn (01/31/2020)",
+    "prompt": "number of persons in adult shelters in manhattan (05/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 927.0,
-    "prompt": "number in adult shelter commercial hotels in queens (08/31/2023)",
+    "prompt": "number of persons in adult shelter commercial hotels in queens (08/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 928.0,
-    "prompt": "number in family with children shelters in queens (08/31/2023)",
+    "prompt": "number of persons in family with children shelters in queens (08/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 929.0,
-    "prompt": "number in family with children shelters in brooklyn (10/31/2021)",
+    "prompt": "number of persons in family with children shelters in brooklyn (10/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 930.0,
-    "prompt": "number in adult shelters in manhattan (06/30/2023)",
+    "prompt": "number of persons in adult shelters in manhattan (06/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 933.0,
-    "prompt": "number in adult shelters in manhattan (12/31/2019)",
+    "prompt": "number of persons in adult shelters in manhattan (12/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 934.0,
-    "prompt": "number in adult shelters in brooklyn (09/30/2019)",
+    "prompt": "number of persons in adult shelters in brooklyn (09/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 937.0,
-    "prompt": "number in adult shelters in brooklyn (12/31/2018)",
+    "prompt": "number of persons in adult shelters in brooklyn (12/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 939.0,
-    "prompt": "dollars per day is the highest base salary of nyc professor employees (2022)",
+    "prompt": "dollars per day is the highest base salary of nyc community college (manhattan) employees (2022)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 942.0,
-    "prompt": "total number in adult family shelters in queens (07/31/2022)",
+    "prompt": "total number of persons in adult family shelters in queens (07/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 944.0,
-    "prompt": "number in adult shelters in manhattan (03/31/2020)",
+    "prompt": "number of persons in adult shelters in manhattan (03/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 945.0,
-    "prompt": "number in family with children shelters in bronx (04/30/2021)",
+    "prompt": "number of persons in family with children shelters in bronx (04/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 946.0,
-    "prompt": "number in adult shelters in brooklyn (10/31/2019)",
+    "prompt": "number of persons in adult shelter commercial hotels in queens (11/30/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 950.0,
-    "prompt": "number in family with children shelters in brooklyn (12/31/2021)",
+    "prompt": "number of persons in family with children shelters in bronx (12/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 951.0,
-    "prompt": "number in adult shelters in manhattan (01/31/2020)",
+    "prompt": "number of persons in adult shelters in manhattan (08/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 952.0,
-    "prompt": "number in adult shelters in manhattan (04/30/2019)",
+    "prompt": "number of persons in adult shelters in manhattan (04/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 953.0,
-    "prompt": "number in family with children shelters in bronx (09/30/2018)",
+    "prompt": "number of persons in family with children shelters in bronx (09/30/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3091,13 +3091,13 @@
   },
   {
     "clockTime": 955.0,
-    "prompt": "number in adult shelters in manhattan (02/29/2020)",
+    "prompt": "number of persons in adult shelters in manhattan (02/29/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 956.0,
-    "prompt": "number in adult shelters in manhattan (04/30/2023)",
+    "prompt": "number of persons in adult shelters in manhattan (04/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3109,13 +3109,13 @@
   },
   {
     "clockTime": 958.0,
-    "prompt": "dollars per day is the highest base salary of nyc professor employees (2023)",
+    "prompt": "dollars per day is the highest base salary of nyc community college (manhattan) employees (2023)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
   {
     "clockTime": 959.0,
-    "prompt": "dollars per day is the highest base salary of nyc professor employees (2021)",
+    "prompt": "dollars per day is the highest base salary of nyc professor employees (2020)",
     "datasource": "Citywide Payroll Data (Fiscal Year)",
     "department": "Department of Citywide Administrative Services (DCAS)"
   },
@@ -3127,7 +3127,7 @@
   },
   {
     "clockTime": 1001.0,
-    "prompt": "number in family with children commercial hotels in bronx (05/31/2023)",
+    "prompt": "number of persons in family with children commercial hotels in bronx (05/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3139,19 +3139,19 @@
   },
   {
     "clockTime": 1003.0,
-    "prompt": "number in family with children shelters in queens (06/30/2019)",
+    "prompt": "number of persons in family with children shelters in queens (06/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1004.0,
-    "prompt": "number in adult shelters in brooklyn (02/28/2023)",
+    "prompt": "number of persons in adult shelters in manhattan (03/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1005.0,
-    "prompt": "total number in adult shelters in queens (11/30/2019)",
+    "prompt": "number of persons in adult shelter commercial hotels in queens (09/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3181,31 +3181,31 @@
   },
   {
     "clockTime": 1011.0,
-    "prompt": "number in adult shelters in brooklyn (12/31/2022)",
+    "prompt": "number of persons in adult shelters in brooklyn (12/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1012.0,
-    "prompt": "number in family with children commercial hotels in bronx (07/31/2023)",
+    "prompt": "number of persons in family with children commercial hotels in bronx (07/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1013.0,
-    "prompt": "number in adult shelter commercial hotels in queens (08/31/2020)",
+    "prompt": "number of persons in adult shelter commercial hotels in queens (08/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1015.0,
-    "prompt": "total number in adult family shelters in manhattan (11/30/2019)",
+    "prompt": "total number of persons in adult family shelters in manhattan (11/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1016.0,
-    "prompt": "number in adult shelter commercial hotels in queens (07/31/2020)",
+    "prompt": "number of persons in adult shelter commercial hotels in queens (07/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3217,7 +3217,7 @@
   },
   {
     "clockTime": 1019.0,
-    "prompt": "number in family with children shelters in bronx (06/30/2021)",
+    "prompt": "number of persons in family with children shelters in bronx (06/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3229,7 +3229,7 @@
   },
   {
     "clockTime": 1022.0,
-    "prompt": "number in family with children shelters in queens (01/31/2019)",
+    "prompt": "number of persons in family with children shelters in queens (01/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3241,13 +3241,13 @@
   },
   {
     "clockTime": 1027.0,
-    "prompt": "number in family with children shelters in brooklyn (04/30/2022)",
+    "prompt": "number of persons in family with children shelters in brooklyn (04/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1029.0,
-    "prompt": "number in adult shelters in brooklyn (03/31/2023)",
+    "prompt": "number of persons in adult shelters in brooklyn (03/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3259,43 +3259,43 @@
   },
   {
     "clockTime": 1031.0,
-    "prompt": "total number in adult family shelters in bronx (07/31/2020)",
+    "prompt": "total number of persons in adult family shelters in bronx (07/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1032.0,
-    "prompt": "number in adult shelters in manhattan (01/31/2023)",
+    "prompt": "number of persons in adult shelters in manhattan (01/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1033.0,
-    "prompt": "total number in adult family shelters in bronx (10/31/2018)",
+    "prompt": "number of persons in family with children shelters in queens (11/30/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1034.0,
-    "prompt": "number in adult shelter commercial hotels in queens (01/31/2021)",
+    "prompt": "number of persons in adult shelter commercial hotels in queens (01/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1035.0,
-    "prompt": "number in family with children shelters in queens (12/31/2018)",
+    "prompt": "number of persons in family with children shelters in queens (12/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1037.0,
-    "prompt": "number in adult shelters in brooklyn (04/30/2023)",
+    "prompt": "number of persons in adult shelters in brooklyn (04/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1038.0,
-    "prompt": "number in family with children shelters in bronx (04/30/2021)",
+    "prompt": "number of persons in adult shelter commercial hotels in manhattan (06/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3307,43 +3307,43 @@
   },
   {
     "clockTime": 1040.0,
-    "prompt": "number in family with children shelters in queens (04/30/2019)",
+    "prompt": "number of persons in family with children shelters in queens (04/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1041.0,
-    "prompt": "number in family with children shelters in bronx (12/31/2018)",
+    "prompt": "number of persons in family with children shelters in bronx (12/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1043.0,
-    "prompt": "number in adult shelters in brooklyn (01/31/2023)",
+    "prompt": "number of persons in family with children commercial hotels in queens (11/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1045.0,
-    "prompt": "number in family with children shelters in bronx (07/31/2018)",
+    "prompt": "number of persons in family with children shelters in bronx (01/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1046.0,
-    "prompt": "number in family with children shelters in queens (08/31/2019)",
+    "prompt": "number of persons in family with children shelters in brooklyn (05/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1047.0,
-    "prompt": "number in adult shelters in manhattan (09/30/2021)",
+    "prompt": "number of persons in adult shelters in manhattan (09/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1049.0,
-    "prompt": "number in adult shelter commercial hotels in queens (11/30/2020)",
+    "prompt": "number of persons in family with children shelters in bronx (11/30/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3355,13 +3355,13 @@
   },
   {
     "clockTime": 1052.0,
-    "prompt": "number in family with children shelters in bronx (05/31/2021)",
+    "prompt": "number of persons in family with children shelters in bronx (05/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1053.0,
-    "prompt": "number in family with children shelters in bronx (07/31/2021)",
+    "prompt": "number of persons in adult shelter commercial hotels in queens (01/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3373,19 +3373,19 @@
   },
   {
     "clockTime": 1056.0,
-    "prompt": "number in family with children shelters in bronx (07/31/2021)",
+    "prompt": "number of persons in family with children shelters in bronx (01/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1057.0,
-    "prompt": "total number in adult family shelters in bronx (06/30/2020)",
+    "prompt": "total number of persons in adult family shelters in bronx (06/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1058.0,
-    "prompt": "number in family with children commercial hotels in queens (01/31/2023)",
+    "prompt": "number of persons in family with children commercial hotels in queens (01/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3397,55 +3397,55 @@
   },
   {
     "clockTime": 1100.0,
-    "prompt": "number in family with children shelters in bronx (07/31/2022)",
+    "prompt": "number of persons in family with children shelters in bronx (07/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1101.0,
-    "prompt": "number in family with children shelters in bronx (02/28/2022)",
+    "prompt": "number of persons in family with children shelters in bronx (02/28/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1102.0,
-    "prompt": "number in family with children shelters in bronx (01/31/2022)",
+    "prompt": "number of persons in family with children shelters in bronx (10/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1103.0,
-    "prompt": "number in family with children shelters in bronx (10/31/2021)",
+    "prompt": "number of persons in adult shelters in brooklyn (10/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1104.0,
-    "prompt": "total number in adult family shelters in bronx (12/31/2018)",
+    "prompt": "number of persons in family with children shelters in bronx (04/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1105.0,
-    "prompt": "number in family with children shelters in bronx (09/30/2021)",
+    "prompt": "number of persons in family with children shelters in bronx (09/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1106.0,
-    "prompt": "number in family with children shelters in manhattan (09/30/2023)",
+    "prompt": "number of persons in family with children shelters in bronx (02/28/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1108.0,
-    "prompt": "number in family with children commercial hotels in manhattan (04/30/2023)",
+    "prompt": "number of persons in family with children commercial hotels in manhattan (04/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1110.0,
-    "prompt": "number in family with children shelters in bronx (04/30/2020)",
+    "prompt": "number of persons in family with children shelters in bronx (04/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3457,13 +3457,13 @@
   },
   {
     "clockTime": 1112.0,
-    "prompt": "number in family with children commercial hotels in manhattan (02/28/2023)",
+    "prompt": "number of persons in adult shelters in manhattan (10/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1113.0,
-    "prompt": "number in family with children shelters in manhattan (10/31/2023)",
+    "prompt": "number of persons in family with children shelters in manhattan (10/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3475,19 +3475,19 @@
   },
   {
     "clockTime": 1115.0,
-    "prompt": "total number in adult family shelters in bronx (01/31/2019)",
+    "prompt": "total number of persons in adult family shelters in bronx (01/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1116.0,
-    "prompt": "number in family with children shelters in bronx (03/31/2022)",
+    "prompt": "number of persons in family with children shelters in bronx (03/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1117.0,
-    "prompt": "number in family with children shelters in brooklyn (09/30/2022)",
+    "prompt": "number of persons in family with children shelters in brooklyn (09/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3499,19 +3499,19 @@
   },
   {
     "clockTime": 1119.0,
-    "prompt": "number in family with children shelters in brooklyn (05/31/2023)",
+    "prompt": "number of persons in family with children shelters in bronx (01/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1120.0,
-    "prompt": "number in family with children commercial hotels in manhattan (12/31/2022)",
+    "prompt": "number of persons in family with children commercial hotels in manhattan (12/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1121.0,
-    "prompt": "total number in adult family shelters in bronx (08/31/2019)",
+    "prompt": "total number of persons in adult family shelters in bronx (08/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3523,43 +3523,43 @@
   },
   {
     "clockTime": 1124.0,
-    "prompt": "total number in adult family shelters in bronx (05/31/2019)",
+    "prompt": "total number of persons in adult family shelters in bronx (05/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1127.0,
-    "prompt": "number in family with children commercial hotels in manhattan (06/30/2021)",
+    "prompt": "number of persons in family with children commercial hotels in manhattan (06/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1129.0,
-    "prompt": "number in family with children shelters in brooklyn (12/31/2022)",
+    "prompt": "number of persons in family with children commercial hotels in manhattan (01/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1131.0,
-    "prompt": "number in adult shelter commercial hotels in queens (04/30/2020)",
+    "prompt": "number of persons in family with children shelters in bronx (11/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1132.0,
-    "prompt": "number in family with children shelters in bronx (01/31/2021)",
+    "prompt": "number of persons in family with children shelters in bronx (01/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1133.0,
-    "prompt": "number in family with children shelters in bronx (12/31/2021)",
+    "prompt": "number of persons in family with children shelters in bronx (12/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1134.0,
-    "prompt": "number in family with children shelters in bronx (02/28/2022)",
+    "prompt": "number of persons in family with children shelters in bronx (02/28/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3571,13 +3571,13 @@
   },
   {
     "clockTime": 1136.0,
-    "prompt": "number in family with children shelters in bronx (02/28/2023)",
+    "prompt": "number of persons in family with children shelters in bronx (02/28/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1137.0,
-    "prompt": "number in family with children shelters in bronx (12/31/2022)",
+    "prompt": "number of persons in family with children shelters in brooklyn (10/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3589,73 +3589,73 @@
   },
   {
     "clockTime": 1139.0,
-    "prompt": "total number in adult family shelters in manhattan (12/31/2018)",
+    "prompt": "total number of persons in adult family shelters in manhattan (12/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1141.0,
-    "prompt": "number in family with children shelters in bronx (12/31/2021)",
+    "prompt": "number of persons in family with children shelters in bronx (12/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1143.0,
-    "prompt": "total number in adult family shelters in queens (11/30/2022)",
+    "prompt": "total number of persons in adult family shelters in queens (11/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1144.0,
-    "prompt": "number in family with children shelters in queens (10/31/2019)",
+    "prompt": "total number of persons in adult family shelters in bronx (03/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1145.0,
-    "prompt": "number in family with children shelters in brooklyn (02/28/2023)",
+    "prompt": "number of persons in family with children shelters in bronx (08/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1147.0,
-    "prompt": "total number in adult family shelters in bronx (01/31/2020)",
+    "prompt": "total number of persons in adult family shelters in queens (08/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1148.0,
-    "prompt": "number in family with children shelters in bronx (09/30/2022)",
+    "prompt": "number of persons in family with children shelters in bronx (09/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1149.0,
-    "prompt": "total number in adult shelters in queens (09/30/2021)",
+    "prompt": "total number of persons in adult shelters in queens (09/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1150.0,
-    "prompt": "total number in adult family shelters in manhattan (08/31/2019)",
+    "prompt": "total number of persons in adult family shelters in manhattan (08/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1152.0,
-    "prompt": "number in family with children shelters in bronx (10/31/2022)",
+    "prompt": "number of persons in family with children shelters in bronx (10/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1153.0,
-    "prompt": "total number in adult family shelters in manhattan (01/31/2019)",
+    "prompt": "total number of persons in adult family shelters in manhattan (01/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1154.0,
-    "prompt": "number in family with children shelters in bronx (11/30/2022)",
+    "prompt": "number of persons in family with children shelters in bronx (11/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3667,37 +3667,37 @@
   },
   {
     "clockTime": 1157.0,
-    "prompt": "number in family with children shelters in bronx (05/31/2022)",
+    "prompt": "number of persons in family with children shelters in bronx (05/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1158.0,
-    "prompt": "number in family with children shelters in bronx (02/29/2020)",
+    "prompt": "number of persons in family with children shelters in bronx (02/29/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1200.0,
-    "prompt": "square feet of sidewalk at community garden id m350-gt001",
+    "prompt": "square feet of sidewalk at community garden id b454-gt001",
     "datasource": "GreenThumb Site Visits",
     "department": "Department of Parks and Recreation (DPR)"
   },
   {
     "clockTime": 1201.0,
-    "prompt": "number in adult shelters in manhattan (08/31/2022)",
+    "prompt": "number of persons in adult shelters in manhattan (08/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1202.0,
-    "prompt": "number in family with children shelters in bronx (10/31/2020)",
+    "prompt": "number of persons in family with children shelters in bronx (10/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1204.0,
-    "prompt": "number in family with children shelters in bronx (11/30/2020)",
+    "prompt": "number of persons in family with children shelters in bronx (11/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3709,37 +3709,37 @@
   },
   {
     "clockTime": 1206.0,
-    "prompt": "number in family with children shelters in bronx (07/31/2018)",
+    "prompt": "number of persons in family with children shelters in bronx (07/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1208.0,
-    "prompt": "number in adult shelters in manhattan (04/30/2022)",
+    "prompt": "number of persons in adult shelters in manhattan (04/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1210.0,
-    "prompt": "number in family with children shelters in bronx (07/31/2022)",
+    "prompt": "number of persons in family with children shelters in bronx (07/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1211.0,
-    "prompt": "number in family with children shelters in bronx (10/31/2023)",
+    "prompt": "number of persons in family with children shelters in bronx (12/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1213.0,
-    "prompt": "total number in adult family shelters in manhattan (06/30/2019)",
+    "prompt": "total number of persons in adult family shelters in manhattan (06/30/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1215.0,
-    "prompt": "number in adult shelter commercial hotels in queens (05/31/2023)",
+    "prompt": "total number of persons in adult family shelters in manhattan (11/30/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3751,7 +3751,7 @@
   },
   {
     "clockTime": 1217.0,
-    "prompt": "number in family with children shelters in bronx (04/30/2022)",
+    "prompt": "number of persons in family with children shelters in bronx (04/30/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3763,13 +3763,13 @@
   },
   {
     "clockTime": 1220.0,
-    "prompt": "number in family with children shelters in bronx (03/31/2023)",
+    "prompt": "number of persons in family with children shelters in bronx (07/31/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1223.0,
-    "prompt": "number in family with children commercial hotels in manhattan (07/31/2023)",
+    "prompt": "number of persons in family with children shelters in bronx (06/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3781,25 +3781,25 @@
   },
   {
     "clockTime": 1226.0,
-    "prompt": "number in family with children shelters in queens (04/30/2021)",
+    "prompt": "number of persons in family with children shelters in queens (04/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1227.0,
-    "prompt": "number in family with children shelters in bronx (07/31/2023)",
+    "prompt": "number of persons in family with children shelters in bronx (07/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1228.0,
-    "prompt": "number in family with children shelters in bronx (09/30/2020)",
+    "prompt": "number of persons in family with children shelters in bronx (09/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1229.0,
-    "prompt": "number in family with children shelters in bronx (04/30/2023)",
+    "prompt": "number of persons in family with children shelters in queens (03/31/2022)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3811,31 +3811,31 @@
   },
   {
     "clockTime": 1231.0,
-    "prompt": "number in family with children shelters in bronx (06/30/2023)",
+    "prompt": "number of persons in family with children shelters in bronx (08/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1232.0,
-    "prompt": "total number in adult family shelters in manhattan (08/31/2018)",
+    "prompt": "total number of persons in adult family shelters in manhattan (08/31/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1233.0,
-    "prompt": "number in family with children shelters in bronx (04/30/2023)",
+    "prompt": "number of persons in family with children shelters in bronx (04/30/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1234.0,
-    "prompt": "number in family with children shelters in bronx (12/31/2019)",
+    "prompt": "number of persons in family with children shelters in bronx (12/31/2019)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1235.0,
-    "prompt": "number in family with children shelters in bronx (06/30/2021)",
+    "prompt": "number of persons in family with children shelters in queens (02/29/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3853,7 +3853,7 @@
   },
   {
     "clockTime": 1238.0,
-    "prompt": "number in family with children shelters in bronx (08/31/2021)",
+    "prompt": "number of persons in family with children shelters in bronx (08/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3865,37 +3865,37 @@
   },
   {
     "clockTime": 1242.0,
-    "prompt": "number in family with children shelters in bronx (04/30/2020)",
+    "prompt": "number of persons in family with children shelters in bronx (02/28/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1243.0,
-    "prompt": "number in family with children shelters in bronx (09/30/2021)",
+    "prompt": "number of persons in family with children shelters in bronx (09/30/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1244.0,
-    "prompt": "total number in adult shelters in queens (04/30/2020)",
+    "prompt": "total number of persons in adult shelters in queens (04/30/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1245.0,
-    "prompt": "number in family with children shelters in bronx (08/31/2023)",
+    "prompt": "number of persons in family with children shelters in bronx (08/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1246.0,
-    "prompt": "number in family with children shelters in bronx (12/31/2018)",
+    "prompt": "number of persons in family with children shelters in bronx (08/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1247.0,
-    "prompt": "number in family with children shelters in bronx (07/31/2023)",
+    "prompt": "number of persons in family with children shelters in bronx (07/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3907,19 +3907,19 @@
   },
   {
     "clockTime": 1251.0,
-    "prompt": "number in family with children shelters in bronx (05/31/2023)",
+    "prompt": "number of persons in family with children shelters in bronx (05/31/2023)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1253.0,
-    "prompt": "number in family with children shelters in bronx (11/30/2018)",
+    "prompt": "number of persons in family with children shelters in bronx (11/30/2018)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
   {
     "clockTime": 1254.0,
-    "prompt": "number in family with children shelters in bronx (11/30/2019)",
+    "prompt": "number of persons in family with children shelters in queens (07/31/2021)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   },
@@ -3937,7 +3937,7 @@
   },
   {
     "clockTime": 1258.0,
-    "prompt": "number in family with children shelters in bronx (02/29/2020)",
+    "prompt": "number of persons in family with children shelters in bronx (02/29/2020)",
     "datasource": "Individual Census by Borough, Community District, and Facility Type",
     "department": "Department of Homeless Services (DHS)"
   }

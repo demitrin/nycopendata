@@ -25,13 +25,13 @@ Example connection string: `postgresql://avimoondra:password@localhost:5432/post
 2. Navigate to the project directory:
 
    ```bash
-   cd nycopendata
+   cd nycopendata/backend
    ```
 
 3. Create a virtual environment:
 
    ```bash
-   python -m venv nycopendata-venv
+   python3 -m venv nycopendata-venv
    ```
 
 4. Activate the virtual environment:
@@ -51,6 +51,7 @@ Example connection string: `postgresql://avimoondra:password@localhost:5432/post
 Activate the virtual environment if it's not already activated:
 
 ```bash
+$ cd backend
 $ source nycopendata-venv/bin/activate
 ```
 

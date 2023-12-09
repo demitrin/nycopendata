@@ -95,9 +95,9 @@ def main():
             selected_records_distribution[record['datasource']] += 1
         print('Distribution of datasets within selected records:', dict(selected_records_distribution))
 
-        with open('./frontend/scripts/realData.json', 'w') as json_file:
+        with open('../frontend/scripts/realData.json', 'w') as json_file:
             json.dump(selected_records, json_file, indent=2, cls=DecimalEncoder)
-        print('Results dumped to ./frontend/realData.json')
+        print('Results dumped in frontend/scripts/realData.json')
 
 if __name__ == "__main__":
     main()
